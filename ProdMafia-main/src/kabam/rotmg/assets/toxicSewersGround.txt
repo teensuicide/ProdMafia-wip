@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroundTypes>
+  <Ground type="0x259a" id="DS Floor Tile">
+    <SameTypeEdgeMode />
+    <RandomTexture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x30</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x31</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x32</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x33</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x34</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x35</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x36</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x37</Index>
+      </Texture>
+    </RandomTexture>
+    <Edge>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x05</Index>
+      </Texture>
+    </Edge>
+    <Corner>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x07</Index>
+      </Texture>
+    </Corner>
+    <InnerCorner>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x06</Index>
+      </Texture>
+    </InnerCorner>
+  </Ground>
+  <Ground type="0x25a2" id="DS Floor Tile M">
+    <RandomTexture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x30</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x31</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x32</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x33</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x34</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x35</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x36</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x37</Index>
+      </Texture>
+    </RandomTexture>
+  </Ground>
+  <Ground type="0x25a3" id="DS Floor Tile TL">
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x20</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x25a4" id="DS Floor Tile T">
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x21</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x25a5" id="DS Floor Tile TR">
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x22</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x25a6" id="DS Floor Tile L">
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x23</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x25a7" id="DS Floor Tile R">
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x25</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x25a8" id="DS Floor Tile BL">
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x26</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x25a9" id="DS Floor Tile B">
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x27</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x25aa" id="DS Floor Tile BR">
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x28</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x259b" id="DS Sludge Tile">
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x1e</Index>
+    </Texture>
+    <Animate dy="-0.5">Flow</Animate>
+    <Speed>0.7</Speed>
+    <Sink />
+    <ConditionEffect duration="0.8">Sick</ConditionEffect>
+    <PersistentOnTile />
+  </Ground>
+  <Ground type="0x259c" id="DS Sludge Tile N">
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x1e</Index>
+    </Texture>
+    <Animate dy="2.5">Flow</Animate>
+    <Speed>0.7</Speed>
+    <Push />
+    <Sink />
+    <ConditionEffect duration="0.8">Sick</ConditionEffect>
+    <PersistentOnTile />
+  </Ground>
+  <Ground type="0x25a1" id="DS Sludge Tile S">
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x1e</Index>
+    </Texture>
+    <Animate dy="-2.5">Flow</Animate>
+    <Speed>0.7</Speed>
+    <Push />
+    <Sink />
+    <ConditionEffect duration="0.8">Sick</ConditionEffect>
+    <PersistentOnTile />
+  </Ground>
+  <Ground type="0x259d" id="DS Sludge Tile E">
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x1e</Index>
+    </Texture>
+    <Animate dx="-2.5">Flow</Animate>
+    <Speed>0.7</Speed>
+    <Push />
+    <Sink />
+    <ConditionEffect duration="0.8">Sick</ConditionEffect>
+    <PersistentOnTile />
+  </Ground>
+  <Ground type="0x259e" id="DS Sludge Tile W">
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x1e</Index>
+    </Texture>
+    <Animate dx="2.5">Flow</Animate>
+    <Speed>0.7</Speed>
+    <Push />
+    <Sink />
+    <ConditionEffect duration="0.8">Sick</ConditionEffect>
+    <PersistentOnTile />
+  </Ground>
+  <Ground type="0x25ab" id="DS Sludge Tile M">
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x1e</Index>
+    </Texture>
+    <Speed>0.7</Speed>
+    <Sink />
+    <ConditionEffect duration="0.8">Sick</ConditionEffect>
+    <PersistentOnTile />
+  </Ground>
+  <Ground type="0x25ac" id="DS Sludge Tile Clean">
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x1e</Index>
+    </Texture>
+    <Animate dy="-0.5">Flow</Animate>
+    <Speed>1.0</Speed>
+    <Sink />
+    <ConditionEffect duration="0.8">Sick</ConditionEffect>
+    <PersistentOnTile />
+  </Ground>
+</GroundTypes>

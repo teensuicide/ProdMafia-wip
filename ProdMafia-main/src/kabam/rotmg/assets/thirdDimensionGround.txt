@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroundTypes>
+  <Ground type="0x3d00" id="tD Square Ether">
+    <DisplayId>Square Ether</DisplayId>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xbc</Index>
+    </Texture>
+    <MinDamage>40</MinDamage>
+    <MaxDamage>40</MaxDamage>
+    <ConditionEffect duration="1">Sick</ConditionEffect>
+    <Animate dx=".33" dy=".33">Flow</Animate>
+    <Sink />
+    <Speed>.5</Speed>
+    <CompositePriority>1</CompositePriority>
+    <Color>0x9de4eb</Color>
+  </Ground>
+  <Ground type="0x3d01" id="tD Cronus Ether">
+    <DisplayId>Cronus Ether</DisplayId>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xbd</Index>
+    </Texture>
+    <MinDamage>50</MinDamage>
+    <MaxDamage>50</MaxDamage>
+    <ConditionEffect duration="1">Sick</ConditionEffect>
+    <Animate dx=".33" dy=".33">Flow</Animate>
+    <Sink />
+    <Speed>.5</Speed>
+    <CompositePriority>1</CompositePriority>
+    <Color>0x5828b0</Color>
+  </Ground>
+  <Ground type="0x3d10" id="tD Gold TL">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x96</Index>
+    </Texture>
+    <Color>0x7258bf</Color>
+  </Ground>
+  <Ground type="0x3d11" id="tD Gold T">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x97</Index>
+    </Texture>
+    <Color>0x7258bf</Color>
+  </Ground>
+  <Ground type="0x3d12" id="tD Gold TR">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x98</Index>
+    </Texture>
+    <Color>0x7258bf</Color>
+  </Ground>
+  <Ground type="0x3d13" id="tD Gold R">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xa8</Index>
+    </Texture>
+    <Color>0x7258bf</Color>
+  </Ground>
+  <Ground type="0x3d14" id="tD Gold BR">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xb8</Index>
+    </Texture>
+    <Color>0x7258bf</Color>
+  </Ground>
+  <Ground type="0x3d15" id="tD Gold B">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xb7</Index>
+    </Texture>
+    <Color>0x7258bf</Color>
+  </Ground>
+  <Ground type="0x3d16" id="tD Gold BL">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xb6</Index>
+    </Texture>
+    <Color>0x7258bf</Color>
+  </Ground>
+  <Ground type="0x3d17" id="tD Gold L">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xa6</Index>
+    </Texture>
+    <Color>0x7258bf</Color>
+  </Ground>
+  <Ground type="0x3d18" id="tD Gold C">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xa7</Index>
+    </Texture>
+    <Color>0x7258bf</Color>
+  </Ground>
+  <Ground type="0x3d19" id="tD Red TL">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x93</Index>
+    </Texture>
+    <Color>0xab32a7</Color>
+  </Ground>
+  <Ground type="0x3d1a" id="tD Red T">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x94</Index>
+    </Texture>
+    <Color>0xab32a7</Color>
+  </Ground>
+  <Ground type="0x3d1b" id="tD Red TR">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x95</Index>
+    </Texture>
+    <Color>0xab32a7</Color>
+  </Ground>
+  <Ground type="0x3d1c" id="tD Red R">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xa5</Index>
+    </Texture>
+    <Color>0xab32a7</Color>
+  </Ground>
+  <Ground type="0x3d1d" id="tD Red BR">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xb5</Index>
+    </Texture>
+    <Color>0xab32a7</Color>
+  </Ground>
+  <Ground type="0x3d1e" id="tD Red B">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xb4</Index>
+    </Texture>
+    <Color>0xab32a7</Color>
+  </Ground>
+  <Ground type="0x3d1f" id="tD Red BL">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xb3</Index>
+    </Texture>
+    <Color>0xab32a7</Color>
+  </Ground>
+  <Ground type="0x3d20" id="tD Red L">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xa3</Index>
+    </Texture>
+    <Color>0xab32a7</Color>
+  </Ground>
+  <Ground type="0x3d21" id="tD Red C">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xa4</Index>
+    </Texture>
+    <Color>0xab32a7</Color>
+  </Ground>
+  <Ground type="0x3d22" id="tD Cyan TL">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x90</Index>
+    </Texture>
+    <Color>0x2e4069</Color>
+  </Ground>
+  <Ground type="0x3d23" id="tD Cyan T">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x91</Index>
+    </Texture>
+    <Color>0x2e4069</Color>
+  </Ground>
+  <Ground type="0x3d2b" id="tD Cyan TR">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x92</Index>
+    </Texture>
+    <Color>0x2e4069</Color>
+  </Ground>
+  <Ground type="0x3d2c" id="tD Cyan R">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xa2</Index>
+    </Texture>
+    <Color>0x2e4069</Color>
+  </Ground>
+  <Ground type="0x3d26" id="tD Cyan BR">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xb2</Index>
+    </Texture>
+    <Color>0x2e4069</Color>
+  </Ground>
+  <Ground type="0x3d27" id="tD Cyan B">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xb1</Index>
+    </Texture>
+    <Color>0x2e4069</Color>
+  </Ground>
+  <Ground type="0x3d28" id="tD Cyan BL">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xb0</Index>
+    </Texture>
+    <Color>0x2e4069</Color>
+  </Ground>
+  <Ground type="0x3d29" id="tD Cyan L">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xa0</Index>
+    </Texture>
+    <Color>0x2e4069</Color>
+  </Ground>
+  <Ground type="0x3d2a" id="tD Cyan C">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xa1</Index>
+    </Texture>
+    <Color>0x2e4069</Color>
+  </Ground>
+  <Ground type="0x3d02" id="tD Tile TL">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x9a</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x3d03" id="tD Tile T">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xaf</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x3d04" id="tD Tile TR">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x9b</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x3d05" id="tD Tile R">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xae</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x3d06" id="tD Tile BR">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xab</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x3d07" id="tD Tile B">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x9e</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x3d08" id="tD Tile BL">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xaa</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x3d09" id="tD Tile L">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x9f</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x3d0a" id="tD Tile TL Corner">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xad</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x3d0b" id="tD Tile TR Corner">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xac</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x3d0c" id="tD Tile BR Corner">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x9c</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x3d0d" id="tD Tile BL Corner">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x9d</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x3d0e" id="tD Tile C">
+    <RandomTexture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xee</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xc6</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xc7</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xc8</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xee</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0x76</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0x77</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0x78</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xee</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0x79</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0x7a</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0x7b</Index>
+      </Texture>
+    </RandomTexture>
+    <Color>0x222645</Color>
+  </Ground>
+  <Ground type="0x2f3e" id="tD Telegraph">
+    <RandomTexture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xdc</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xdd</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xdc</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xde</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xdc</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xdf</Index>
+      </Texture>
+    </RandomTexture>
+  </Ground>
+  <Ground type="0x3d0f" id="tD Cronus Telegraph">
+    <SameTypeEdgeMode />
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xce</Index>
+    </Texture>
+    <Edge>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xcf</Index>
+      </Texture>
+    </Edge>
+    <InnerCorner>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xcc</Index>
+      </Texture>
+    </InnerCorner>
+    <Corner>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xcd</Index>
+      </Texture>
+    </Corner>
+  </Ground>
+  <Ground type="0x4b63" id="tD Tile">
+    <SameTypeEdgeMode />
+    <RandomTexture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xee</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xc6</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xc7</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xc8</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xee</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0x76</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0x77</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0x78</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xee</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0x79</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0x7a</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0x7b</Index>
+      </Texture>
+    </RandomTexture>
+    <Edge>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xef</Index>
+      </Texture>
+    </Edge>
+    <InnerCorner>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xec</Index>
+      </Texture>
+    </InnerCorner>
+    <Corner>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xed</Index>
+      </Texture>
+    </Corner>
+  </Ground>
+  <Ground type="0x4b64" id="tD Void">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xbe</Index>
+    </Texture>
+    <NoWalk />
+  </Ground>
+  <Ground type="0x3d2d" id="tD Void Walk">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xbe</Index>
+    </Texture>
+    <BlendPriority>3</BlendPriority>
+  </Ground>
+  <Ground type="0x3d2e" id="tD Inner Diagonal TL">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x61</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x3d32" id="tD Diagonal T">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xf4</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x3d33" id="tD Diagonal B">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xe5</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x3d34" id="tD Diagonal L">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xf5</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x3d35" id="tD Diagonal R">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xe4</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x3d2f" id="tD Inner Diagonal TR">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x60</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x3d30" id="tD Inner Diagonal BL">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x51</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x3d31" id="tD Inner Diagonal BR">
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x50</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x4b67" id="tD NoWalk">
+    <NoWalk />
+    <SameTypeEdgeMode />
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xfe</Index>
+    </Texture>
+    <Edge>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xff</Index>
+      </Texture>
+    </Edge>
+    <InnerCorner>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xfc</Index>
+      </Texture>
+    </InnerCorner>
+    <Corner>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xfd</Index>
+      </Texture>
+    </Corner>
+  </Ground>
+</GroundTypes>

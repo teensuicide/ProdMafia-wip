@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroundTypes>
+  <Ground type="0x15d" id="PC Sand">
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x4</Index>
+    </Texture>
+    <BlendPriority>5</BlendPriority>
+  </Ground>
+  <Ground type="0x15e" id="PC Water">
+    <Color>0x387197</Color>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x3</Index>
+    </Texture>
+    <Sink />
+    <Speed>.666</Speed>
+    <Animate dx=".2" dy=".05">Wave</Animate>
+    <BlendPriority>10</BlendPriority>
+  </Ground>
+  <Ground type="0x169" id="PC Dark Water">
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x5a</Index>
+    </Texture>
+    <Sink />
+    <NoWalk />
+    <Speed>.666</Speed>
+    <Animate dx=".2" dy=".05">Wave</Animate>
+  </Ground>
+  <Ground type="0x15f" id="PC X 1">
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x5</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x160" id="PC X 2">
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x6</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x161" id="PC X 3">
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x7</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x162" id="PC X 4">
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x8</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x163" id="PC Vertical Wood Edge L">
+    <Color>0x785D4A</Color>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x9</Index>
+    </Texture>
+    <NoBlend />
+  </Ground>
+  <Ground type="0x164" id="PC Vertical Wood">
+    <Color>0x785D4A</Color>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0xa</Index>
+    </Texture>
+    <NoBlend />
+  </Ground>
+  <Ground type="0x165" id="PC Vertical Wood Edge R">
+    <Color>0x785D4A</Color>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0xb</Index>
+    </Texture>
+    <NoBlend />
+  </Ground>
+  <Ground type="0x166" id="PC Horizontal Wood Edge L">
+    <Color>0x785D4A</Color>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0xc</Index>
+    </Texture>
+    <NoBlend />
+  </Ground>
+  <Ground type="0x167" id="PC Horizontal Wood">
+    <Color>0x785D4A</Color>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0xd</Index>
+    </Texture>
+    <NoBlend />
+  </Ground>
+  <Ground type="0x168" id="PC Horizontal Wood Edge R">
+    <Color>0x785D4A</Color>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0xe</Index>
+    </Texture>
+    <NoBlend />
+  </Ground>
+  <Ground type="0x16a" id="PC Vertical Wood Cracked 1">
+    <Color>0x785D4A</Color>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x52</Index>
+    </Texture>
+    <NoBlend />
+  </Ground>
+  <Ground type="0x16b" id="PC Vertical Wood Cracked 2">
+    <Color>0x785D4A</Color>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x53</Index>
+    </Texture>
+    <NoBlend />
+  </Ground>
+  <Ground type="0x16c" id="PC Vertical Wood Cracked 3">
+    <Color>0x785D4A</Color>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x54</Index>
+    </Texture>
+    <NoBlend />
+  </Ground>
+  <Ground type="0x16d" id="PC Vertical Wood Cracked 4">
+    <Color>0x785D4A</Color>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x55</Index>
+    </Texture>
+    <NoBlend />
+  </Ground>
+  <Ground type="0x16e" id="PC Vertical Wood Blood 1">
+    <Color>0x785D4A</Color>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x56</Index>
+    </Texture>
+    <NoBlend />
+  </Ground>
+  <Ground type="0x16f" id="PC Vertical Wood Blood 2">
+    <Color>0x785D4A</Color>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x57</Index>
+    </Texture>
+    <NoBlend />
+  </Ground>
+  <Ground type="0x17a" id="PC Vertical Wood Blood 3">
+    <Color>0x785D4A</Color>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x58</Index>
+    </Texture>
+    <NoBlend />
+  </Ground>
+  <Ground type="0x17b" id="PC Vertical Wood Blood 4">
+    <Color>0x785D4A</Color>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x59</Index>
+    </Texture>
+    <NoBlend />
+  </Ground>
+  <Ground type="0x17c" id="PC Horizontal Wood Cracked 1">
+    <Color>0x785D4A</Color>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x92</Index>
+    </Texture>
+    <NoBlend />
+  </Ground>
+  <Ground type="0x17d" id="PC Horizontal Wood Cracked 2">
+    <Color>0x785D4A</Color>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x93</Index>
+    </Texture>
+    <NoBlend />
+  </Ground>
+  <Ground type="0x17f" id="PC Horizontal Wood Cracked 3">
+    <Color>0x785D4A</Color>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x94</Index>
+    </Texture>
+    <NoBlend />
+  </Ground>
+  <Ground type="0x175" id="PC Horizontal Wood Cracked 4">
+    <Color>0x785D4A</Color>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x95</Index>
+    </Texture>
+    <NoBlend />
+  </Ground>
+  <Ground type="0x176" id="PC Horizontal Wood Blood 1">
+    <Color>0x785D4A</Color>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x96</Index>
+    </Texture>
+    <NoBlend />
+  </Ground>
+  <Ground type="0x177" id="PC Horizontal Wood Blood 2">
+    <Color>0x785D4A</Color>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x97</Index>
+    </Texture>
+    <NoBlend />
+  </Ground>
+  <Ground type="0x178" id="PC Horizontal Wood Blood 3">
+    <Color>0x785D4A</Color>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x98</Index>
+    </Texture>
+    <NoBlend />
+  </Ground>
+  <Ground type="0x179" id="PC Horizontal Wood Blood 4">
+    <Color>0x785D4A</Color>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x99</Index>
+    </Texture>
+    <NoBlend />
+  </Ground>
+  <Ground type="0x17e" id="PC King Carpet">
+    <SameTypeEdgeMode />
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x23</Index>
+    </Texture>
+    <Edge>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x22</Index>
+      </Texture>
+    </Edge>
+    <Corner>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x21</Index>
+      </Texture>
+    </Corner>
+    <InnerCorner>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x20</Index>
+      </Texture>
+    </InnerCorner>
+    <BlendPriority>10</BlendPriority>
+  </Ground>
+  <Ground type="0x180" id="PC Dark Vertical Wood">
+    <Color>0x3F3035</Color>
+    <NoBlend />
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x10</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x181" id="PC Dark Vertical Wood Cracked 1">
+    <Color>0x3F3035</Color>
+    <NoBlend />
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x11</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x182" id="PC Dark Vertical Wood Cracked 2">
+    <Color>0x3F3035</Color>
+    <NoBlend />
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x12</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x183" id="PC Bright Water">
+    <Color>0x387197</Color>
+    <BlendPriority>6</BlendPriority>
+    <Sink />
+    <Speed>.666</Speed>
+    <Animate dx=".2" dy=".05">Wave</Animate>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x9e</Index>
+    </Texture>
+  </Ground>
+  <Ground type="0x184" id="PC Sand Alt">
+    <RandomTexture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x5b</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x5c</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x5d</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x5e</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x5f</Index>
+      </Texture>
+    </RandomTexture>
+    <BlendPriority>5</BlendPriority>
+    <Color>0xA38B6F</Color>
+  </Ground>
+</GroundTypes>

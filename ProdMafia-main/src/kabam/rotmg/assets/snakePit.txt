@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object type="0x1731" id="Stheno Summoner">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x0e28" id="Snakepit Guard Spawner">
+    <Class>GameObject</Class>
+    <AnimatedTexture>
+      <File>spiderDenChars16x16</File>
+      <Index>4</Index>
+    </AnimatedTexture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x0e27" id="Snakepit Button">
+    <Class>Character</Class>
+    <NoMiniMap />
+    <DrawOnGround />
+    <Texture>
+      <File>spiderDenObjects8x8</File>
+      <Index>0x94</Index>
+    </Texture>
+    <AltTexture id="1">
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x95</Index>
+      </Texture>
+    </AltTexture>
+    <Size>100</Size>
+    <ShadowSize>0</ShadowSize>
+    <Sound id="0">weapon/poor_quality_bow</Sound>
+  </Object>
+  <Object type="0x0e26" id="Snakepit Guard">
+    <Class>Character</Class>
+    <Enemy />
+    <AnimatedTexture>
+      <File>spiderDenChars16x16</File>
+      <Index>4</Index>
+    </AnimatedTexture>
+    <HitSound>monster/greater_pit_snakes_death</HitSound>
+    <DeathSound>monster/scorpions_death</DeathSound>
+    <Size>0</Size>
+    <MaxHitPoints>7500</MaxHitPoints>
+    <Defense>20</Defense>
+    <Exp>2000</Exp>
+    <TrackLoot />
+    <ParalyzeImmune />
+    <SlowImmune />
+    <DontFaceAttacks />
+    <Projectile id="0">
+      <ObjectId>Snake Spit</ObjectId>
+      <Speed>60</Speed>
+      <Damage>65</Damage>
+      <LifetimeMS>2000</LifetimeMS>
+      <Size>100</Size>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Snake Spinner</ObjectId>
+      <Speed>50</Speed>
+      <Damage>55</Damage>
+      <LifetimeMS>2000</LifetimeMS>
+      <Size>100</Size>
+      <ConditionEffect duration="2">Dazed</ConditionEffect>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Snake Ball Spinner</ObjectId>
+      <Speed>35</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>3000</LifetimeMS>
+      <Size>150</Size>
+      <ConditionEffect duration="4">Dazed</ConditionEffect>
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>Snake Spinner</ObjectId>
+      <Speed>85</Speed>
+      <Damage>55</Damage>
+      <LifetimeMS>4000</LifetimeMS>
+      <Size>100</Size>
+      <ConditionEffect duration="2">Dazed</ConditionEffect>
+    </Projectile>
+    <HealthBarBoss radius="20" />
+    <KillStat stat="BeastKills" />
+    <KillStat stat="GodKills" />
+    <DamageBasedXP />
+  </Object>
+  <Object type="0x0e25" id="Snakepit Dart Thrower">
+    <DisplayId>Snakepit Dart Thrower</DisplayId>
+    <Class>Character</Class>
+    <Enemy />
+    <NoMiniMap />
+    <AnimatedTexture>
+      <File>theGoldenArcher</File>
+      <Index>4</Index>
+    </AnimatedTexture>
+    <Exp>0</Exp>
+    <Size>80</Size>
+    <ShadowSize>0</ShadowSize>
+    <Invincible />
+    <Z>0.2</Z>
+    <Flying />
+    <Projectile>
+      <ObjectId>Snakepit Dart</ObjectId>
+      <Speed>50</Speed>
+      <Damage>40</Damage>
+      <LifetimeMS>3000</LifetimeMS>
+      <Size>100</Size>
+      <ConditionEffect duration="4">Bleeding</ConditionEffect>
+    </Projectile>
+  </Object>
+  <Object type="0x3758" id="Snakepit Dart Thrower 2">
+    <DisplayId>Snakepit Dart Thrower</DisplayId>
+    <Class>Character</Class>
+    <Enemy />
+    <NoMiniMap />
+    <AnimatedTexture>
+      <File>theGoldenArcher</File>
+      <Index>4</Index>
+    </AnimatedTexture>
+    <AltTexture id="1">
+      <AnimatedTexture>
+        <File>theGoldenArcher</File>
+        <Index>5</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <Exp>0</Exp>
+    <Size>80</Size>
+    <ShadowSize>0</ShadowSize>
+    <Invincible />
+    <Z>0.2</Z>
+    <Flying />
+    <Projectile>
+      <ObjectId>Snakepit Dart</ObjectId>
+      <Speed>50</Speed>
+      <Damage>40</Damage>
+      <LifetimeMS>3000</LifetimeMS>
+      <Size>100</Size>
+      <ConditionEffect duration="4">Bleeding</ConditionEffect>
+    </Projectile>
+  </Object>
+  <Object type="0x0917" id="Stheno the Snake Queen">
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>spiderDenChars16x16</File>
+      <Index>1</Index>
+    </AnimatedTexture>
+    <HitSound>monster/snake_queen_hit</HitSound>
+    <DeathSound>monster/snake_queen_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>9000</MaxHitPoints>
+    <Defense>19</Defense>
+    <Enemy />
+    <God />
+    <StasisImmune />
+    <Quest />
+    <Exp>3000</Exp>
+    <NoArticle />
+    <EventChestBoss />
+    <TrackLoot />
+    <Projectile id="0">
+      <ObjectId>Stheno Dagger</ObjectId>
+      <Speed>70</Speed>
+      <Damage>90</Damage>
+      <Size>100</Size>
+      <LifetimeMS>1500</LifetimeMS>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Stheno Eyes</ObjectId>
+      <Speed>55</Speed>
+      <Damage>45</Damage>
+      <Size>60</Size>
+      <LifetimeMS>2000</LifetimeMS>
+      <ConditionEffect duration="1">Blind</ConditionEffect>
+      <MultiHit />
+    </Projectile>
+    <HealthBarBoss radius="30" />
+    <KillStat stat="BeastKills" />
+    <KillStat stat="GodKills" />
+    <DamageBasedXP />
+  </Object>
+  <Object type="0x0918" id="Stheno Pet">
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>spiderDenChars16x16</File>
+      <Index>5</Index>
+    </AnimatedTexture>
+    <HitSound>monster/snakes_hit</HitSound>
+    <DeathSound>monster/snakes_death</DeathSound>
+    <Size>70</Size>
+    <MaxHitPoints>1000</MaxHitPoints>
+    <Defense>7</Defense>
+    <Enemy />
+    <Exp>0</Exp>
+    <TrackLoot />
+    <Projectile id="0">
+      <ObjectId>Snake Eyes</ObjectId>
+      <Speed>5</Speed>
+      <LifetimeMS>900</LifetimeMS>
+      <Damage>65</Damage>
+      <Size>80</Size>
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+      <MultiHit />
+    </Projectile>
+    <KillStat stat="CritterKills" />
+  </Object>
+  <Object type="0x0919" id="Stheno Swarm">
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>spiderDenChars8x8</File>
+      <Index>10</Index>
+    </AnimatedTexture>
+    <HitSound>monster/snakes_hit</HitSound>
+    <DeathSound>monster/snakes_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>400</MaxHitPoints>
+    <Defense>4</Defense>
+    <Enemy />
+    <Exp>0</Exp>
+    <Projectile id="0">
+      <ObjectId>Snake Bite</ObjectId>
+      <Speed>80</Speed>
+      <Damage>40</Damage>
+      <Size>70</Size>
+      <LifetimeMS>600</LifetimeMS>
+      <MultiHit />
+    </Projectile>
+    <KillStat stat="CritterKills" />
+  </Object>
+  <Object type="0x3757" id="SP Snake Grate">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x6a</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x6b</Index>
+      </Texture>
+    </RandomTexture>
+    <Size>0</Size>
+    <NoMiniMap />
+  </Object>
+  <Object type="0x0223" id="Pit Snake">
+    <Group>Pit Snakes</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>spiderDenChars8x8</File>
+      <Index>5</Index>
+    </AnimatedTexture>
+    <HitSound>monster/pit_snakes_hit</HitSound>
+    <DeathSound>monster/pit_snakes_death</DeathSound>
+    <Size>1</Size>
+    <MaxHitPoints>5</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>5</Exp>
+    <Projectile>
+      <ObjectId>Green Spider Venom</ObjectId>
+      <Speed>60</Speed>
+      <Damage>10</Damage>
+      <LifetimeMS>2000</LifetimeMS>
+      <Size>80</Size>
+    </Projectile>
+    <KillStat stat="CritterKills" />
+  </Object>
+  <Object type="0x0224" id="Pit Viper">
+    <Group>Pit Snakes</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>spiderDenChars8x8</File>
+      <Index>6</Index>
+    </AnimatedTexture>
+    <HitSound>monster/pit_snakes_hit</HitSound>
+    <DeathSound>monster/pit_snakes_death</DeathSound>
+    <Size>1</Size>
+    <MaxHitPoints>5</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>5</Exp>
+    <Projectile>
+      <ObjectId>Purple Spider Venom</ObjectId>
+      <Speed>50</Speed>
+      <Damage>20</Damage>
+      <LifetimeMS>2000</LifetimeMS>
+      <Size>80</Size>
+    </Projectile>
+    <KillStat stat="CritterKills" />
+  </Object>
+  <Object type="0x0225" id="Fire Python">
+    <Group>Pythons</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>spiderDenChars8x8</File>
+      <Index>7</Index>
+    </AnimatedTexture>
+    <HitSound>monster/pythons_hit</HitSound>
+    <DeathSound>monster/pythons_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>200</MaxHitPoints>
+    <Defense>5</Defense>
+    <Exp>70</Exp>
+    <Projectile>
+      <ObjectId>Red Spider Venom</ObjectId>
+      <Speed>65</Speed>
+      <Damage>35</Damage>
+      <LifetimeMS>2000</LifetimeMS>
+      <Wavy />
+    </Projectile>
+    <KillStat stat="CritterKills" />
+  </Object>
+  <Object type="0x0226" id="Brown Python">
+    <Group>Pythons</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>spiderDenChars8x8</File>
+      <Index>8</Index>
+    </AnimatedTexture>
+    <HitSound>monster/pythons_hit</HitSound>
+    <DeathSound>monster/pythons_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>200</MaxHitPoints>
+    <Defense>20</Defense>
+    <Exp>70</Exp>
+    <Projectile>
+      <ObjectId>Blue Spider Venom</ObjectId>
+      <Speed>70</Speed>
+      <Damage>30</Damage>
+      <LifetimeMS>900</LifetimeMS>
+    </Projectile>
+    <KillStat stat="CritterKills" />
+  </Object>
+  <Object type="0x0227" id="Yellow Python">
+    <Group>Pythons</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>spiderDenChars8x8</File>
+      <Index>9</Index>
+    </AnimatedTexture>
+    <HitSound>monster/pythons_hit</HitSound>
+    <DeathSound>monster/pythons_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>200</MaxHitPoints>
+    <Defense>5</Defense>
+    <Exp>70</Exp>
+    <Projectile>
+      <ObjectId>Yellow Spider Venom</ObjectId>
+      <Speed>85</Speed>
+      <Damage>35</Damage>
+      <LifetimeMS>1500</LifetimeMS>
+    </Projectile>
+    <KillStat stat="CritterKills" />
+  </Object>
+  <Object type="0x0228" id="Greater Pit Snake">
+    <Group>Greater Pit Snakes</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>spiderDenChars16x16</File>
+      <Index>2</Index>
+    </AnimatedTexture>
+    <HitSound>monster/greater_pit_snakes_hit</HitSound>
+    <DeathSound>monster/greater_pit_snakes_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>500</MaxHitPoints>
+    <Defense>10</Defense>
+    <Exp>250</Exp>
+    <Projectile>
+      <ObjectId>Green Spider Venom</ObjectId>
+      <Speed>80</Speed>
+      <Damage>45</Damage>
+      <LifetimeMS>3000</LifetimeMS>
+      <Size>140</Size>
+    </Projectile>
+    <KillStat stat="CritterKills" />
+    <KillStat stat="LesserGodKills" />
+  </Object>
+  <Object type="0x0229" id="Greater Pit Viper">
+    <Group>Greater Pit Snakes</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>spiderDenChars16x16</File>
+      <Index>3</Index>
+    </AnimatedTexture>
+    <HitSound>monster/greater_pit_snakes_hit</HitSound>
+    <DeathSound>monster/greater_pit_snakes_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>500</MaxHitPoints>
+    <Defense>10</Defense>
+    <Exp>250</Exp>
+    <Projectile id="0">
+      <ObjectId>Purple Spider Venom</ObjectId>
+      <Speed>60</Speed>
+      <Damage>70</Damage>
+      <LifetimeMS>3000</LifetimeMS>
+      <Size>130</Size>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Purple Spider Venom</ObjectId>
+      <Speed>70</Speed>
+      <Damage>50</Damage>
+      <LifetimeMS>3000</LifetimeMS>
+      <Size>110</Size>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Purple Spider Venom</ObjectId>
+      <Speed>80</Speed>
+      <Damage>40</Damage>
+      <LifetimeMS>3000</LifetimeMS>
+      <Size>100</Size>
+    </Projectile>
+    <KillStat stat="CritterKills" />
+    <KillStat stat="LesserGodKills" />
+  </Object>
+  <Object type="0x374d" id="SP Bust">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x01</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x02</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x03</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x01</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x04</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x02</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x03</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x05</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x01</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x06</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x02</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x03</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x01</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x02</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x07</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x03</Index>
+      </Texture>
+    </RandomTexture>
+    <OccupySquare />
+    <Size>100</Size>
+    <Static />
+    <NoMiniMap />
+  </Object>
+  <Object type="0x3753" id="SP Foliage">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x70</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x71</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x72</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x73</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x74</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x75</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x76</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x77</Index>
+      </Texture>
+    </RandomTexture>
+    <MinSize>70</MinSize>
+    <MaxSize>100</MaxSize>
+    <SizeStep>5</SizeStep>
+    <Static />
+    <NoMiniMap />
+  </Object>
+  <Object type="0x3754" id="SP Jar">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x6c</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x6d</Index>
+      </Texture>
+    </RandomTexture>
+    <MinSize>80</MinSize>
+    <MaxSize>100</MaxSize>
+    <SizeStep>5</SizeStep>
+    <Static />
+    <NoMiniMap />
+  </Object>
+  <Object type="0x3755" id="SP Mound">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x80</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x81</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x9d</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x9e</Index>
+      </Texture>
+    </RandomTexture>
+    <MinSize>70</MinSize>
+    <MaxSize>90</MaxSize>
+    <SizeStep>5</SizeStep>
+    <Static />
+    <NoMiniMap />
+  </Object>
+  <Object type="0x374e" id="SP Wall Path">
+    <Class>Wall</Class>
+    <RandomTexture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x57</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x58</Index>
+      </Texture>
+    </RandomTexture>
+    <Top>
+      <RandomTexture>
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0x56</Index>
+        </Texture>
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0x84</Index>
+        </Texture>
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0x85</Index>
+        </Texture>
+      </RandomTexture>
+    </Top>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+    <Color>0x8E582B</Color>
+  </Object>
+  <Object type="0x374f" id="SP Wall End">
+    <Class>Wall</Class>
+    <Texture>
+      <File>spiderDenObjects8x8</File>
+      <Index>0x59</Index>
+    </Texture>
+    <Top>
+      <RandomTexture>
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0x56</Index>
+        </Texture>
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0x84</Index>
+        </Texture>
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0x85</Index>
+        </Texture>
+      </RandomTexture>
+    </Top>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+    <Color>0x8E582B</Color>
+  </Object>
+  <Object type="0x3750" id="SP Wall Plain">
+    <Class>Wall</Class>
+    <RandomTexture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x5e</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x5f</Index>
+      </Texture>
+    </RandomTexture>
+    <Top>
+      <RandomTexture>
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0x56</Index>
+        </Texture>
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0x84</Index>
+        </Texture>
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0x85</Index>
+        </Texture>
+      </RandomTexture>
+    </Top>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+    <Color>0x8E582B</Color>
+  </Object>
+  <Object type="0x3751" id="SP Wall Decor">
+    <Class>Wall</Class>
+    <RandomTexture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x5a</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x5b</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x5c</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x5d</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x6e</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x6f</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x7c</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x7d</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x7e</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x7f</Index>
+      </Texture>
+    </RandomTexture>
+    <Top>
+      <RandomTexture>
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0x56</Index>
+        </Texture>
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0x84</Index>
+        </Texture>
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0x85</Index>
+        </Texture>
+      </RandomTexture>
+    </Top>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+    <Color>0x8E582B</Color>
+  </Object>
+  <Object type="0x3752" id="SP Wall Candles">
+    <Class>Wall</Class>
+    <Texture>
+      <File>spiderDenObjects8x8</File>
+      <Index>0x78</Index>
+    </Texture>
+    <Animation prob="1" period="0">
+      <Frame time="0.2">
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0x78</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0x79</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0x7a</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0x7b</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Top>
+      <RandomTexture>
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0x56</Index>
+        </Texture>
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0x84</Index>
+        </Texture>
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0x85</Index>
+        </Texture>
+      </RandomTexture>
+    </Top>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+    <Color>0x8E582B</Color>
+  </Object>
+  <Object type="0x3756" id="SP Destructible Wall">
+    <Class>Wall</Class>
+    <Texture>
+      <File>spiderDenObjects8x8</File>
+      <Index>0x83</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x82</Index>
+      </Texture>
+    </Top>
+    <HitSound>monster/stone_walls_hit</HitSound>
+    <DeathSound>monster/stone_walls_death</DeathSound>
+    <MaxHitPoints>100</MaxHitPoints>
+    <NoMiniMap />
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <Enemy />
+    <Exp>0</Exp>
+    <BlocksSight />
+    <Color>0x5D3719</Color>
+    <KillStat stat="StructureKills" />
+  </Object>
+  <Object type="0x375a" id="Brown Pillar">
+    <Class>GameObject</Class>
+    <Model>Pillar</Model>
+    <Texture>
+      <File>spiderDenObjects8x8</File>
+      <Index>0xad</Index>
+    </Texture>
+    <Static />
+    <OccupySquare />
+    <EnemyOccupySquare />
+  </Object>
+  <Object type="0x375b" id="Broken Brown Pillar">
+    <Class>GameObject</Class>
+    <Model>Broken Pillar</Model>
+    <Texture>
+      <File>spiderDenObjects8x8</File>
+      <Index>0xad</Index>
+    </Texture>
+    <Static />
+    <OccupySquare />
+    <EnemyOccupySquare />
+  </Object>
+</Objects>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroundTypes>
+  <Ground type="0x623c" id="HTT Lab Vat Green">
+    <SameTypeEdgeMode />
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x45</Index>
+    </Texture>
+    <Edge>
+      <Texture>
+        <File>highTechTerrorObjects8x8</File>
+        <Index>0x44</Index>
+      </Texture>
+    </Edge>
+    <InnerCorner>
+      <Texture>
+        <File>highTechTerrorObjects8x8</File>
+        <Index>0x43</Index>
+      </Texture>
+    </InnerCorner>
+    <Sink />
+    <Speed>.67</Speed>
+    <ConditionEffect duration="0">Stunned</ConditionEffect>
+    <ConditionEffect duration="0">Speedy</ConditionEffect>
+    <ConditionEffect duration="0">Hexed</ConditionEffect>
+  </Ground>
+  <Ground type="0x10cb" id="HTT Lab Vat Transition 1">
+    <SameTypeEdgeMode />
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x52</Index>
+    </Texture>
+    <Edge>
+      <Texture>
+        <File>highTechTerrorObjects8x8</File>
+        <Index>0x51</Index>
+      </Texture>
+    </Edge>
+    <InnerCorner>
+      <Texture>
+        <File>highTechTerrorObjects8x8</File>
+        <Index>0x50</Index>
+      </Texture>
+    </InnerCorner>
+    <Sink />
+    <Speed>.67</Speed>
+  </Ground>
+  <Ground type="0x10cc" id="HTT Lab Vat Transition 2">
+    <SameTypeEdgeMode />
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x42</Index>
+    </Texture>
+    <Edge>
+      <Texture>
+        <File>highTechTerrorObjects8x8</File>
+        <Index>0x41</Index>
+      </Texture>
+    </Edge>
+    <InnerCorner>
+      <Texture>
+        <File>highTechTerrorObjects8x8</File>
+        <Index>0x40</Index>
+      </Texture>
+    </InnerCorner>
+    <Sink />
+    <Speed>.67</Speed>
+  </Ground>
+  <Ground type="0x7522" id="HTT Lab Vat Blue">
+    <SameTypeEdgeMode />
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x55</Index>
+    </Texture>
+    <Edge>
+      <Texture>
+        <File>highTechTerrorObjects8x8</File>
+        <Index>0x54</Index>
+      </Texture>
+    </Edge>
+    <InnerCorner>
+      <Texture>
+        <File>highTechTerrorObjects8x8</File>
+        <Index>0x53</Index>
+      </Texture>
+    </InnerCorner>
+    <Sink />
+    <Speed>.67</Speed>
+    <RemoveConditionEffect>Stunned</RemoveConditionEffect>
+    <RemoveConditionEffect>Speedy</RemoveConditionEffect>
+    <RemoveConditionEffect>Hexed</RemoveConditionEffect>
+  </Ground>
+  <Ground type="0x7523" id="HTT Lab Vat Green Covered">
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x45</Index>
+    </Texture>
+    <Sink />
+    <NoBlend />
+    <Color>0x3F7F3F</Color>
+  </Ground>
+</GroundTypes>

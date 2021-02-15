@@ -1,0 +1,97 @@
+<Exaltation>
+    <ExaltationTypes>
+        <Class>782,801,803</Class>
+        <Name>Staves</Name>
+        <AltName>Stave</AltName>
+    </ExaltationTypes>
+    <ExaltationTypes>
+        <Class>768,800,804</Class>
+        <Name>Daggers</Name>
+        <AltName>Dagger</AltName>
+    </ExaltationTypes>
+    <ExaltationTypes>
+        <Class>775,802,796</Class>
+        <Name>Bows</Name>
+        <AltName>Bow</AltName>
+    </ExaltationTypes>
+    <ExaltationTypes>
+        <Class>784,805</Class>
+        <Name>Wands</Name>
+        <AltName>Wand</AltName>
+    </ExaltationTypes>
+    <ExaltationTypes>
+        <Class>797,798,799</Class>
+        <Name>Swords</Name>
+        <AltName>Sword</AltName>
+    </ExaltationTypes>
+    <ExaltationTypes>
+        <Class>806,785</Class>
+        <Name>Katanas</Name>
+        <AltName>Katana</AltName>
+    </ExaltationTypes>
+    <InCombatTypes>
+        <Class>782,784,801,803,805,796</Class>
+        <Name>Robes</Name>
+        <AltName>Robe-armored</AltName>
+    </InCombatTypes>
+    <InCombatTypes>
+        <Class>768,775,800,802,804,806</Class>
+        <Name>Leather</Name>
+        <AltName>Leather-armored</AltName>
+    </InCombatTypes>
+    <InCombatTypes>
+        <Class>797,798,799,785</Class>
+        <Name>Heavy</Name>
+        <AltName>Heavy-armored</AltName>
+    </InCombatTypes>
+    <Dungeons>
+        <Dungeon>
+            <Name>The Shatters</Name>
+            <PowerUp>ATT</PowerUp>
+            <IconFile>lofiObj2</IconFile>
+            <IconIndex>0x34</IconIndex>
+        </Dungeon>
+        <Dungeon>
+            <Name>Lost Halls</Name>
+            <PowerUp>DEF</PowerUp>
+            <IconFile>lofiObj2</IconFile>
+            <IconIndex>0x35</IconIndex>
+        </Dungeon>
+        <Dungeon>
+            <Name>Cultist Hideout</Name>
+            <PowerUp>SPD</PowerUp>
+            <IconFile>lofiObj2</IconFile>
+            <IconIndex>0x36</IconIndex>
+        </Dungeon>
+        <Dungeon>
+            <Name>The Nest</Name>
+            <PowerUp>DEX</PowerUp>
+            <IconFile>lofiObj2</IconFile>
+            <IconIndex>0x37</IconIndex>
+        </Dungeon>
+        <Dungeon>
+            <Name>Crystal Cavern</Name>
+            <PowerUp>VIT</PowerUp>
+            <IconFile>lofiObj2</IconFile>
+            <IconIndex>0x30</IconIndex>
+        </Dungeon>
+        <Dungeon>
+            <Name>Fungal Cavern</Name>
+            <PowerUp>WIS</PowerUp>
+            <IconFile>lofiObj2</IconFile>
+            <IconIndex>0x31</IconIndex>
+        </Dungeon>
+        <Dungeon>
+            <Name>Oryx's Sanctuary</Name>
+            <PowerUp>LIFE</PowerUp>
+            <IconFile>lofiObj2</IconFile>
+            <IconIndex>0x26</IconIndex>
+        </Dungeon>
+        <Dungeon>
+            <Name>The Void</Name>
+            <PowerUp>MANA</PowerUp>
+            <IconFile>lofiObj2</IconFile>
+            <IconIndex>0x27</IconIndex>
+        </Dungeon>
+    </Dungeons>
+</Exaltation>

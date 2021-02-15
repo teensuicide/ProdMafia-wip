@@ -1,0 +1,1864 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object type="0xb547" id="DS Brown Slimeball">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x6d</Index>
+    </Texture>
+  </Object>
+  <Object type="0xb548" id="DS Yellow Slimeball">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x6e</Index>
+    </Texture>
+  </Object>
+  <Object type="0xb549" id="DS Green Slimeball">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x6f</Index>
+    </Texture>
+  </Object>
+  <Object type="0xb54a" id="DS Green Magic">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x70</Index>
+    </Texture>
+  </Object>
+  <Object type="0xb54b" id="DS Blue Magic">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x71</Index>
+    </Texture>
+  </Object>
+  <Object type="0xb54c" id="DS Void Slash">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x72</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0xb54d" id="DS White Shuriken">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x73</Index>
+    </Texture>
+    <Rotation>100</Rotation>
+  </Object>
+  <Object type="0x714c" id="DS Bat">
+    <DisplayId>Sewer Bat</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars8x8</File>
+      <Index>13</Index>
+    </AnimatedTexture>
+    <HitSound>monster/bats_hit</HitSound>
+    <DeathSound>monster/bats_death</DeathSound>
+    <Size>80</Size>
+    <ShadowSize>80</ShadowSize>
+    <MaxHitPoints>500</MaxHitPoints>
+    <Defense>10</Defense>
+    <Exp>40</Exp>
+    <Flying />
+    <Z>0.24</Z>
+    <Projectile id="0">
+      <ObjectId>UDL Orange Magic</ObjectId>
+      <Damage>60</Damage>
+      <Speed>85</Speed>
+      <LifetimeMS>800</LifetimeMS>
+      <ConditionEffect duration="3">Sick</ConditionEffect>
+    </Projectile>
+    <KillStat stat="CritterKills" />
+  </Object>
+  <Object type="0x714d" id="DS Rat">
+    <DisplayId>Sewer Rat</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars8x8</File>
+      <Index>6</Index>
+    </AnimatedTexture>
+    <HitSound>monster/bats_hit</HitSound>
+    <DeathSound>monster/flayers_hit</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>800</MaxHitPoints>
+    <Defense>10</Defense>
+    <Exp>80</Exp>
+    <Projectile id="0">
+      <ObjectId>DS White Shuriken</ObjectId>
+      <Damage>90</Damage>
+      <Speed>85</Speed>
+      <Size>80</Size>
+      <LifetimeMS>1200</LifetimeMS>
+    </Projectile>
+    <KillStat stat="CritterKills" />
+  </Object>
+  <Object type="0x714e" id="DS Natural Slime God">
+    <Enemy />
+    <Class>Character</Class>
+    <DisplayId>Natural Slime God</DisplayId>
+    <AnimatedTexture>
+      <File>toxicSewersChars16x16</File>
+      <Index>0</Index>
+    </AnimatedTexture>
+    <HitSound>monster/slimes_hit</HitSound>
+    <DeathSound>monster/slimes_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>1000</MaxHitPoints>
+    <Defense>12</Defense>
+    <Exp>250</Exp>
+    <God />
+    <Projectile id="0">
+      <ObjectId>Slime God Sludge</ObjectId>
+      <Damage>80</Damage>
+      <Speed>100</Speed>
+      <LifetimeMS>1100</LifetimeMS>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Sharp Green Star</ObjectId>
+      <Damage>0</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <ConditionEffect duration="3">Slowed</ConditionEffect>
+    </Projectile>
+    <KillStat stat="NatureKills" />
+  </Object>
+  <Object type="0x714f" id="DS Goblin Peon">
+    <DisplayId>Goblin Peon</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars8x8</File>
+      <Index>0</Index>
+    </AnimatedTexture>
+    <HitSound>monster/goblins_hit</HitSound>
+    <DeathSound>monster/goblins_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>900</MaxHitPoints>
+    <Defense>10</Defense>
+    <Exp>120</Exp>
+    <Projectile id="0">
+      <ObjectId>Green Magic</ObjectId>
+      <Damage>35</Damage>
+      <Speed>85</Speed>
+      <LifetimeMS>750</LifetimeMS>
+      <ArmorPiercing />
+    </Projectile>
+    <KillStat stat="GrotesqueKills" />
+  </Object>
+  <Object type="0x7150" id="DS Goblin Warlock">
+    <DisplayId>Goblin Warlock</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars8x8</File>
+      <Index>3</Index>
+    </AnimatedTexture>
+    <HitSound>monster/goblins_hit</HitSound>
+    <DeathSound>monster/goblins_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>800</MaxHitPoints>
+    <Defense>8</Defense>
+    <Exp>120</Exp>
+    <Projectile id="0">
+      <ObjectId>DS Green Magic</ObjectId>
+      <Damage>70</Damage>
+      <Speed>30</Speed>
+      <Acceleration>110</Acceleration>
+      <AccelerationDelay>600</AccelerationDelay>
+      <SpeedClamp>110</SpeedClamp>
+      <LifetimeMS>2000</LifetimeMS>
+    </Projectile>
+    <KillStat stat="GrotesqueKills" />
+  </Object>
+  <Object type="0x7163" id="DS Goblin Sorcerer">
+    <DisplayId>Goblin Sorcerer</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars8x8</File>
+      <Index>16</Index>
+    </AnimatedTexture>
+    <HitSound>monster/goblins_hit</HitSound>
+    <DeathSound>monster/goblins_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>800</MaxHitPoints>
+    <Defense>8</Defense>
+    <Exp>120</Exp>
+    <Projectile id="0">
+      <ObjectId>DS Blue Magic</ObjectId>
+      <Damage>75</Damage>
+      <Speed>90</Speed>
+      <Size>140</Size>
+      <LifetimeMS>1600</LifetimeMS>
+      <ConditionEffect duration="2">Silenced</ConditionEffect>
+    </Projectile>
+    <KillStat stat="GrotesqueKills" />
+  </Object>
+  <Object type="0x7151" id="DS Goblin Brute">
+    <DisplayId>Goblin Brute</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars8x8</File>
+      <Index>2</Index>
+    </AnimatedTexture>
+    <HitSound>monster/goblins_hit</HitSound>
+    <DeathSound>monster/goblins_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>1750</MaxHitPoints>
+    <Defense>12</Defense>
+    <Exp>120</Exp>
+    <Projectile id="0">
+      <ObjectId>AI Forax Acidus Shot</ObjectId>
+      <Damage>100</Damage>
+      <Speed>100</Speed>
+      <LifetimeMS>800</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>AI Forax Acidus Shot</ObjectId>
+      <Damage>80</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>800</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>AI Forax Acidus Shot</ObjectId>
+      <Damage>60</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>800</LifetimeMS>
+      <Size>80</Size>
+      <MultiHit />
+    </Projectile>
+    <KillStat stat="GrotesqueKills" />
+  </Object>
+  <Object type="0x7152" id="DS Goblin Knight">
+    <DisplayId>Goblin Knight</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars8x8</File>
+      <Index>1</Index>
+    </AnimatedTexture>
+    <HitSound>monster/goblins_hit</HitSound>
+    <DeathSound>monster/goblins_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>2450</MaxHitPoints>
+    <Defense>18</Defense>
+    <Exp>120</Exp>
+    <Projectile id="0">
+      <ObjectId>White Bolt</ObjectId>
+      <Damage>80</Damage>
+      <Speed>110</Speed>
+      <LifetimeMS>800</LifetimeMS>
+    </Projectile>
+    <KillStat stat="GrotesqueKills" />
+  </Object>
+  <Object type="0x7168" id="DS Alligator">
+    <DisplayId>Sewer Alligator</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars16x16</File>
+      <Index>2</Index>
+    </AnimatedTexture>
+    <HitSound>monster/flaming_skulls_hit</HitSound>
+    <DeathSound>monster/flaming_skulls_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>1700</MaxHitPoints>
+    <Defense>15</Defense>
+    <Exp>150</Exp>
+    <Projectile id="0">
+      <ObjectId>DS Green Slimeball</ObjectId>
+      <Damage>150</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>1600</LifetimeMS>
+      <Size>140</Size>
+    </Projectile>
+    <KillStat stat="BeastKills" />
+  </Object>
+  <Object type="0x7153" id="DS Brown Slime">
+    <DisplayId>Sewer Brown Slime</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars8x8</File>
+      <Index>4</Index>
+    </AnimatedTexture>
+    <HitSound>monster/slimes_hit</HitSound>
+    <DeathSound>monster/slimes_death</DeathSound>
+    <Size>120</Size>
+    <MaxHitPoints>2750</MaxHitPoints>
+    <Defense>15</Defense>
+    <Exp>140</Exp>
+    <Projectile id="0">
+      <ObjectId>DS Brown Slimeball</ObjectId>
+      <Damage>65</Damage>
+      <Speed>85</Speed>
+      <LifetimeMS>1200</LifetimeMS>
+      <Size>100</Size>
+      <ConditionEffect duration="3">Silenced</ConditionEffect>
+    </Projectile>
+    <KillStat stat="GrotesqueKills" />
+  </Object>
+  <Object type="0x7167" id="DS Brown Slime Trail">
+    <Enemy />
+    <Class>GameObject</Class>
+    <DisplayId>Sewer Brown Slime</DisplayId>
+    <RandomTexture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x65</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x66</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x67</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x68</Index>
+      </Texture>
+    </RandomTexture>
+    <Size>160</Size>
+    <ShadowSize>0</ShadowSize>
+    <DrawUnder />
+    <NoMiniMap />
+    <Invincible />
+    <Flying />
+    <Projectile id="0">
+      <ObjectId>DS Brown Slimeball</ObjectId>
+      <Damage>65</Damage>
+      <Speed>85</Speed>
+      <LifetimeMS>1200</LifetimeMS>
+      <Size>100</Size>
+      <ConditionEffect duration="3">Silenced</ConditionEffect>
+    </Projectile>
+  </Object>
+  <Object type="0x7154" id="DS Yellow Slime">
+    <DisplayId>Sewer Yellow Slime</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars8x8</File>
+      <Index>5</Index>
+    </AnimatedTexture>
+    <HitSound>monster/slimes_hit</HitSound>
+    <DeathSound>monster/slimes_death</DeathSound>
+    <Size>120</Size>
+    <MaxHitPoints>2500</MaxHitPoints>
+    <Defense>5</Defense>
+    <Exp>140</Exp>
+    <Projectile id="0">
+      <ObjectId>DS Yellow Slimeball</ObjectId>
+      <Damage>60</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>800</LifetimeMS>
+      <Size>100</Size>
+    </Projectile>
+    <KillStat stat="GrotesqueKills" />
+  </Object>
+  <Object type="0x7166" id="DS Yellow Slime Trail">
+    <Enemy />
+    <Class>GameObject</Class>
+    <DisplayId>Sewer Yellow Slime</DisplayId>
+    <RandomTexture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x69</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x6a</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x6b</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x6c</Index>
+      </Texture>
+    </RandomTexture>
+    <Size>160</Size>
+    <ShadowSize>0</ShadowSize>
+    <DrawUnder />
+    <NoMiniMap />
+    <Invincible />
+    <Flying />
+    <Projectile id="0">
+      <ObjectId>DS Yellow Slimeball</ObjectId>
+      <Damage>60</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>800</LifetimeMS>
+      <Size>100</Size>
+    </Projectile>
+  </Object>
+  <Object type="0x7155" id="DS Gulpord the Slime God">
+    <DisplayId>Gulpord the Slime God</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars16x16</File>
+      <Index>1</Index>
+    </AnimatedTexture>
+    <HitSound>monster/slimes_hit</HitSound>
+    <DeathSound>monster/slimes_death</DeathSound>
+    <Size>120</Size>
+    <MaxHitPoints>20000</MaxHitPoints>
+    <Defense>20</Defense>
+    <Quest />
+    <HealthBarBoss />
+    <God />
+    <StasisImmune />
+    <ParalyzeImmune />
+    <NoArticle />
+    <Level>1</Level>
+    <Exp>8000</Exp>
+    <EventChestBoss />
+    <TrackLoot />
+    <Projectile id="0">
+      <ObjectId>DS Green Slimeball</ObjectId>
+      <Damage>125</Damage>
+      <Speed>100</Speed>
+      <LifetimeMS>1500</LifetimeMS>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Slime God Sludge</ObjectId>
+      <Damage>100</Damage>
+      <Speed>100</Speed>
+      <LifetimeMS>4000</LifetimeMS>
+      <Acceleration>-150</Acceleration>
+      <AccelerationDelay>200</AccelerationDelay>
+      <SpeedClamp>5</SpeedClamp>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Sharp Green Star</ObjectId>
+      <Damage>0</Damage>
+      <Speed>20</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+      <Acceleration>150</Acceleration>
+      <AccelerationDelay>600</AccelerationDelay>
+      <SpeedClamp>120</SpeedClamp>
+    </Projectile>
+    <KillStat stat="GrotesqueKills" />
+    <KillStat stat="GodKills" />
+    <DamageBasedXP />
+  </Object>
+  <Object type="0x17f" id="DS Gulpord M1">
+    <DisplayId>Gulpord the Slime God</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars8x8</File>
+      <Index>14</Index>
+    </AnimatedTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <HitSound>monster/slimes_hit</HitSound>
+    <DeathSound>monster/slimes_death</DeathSound>
+    <Size>160</Size>
+    <MaxHitPoints>6000</MaxHitPoints>
+    <AlwaysPositiveHealth />
+    <Defense>20</Defense>
+    <StasisImmune />
+    <ParalyzeImmune />
+    <NoArticle />
+    <Exp>0</Exp>
+    <Projectile id="0">
+      <ObjectId>DS Green Slimeball</ObjectId>
+      <Damage>100</Damage>
+      <Speed>100</Speed>
+      <LifetimeMS>1500</LifetimeMS>
+      <Size>100</Size>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Slime God Sludge</ObjectId>
+      <Damage>120</Damage>
+      <Speed>15</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Acceleration>65</Acceleration>
+      <AccelerationDelay>600</AccelerationDelay>
+      <SpeedClamp>100</SpeedClamp>
+      <Size>100</Size>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Sharp Green Star</ObjectId>
+      <Damage>0</Damage>
+      <Speed>20</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <ConditionEffect duration="3">Slowed</ConditionEffect>
+      <Acceleration>150</Acceleration>
+      <AccelerationDelay>600</AccelerationDelay>
+      <SpeedClamp>120</SpeedClamp>
+      <Size>100</Size>
+    </Projectile>
+    <KillStat stat="GrotesqueKills" />
+  </Object>
+  <Object type="0xb550" id="DS Gulpord M2">
+    <DisplayId>Gulpord the Slime God</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars8x8</File>
+      <Index>14</Index>
+    </AnimatedTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <HitSound>monster/slimes_hit</HitSound>
+    <DeathSound>monster/slimes_death</DeathSound>
+    <Size>160</Size>
+    <MaxHitPoints>6000</MaxHitPoints>
+    <AlwaysPositiveHealth />
+    <Defense>20</Defense>
+    <StasisImmune />
+    <ParalyzeImmune />
+    <NoArticle />
+    <Exp>0</Exp>
+    <Projectile id="0">
+      <ObjectId>DS Green Slimeball</ObjectId>
+      <Damage>100</Damage>
+      <Speed>100</Speed>
+      <LifetimeMS>1500</LifetimeMS>
+      <Size>100</Size>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Slime God Sludge</ObjectId>
+      <Damage>120</Damage>
+      <Speed>15</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Acceleration>65</Acceleration>
+      <AccelerationDelay>600</AccelerationDelay>
+      <SpeedClamp>100</SpeedClamp>
+      <Size>100</Size>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Sharp Green Star</ObjectId>
+      <Damage>0</Damage>
+      <Speed>20</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <ConditionEffect duration="3">Slowed</ConditionEffect>
+      <Acceleration>150</Acceleration>
+      <AccelerationDelay>600</AccelerationDelay>
+      <SpeedClamp>120</SpeedClamp>
+      <Size>100</Size>
+    </Projectile>
+    <KillStat stat="GrotesqueKills" />
+  </Object>
+  <Object type="0x7165" id="DS Gulpord S1">
+    <DisplayId>Gulpord the Slime God</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars8x8</File>
+      <Index>14</Index>
+    </AnimatedTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <HitSound>monster/slimes_hit</HitSound>
+    <DeathSound>monster/slimes_death</DeathSound>
+    <Size>120</Size>
+    <MaxHitPoints>4000</MaxHitPoints>
+    <AlwaysPositiveHealth />
+    <Defense>20</Defense>
+    <Exp>0</Exp>
+    <StasisImmune />
+    <ParalyzeImmune />
+    <NoArticle />
+    <Projectile id="0">
+      <ObjectId>DS Green Slimeball</ObjectId>
+      <Damage>100</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>1800</LifetimeMS>
+      <Size>100</Size>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Slime God Sludge</ObjectId>
+      <Damage>120</Damage>
+      <Speed>10</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Acceleration>150</Acceleration>
+      <AccelerationDelay>600</AccelerationDelay>
+      <SpeedClamp>110</SpeedClamp>
+      <Size>100</Size>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>DS Green Slimeball</ObjectId>
+      <Damage>100</Damage>
+      <Speed>100</Speed>
+      <LifetimeMS>400</LifetimeMS>
+      <Size>100</Size>
+    </Projectile>
+    <KillStat stat="GrotesqueKills" />
+  </Object>
+  <Object type="0xb551" id="DS Gulpord S2">
+    <DisplayId>Gulpord the Slime God</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars8x8</File>
+      <Index>14</Index>
+    </AnimatedTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <HitSound>monster/slimes_hit</HitSound>
+    <DeathSound>monster/slimes_death</DeathSound>
+    <Size>120</Size>
+    <MaxHitPoints>4000</MaxHitPoints>
+    <AlwaysPositiveHealth />
+    <Defense>20</Defense>
+    <Exp>0</Exp>
+    <StasisImmune />
+    <ParalyzeImmune />
+    <NoArticle />
+    <Projectile id="0">
+      <ObjectId>DS Green Slimeball</ObjectId>
+      <Damage>100</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>1800</LifetimeMS>
+      <Size>100</Size>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Slime God Sludge</ObjectId>
+      <Damage>120</Damage>
+      <Speed>10</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Acceleration>150</Acceleration>
+      <AccelerationDelay>600</AccelerationDelay>
+      <SpeedClamp>110</SpeedClamp>
+      <Size>100</Size>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>DS Green Slimeball</ObjectId>
+      <Damage>100</Damage>
+      <Speed>100</Speed>
+      <LifetimeMS>400</LifetimeMS>
+      <Size>100</Size>
+    </Projectile>
+    <KillStat stat="GrotesqueKills" />
+  </Object>
+  <Object type="0xb552" id="DS Gulpord S3">
+    <DisplayId>Gulpord the Slime God</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars8x8</File>
+      <Index>14</Index>
+    </AnimatedTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <HitSound>monster/slimes_hit</HitSound>
+    <DeathSound>monster/slimes_death</DeathSound>
+    <Size>120</Size>
+    <MaxHitPoints>4000</MaxHitPoints>
+    <AlwaysPositiveHealth />
+    <Defense>20</Defense>
+    <Exp>0</Exp>
+    <StasisImmune />
+    <ParalyzeImmune />
+    <NoArticle />
+    <Projectile id="0">
+      <ObjectId>DS Green Slimeball</ObjectId>
+      <Damage>100</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>1800</LifetimeMS>
+      <Size>100</Size>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Slime God Sludge</ObjectId>
+      <Damage>120</Damage>
+      <Speed>10</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Acceleration>150</Acceleration>
+      <AccelerationDelay>600</AccelerationDelay>
+      <SpeedClamp>110</SpeedClamp>
+      <Size>100</Size>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>DS Green Slimeball</ObjectId>
+      <Damage>100</Damage>
+      <Speed>100</Speed>
+      <LifetimeMS>400</LifetimeMS>
+      <Size>100</Size>
+    </Projectile>
+    <KillStat stat="GrotesqueKills" />
+  </Object>
+  <Object type="0xb553" id="DS Gulpord S4">
+    <DisplayId>Gulpord the Slime God</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars8x8</File>
+      <Index>14</Index>
+    </AnimatedTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <HitSound>monster/slimes_hit</HitSound>
+    <DeathSound>monster/slimes_death</DeathSound>
+    <Size>120</Size>
+    <MaxHitPoints>4000</MaxHitPoints>
+    <AlwaysPositiveHealth />
+    <Defense>20</Defense>
+    <Exp>0</Exp>
+    <StasisImmune />
+    <ParalyzeImmune />
+    <NoArticle />
+    <Projectile id="0">
+      <ObjectId>DS Green Slimeball</ObjectId>
+      <Damage>100</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>1800</LifetimeMS>
+      <Size>100</Size>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Slime God Sludge</ObjectId>
+      <Damage>120</Damage>
+      <Speed>10</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Acceleration>150</Acceleration>
+      <AccelerationDelay>600</AccelerationDelay>
+      <SpeedClamp>110</SpeedClamp>
+      <Size>100</Size>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>DS Green Slimeball</ObjectId>
+      <Damage>100</Damage>
+      <Speed>100</Speed>
+      <LifetimeMS>400</LifetimeMS>
+      <Size>100</Size>
+    </Projectile>
+    <KillStat stat="GrotesqueKills" />
+  </Object>
+  <Object type="0xb554" id="DS Gulpord Anchor LT">
+    <Class>GameObject</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars16x16</File>
+      <Index>1</Index>
+    </AnimatedTexture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0xb555" id="DS Gulpord Anchor T">
+    <Class>GameObject</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars16x16</File>
+      <Index>1</Index>
+    </AnimatedTexture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0xb556" id="DS Gulpord Anchor RT">
+    <Class>GameObject</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars16x16</File>
+      <Index>1</Index>
+    </AnimatedTexture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0xb557" id="DS Gulpord Anchor R">
+    <Class>GameObject</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars16x16</File>
+      <Index>1</Index>
+    </AnimatedTexture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0xb558" id="DS Gulpord Anchor RB">
+    <Class>GameObject</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars16x16</File>
+      <Index>1</Index>
+    </AnimatedTexture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0xb559" id="DS Gulpord Anchor B">
+    <Class>GameObject</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars16x16</File>
+      <Index>1</Index>
+    </AnimatedTexture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0xb55a" id="DS Gulpord Anchor LB">
+    <Class>GameObject</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars16x16</File>
+      <Index>1</Index>
+    </AnimatedTexture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0xb55b" id="DS Gulpord Anchor L">
+    <Class>GameObject</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars16x16</File>
+      <Index>1</Index>
+    </AnimatedTexture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0xb55c" id="DS Gulpord Anchor TL">
+    <Class>GameObject</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars16x16</File>
+      <Index>1</Index>
+    </AnimatedTexture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0xb55d" id="DS Gulpord Anchor TR">
+    <Class>GameObject</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars16x16</File>
+      <Index>1</Index>
+    </AnimatedTexture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0xb55e" id="DS Gulpord Anchor BL">
+    <Class>GameObject</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars16x16</File>
+      <Index>1</Index>
+    </AnimatedTexture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0xb55f" id="DS Gulpord Anchor BR">
+    <Class>GameObject</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars16x16</File>
+      <Index>1</Index>
+    </AnimatedTexture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x7157" id="DS Sick">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>secludedThicketObjects8x8</File>
+      <Index>0x01</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x7158" id="DS Master Rat">
+    <DisplayId>Master Rat</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars8x8</File>
+      <Index>8</Index>
+    </AnimatedTexture>
+    <MaxHitPoints>25000</MaxHitPoints>
+    <AlwaysPositiveHealth />
+    <Defense>10</Defense>
+    <Exp>0</Exp>
+    <Size>140</Size>
+    <ShadowSize>80</ShadowSize>
+    <ParalyzeImmune />
+    <Projectile id="0">
+      <ObjectId>DS Void Slash</ObjectId>
+      <Speed>100</Speed>
+      <Damage>85</Damage>
+      <Size>100</Size>
+      <LifetimeMS>1600</LifetimeMS>
+      <Acceleration>-100</Acceleration>
+      <AccelerationDelay>150</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Void Star</ObjectId>
+      <Speed>0</Speed>
+      <Damage>100</Damage>
+      <Size>100</Size>
+      <LifetimeMS>3000</LifetimeMS>
+      <Acceleration>125</Acceleration>
+      <AccelerationDelay>1000</AccelerationDelay>
+      <SpeedClamp>100</SpeedClamp>
+    </Projectile>
+  </Object>
+  <Object type="0xb54f" id="DS Master Rat Anchor">
+    <Class>GameObject</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars8x8</File>
+      <Index>10</Index>
+    </AnimatedTexture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0xb544" id="DS Master Rat Box">
+    <Class>Character</Class>
+    <StasisImmune />
+    <TrackLoot />
+    <Enemy />
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x63</Index>
+    </Texture>
+    <HitSound>monster/djinn_hit</HitSound>
+    <DeathSound>monster/flaming_skulls_death</DeathSound>
+    <MaxHitPoints>8000</MaxHitPoints>
+    <Exp>0</Exp>
+    <Size>100</Size>
+    <KillStat stat="StructureKills" />
+  </Object>
+  <Object type="0xb54e" id="DS Master Rat Box Correct">
+    <Class>Character</Class>
+    <StasisImmune />
+    <TrackLoot />
+    <Enemy />
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x64</Index>
+    </Texture>
+    <HitSound>monster/djinn_hit</HitSound>
+    <DeathSound>monster/flaming_skulls_death</DeathSound>
+    <MaxHitPoints>4200</MaxHitPoints>
+    <Exp>0</Exp>
+    <Size>120</Size>
+    <KillStat stat="StructureKills" />
+  </Object>
+  <Object type="0x7159" id="DS Orange Turtle">
+    <Class>GameObject</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars8x8</File>
+      <Index>10</Index>
+    </AnimatedTexture>
+    <Size>100</Size>
+  </Object>
+  <Object type="0x715b" id="DS Red Turtle">
+    <Class>GameObject</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars8x8</File>
+      <Index>9</Index>
+    </AnimatedTexture>
+    <Size>100</Size>
+  </Object>
+  <Object type="0x715c" id="DS Purple Turtle">
+    <Class>GameObject</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars8x8</File>
+      <Index>12</Index>
+    </AnimatedTexture>
+    <Size>100</Size>
+  </Object>
+  <Object type="0x715e" id="DS Blue Turtle">
+    <Class>GameObject</Class>
+    <AnimatedTexture>
+      <File>toxicSewersChars8x8</File>
+      <Index>11</Index>
+    </AnimatedTexture>
+    <Size>100</Size>
+  </Object>
+  <Object type="0x715f" id="DS Golden Rat">
+    <DisplayId>Golden Rat</DisplayId>
+    <Class>Character</Class>
+    <Enemy />
+    <StasisImmune />
+    <StunImmune />
+    <ParalyzeImmune />
+    <TrackLoot />
+    <AnimatedTexture>
+      <File>toxicSewersChars8x8</File>
+      <Index>7</Index>
+    </AnimatedTexture>
+    <MaxHitPoints>5500</MaxHitPoints>
+    <Defense>10</Defense>
+    <HitSound>monster/bats_hit</HitSound>
+    <DeathSound>monster/flayers_hit</DeathSound>
+    <KillStat stat="CritterKills" />
+  </Object>
+  <Object type="0x7160" id="DS Gulpord Summoner">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x7169" id="DS Sewer Dummy">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>lofiObj3</File>
+      <Index>0x570</Index>
+    </Texture>
+    <HitSound>monster/wooden_walls_hit</HitSound>
+    <DeathSound>monster/stone_walls_death</DeathSound>
+    <MaxHitPoints>10000</MaxHitPoints>
+    <Enemy />
+    <Exp>0</Exp>
+    <KillStat stat="StructureKills" />
+  </Object>
+  <Object type="0x7164" id="DS Fly">
+    <Class>Character</Class>
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x48</Index>
+    </Texture>
+    <Animation prob="1" period="0.4">
+      <Frame time="0.2">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x48</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x49</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Z>0.27</Z>
+    <Flying />
+    <Size>80</Size>
+    <ShadowSize>30</ShadowSize>
+    <NoMiniMap />
+  </Object>
+  <Object type="0xb53d" id="DS Radioactive Fly">
+    <Class>Character</Class>
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x4a</Index>
+    </Texture>
+    <Animation prob="1" period="0.4">
+      <Frame time="0.2">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x4a</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x4b</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Z>0.27</Z>
+    <Flying />
+    <Size>80</Size>
+    <ShadowSize>30</ShadowSize>
+    <NoMiniMap />
+  </Object>
+  <Object type="0x0056" id="DS Wall">
+    <Class>Wall</Class>
+    <RandomTexture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x14</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x15</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x16</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x17</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x18</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x19</Index>
+      </Texture>
+    </RandomTexture>
+    <Top>
+      <RandomTexture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x10</Index>
+        </Texture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x11</Index>
+        </Texture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x12</Index>
+        </Texture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x13</Index>
+        </Texture>
+      </RandomTexture>
+    </Top>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0xb560" id="DS Wall Fake">
+    <Class>Wall</Class>
+    <RandomTexture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x14</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x15</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x16</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x17</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x18</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x19</Index>
+      </Texture>
+    </RandomTexture>
+    <Top>
+      <RandomTexture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x10</Index>
+        </Texture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x11</Index>
+        </Texture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x12</Index>
+        </Texture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x13</Index>
+        </Texture>
+      </RandomTexture>
+    </Top>
+  </Object>
+  <Object type="0x010e" id="DS Floor Grate V">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x2b</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x2b</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x2b</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x76</Index>
+      </Texture>
+    </RandomTexture>
+    <DrawOnGround />
+    <Static />
+    <ProtectFromGroundEffects />
+    <ProtectFromSink />
+  </Object>
+  <Object type="0x010f" id="DS Floor Grate H">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x2a</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x2a</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x2a</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x75</Index>
+      </Texture>
+    </RandomTexture>
+    <DrawOnGround />
+    <Static />
+    <ProtectFromGroundEffects />
+    <ProtectFromSink />
+  </Object>
+  <Object type="0x0115" id="DS Wall Torch">
+    <Class>Wall</Class>
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x1a</Index>
+    </Texture>
+    <Animation prob="1" period="0">
+      <Frame time="0.2">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x1a</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x1b</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x1c</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x1d</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Top>
+      <RandomTexture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x10</Index>
+        </Texture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x11</Index>
+        </Texture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x12</Index>
+        </Texture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x13</Index>
+        </Texture>
+      </RandomTexture>
+    </Top>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0xb53b" id="DS Wall Lamp">
+    <Class>Wall</Class>
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x2f</Index>
+    </Texture>
+    <Top>
+      <RandomTexture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x10</Index>
+        </Texture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x11</Index>
+        </Texture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x12</Index>
+        </Texture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x13</Index>
+        </Texture>
+      </RandomTexture>
+    </Top>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0xb53c" id="DS Wall Pipe">
+    <Class>Wall</Class>
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x38</Index>
+    </Texture>
+    <Animation prob="1" period="0">
+      <Frame time="0.2">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x38</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x39</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x3a</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x3b</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x3c</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x3d</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x3e</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x3f</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Top>
+      <RandomTexture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x10</Index>
+        </Texture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x11</Index>
+        </Texture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x12</Index>
+        </Texture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x13</Index>
+        </Texture>
+      </RandomTexture>
+    </Top>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x0116" id="DS Wall Gate Right">
+    <Class>Wall</Class>
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x2e</Index>
+    </Texture>
+    <Top>
+      <RandomTexture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x10</Index>
+        </Texture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x11</Index>
+        </Texture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x12</Index>
+        </Texture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x13</Index>
+        </Texture>
+      </RandomTexture>
+    </Top>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x0117" id="DS Wall Gate Middle">
+    <Class>Wall</Class>
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x2d</Index>
+    </Texture>
+    <Animation prob="0.15" period="0">
+      <Frame time="4">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x2d</Index>
+        </Texture>
+      </Frame>
+      <Frame time="1">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x4f</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Top>
+      <RandomTexture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x10</Index>
+        </Texture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x11</Index>
+        </Texture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x12</Index>
+        </Texture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x13</Index>
+        </Texture>
+      </RandomTexture>
+    </Top>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x0118" id="DS Wall Gate Left">
+    <Class>Wall</Class>
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x2c</Index>
+    </Texture>
+    <Top>
+      <RandomTexture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x10</Index>
+        </Texture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x11</Index>
+        </Texture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x12</Index>
+        </Texture>
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x13</Index>
+        </Texture>
+      </RandomTexture>
+    </Top>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x0119" id="DS Floor Grate">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x29</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x29</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x29</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x74</Index>
+      </Texture>
+    </RandomTexture>
+    <DrawOnGround />
+    <Static />
+    <ProtectFromGroundEffects />
+    <ProtectFromSink />
+  </Object>
+  <Object type="0x011a" id="DS Poo">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x41</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x42</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x43</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x44</Index>
+      </Texture>
+    </RandomTexture>
+    <Size>85</Size>
+    <Static />
+  </Object>
+  <Object type="0xb53e" id="DS Bones">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x45</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x46</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x47</Index>
+      </Texture>
+    </RandomTexture>
+    <Size>85</Size>
+    <Static />
+  </Object>
+  <Object type="0xb53f" id="DS Barrel">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x56</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x57</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x58</Index>
+      </Texture>
+    </RandomTexture>
+    <Size>100</Size>
+    <Static />
+  </Object>
+  <Object type="0xb540" id="DS Barrel Sludge">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>toxicSewersObjects8x8</File>
+      <Index>0x59</Index>
+    </Texture>
+    <Animation prob="1.0">
+      <Frame time="0.2">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x59</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x5a</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x5b</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x5c</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Size>100</Size>
+    <Static />
+    <Flying />
+  </Object>
+  <Object type="0xb541" id="DS Barrel Lab">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x5e</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x5f</Index>
+      </Texture>
+    </RandomTexture>
+    <Size>100</Size>
+    <Static />
+  </Object>
+  <Object type="0xb542" id="DS Lamp">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x50</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x51</Index>
+      </Texture>
+    </RandomTexture>
+    <Size>100</Size>
+    <Static />
+  </Object>
+  <Object type="0xb543" id="DS Box">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x60</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x61</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x62</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x63</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects8x8</File>
+        <Index>0x64</Index>
+      </Texture>
+    </RandomTexture>
+    <Size>100</Size>
+    <Static />
+  </Object>
+  <Object type="0xb545" id="DS Bubble">
+    <Class>GameObject</Class>
+    <Static />
+    <Texture>
+      <File>invisible</File>
+      <Index>0x0</Index>
+    </Texture>
+    <Animation prob="1.0">
+      <Frame time="0.1">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x08</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x09</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x0a</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x0b</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x0c</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x0d</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>toxicSewersObjects8x8</File>
+          <Index>0x0e</Index>
+        </Texture>
+      </Frame>
+      <Frame time="3.0">
+        <Texture>
+          <File>invisible</File>
+          <Index>0x0</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Size>100</Size>
+    <ShadowSize>0</ShadowSize>
+  </Object>
+  <Object type="0xb546" id="DS Filter Machine">
+    <Class>GameObject</Class>
+    <Static />
+    <Texture>
+      <File>toxicSewersObjects32x32</File>
+      <Index>0x00</Index>
+    </Texture>
+    <Animation prob="1.0">
+      <Frame time="0.1">
+        <Texture>
+          <File>toxicSewersObjects32x32</File>
+          <Index>0x00</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>toxicSewersObjects32x32</File>
+          <Index>0x01</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>toxicSewersObjects32x32</File>
+          <Index>0x02</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>toxicSewersObjects32x32</File>
+          <Index>0x03</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>toxicSewersObjects32x32</File>
+          <Index>0x04</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>toxicSewersObjects32x32</File>
+          <Index>0x05</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>toxicSewersObjects32x32</File>
+          <Index>0x06</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>toxicSewersObjects32x32</File>
+          <Index>0x07</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>toxicSewersObjects32x32</File>
+          <Index>0x08</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>toxicSewersObjects32x32</File>
+          <Index>0x09</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>toxicSewersObjects32x32</File>
+          <Index>0x0a</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>toxicSewersObjects32x32</File>
+          <Index>0x0b</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Size>100</Size>
+    <ShadowSize>0</ShadowSize>
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+  </Object>
+  <Object type="0x010d" id="DS Pillar">
+    <Class>GameObject</Class>
+    <Static />
+    <RandomTexture>
+      <Texture>
+        <File>toxicSewersObjects16x16</File>
+        <Index>0x00</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects16x16</File>
+        <Index>0x01</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects16x16</File>
+        <Index>0x02</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects16x16</File>
+        <Index>0x03</Index>
+      </Texture>
+      <Texture>
+        <File>toxicSewersObjects16x16</File>
+        <Index>0x04</Index>
+      </Texture>
+    </RandomTexture>
+    <Size>100</Size>
+    <ShadowSize>0</ShadowSize>
+    <OccupySquare />
+    <EnemyOccupySquare />
+  </Object>
+</Objects>

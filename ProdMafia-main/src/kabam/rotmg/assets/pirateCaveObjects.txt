@@ -1,0 +1,1970 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object type="0x2b2" id="Pirate Shot">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x30</Index>
+    </Texture>
+  </Object>
+  <Object type="0x2c2" id="Pirate Sword">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0xb2</Index>
+    </Texture>
+  </Object>
+  <Object type="0x2c3" id="Pirate Fiery Bullet">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0xb1</Index>
+    </Texture>
+  </Object>
+  <Object type="0x2c4" id="Pirate Cannon Bullet">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0xb0</Index>
+    </Texture>
+  </Object>
+  <Object type="0x2c5" id="Pirate King Sword">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0xb3</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x2289" id="Corsair Ring">
+    <Class>Equipment</Class>
+    <Item />
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x2</Index>
+    </Texture>
+    <SlotType>9</SlotType>
+    <Description>A lavish golden ring adorned with a prized ruby from Dreadstump's spoils.</Description>
+    <ActivateOnEquip amount="20" stat="0">IncrementStat</ActivateOnEquip>
+    <ActivateOnEquip amount="2" stat="21">IncrementStat</ActivateOnEquip>
+    <BagType>4</BagType>
+    <feedPower>50</feedPower>
+    <Soulbound />
+  </Object>
+  <Object type="0x2bb" id="PC Invis Occupy">
+    <Class>GameObject</Class>
+    <Static />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>100</Size>
+  </Object>
+  <Object type="0x2b7" id="PC Dreadstump Cannon">
+    <Enemy />
+    <NoMiniMap />
+    <Class>Character</Class>
+    <DisplayId>Dreadstump Cannon</DisplayId>
+    <Invincible />
+    <AnimatedTexture>
+      <File>theGoldenArcher</File>
+      <Index>3</Index>
+    </AnimatedTexture>
+    <Size>120</Size>
+    <Projectile id="0">
+      <ObjectId>Pirate Cannon Bullet</ObjectId>
+      <Damage>25</Damage>
+      <Speed>60</Speed>
+      <Size>160</Size>
+      <LifetimeMS>2750</LifetimeMS>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>White Bullet</ObjectId>
+      <Damage>0</Damage>
+      <Speed>0</Speed>
+      <Size>0</Size>
+      <LifetimeMS>1</LifetimeMS>
+    </Projectile>
+  </Object>
+  <Object type="0x2b8" id="PC Cannon Context">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x2b9" id="PC Dreadstump Reference Point">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x2ba" id="PC Dreadstump Anchor">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>pirateCaveObjects32x32</File>
+      <Index>0x0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x0927" id="Dreadstump the Pirate King">
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>pirateCaveChars16x16</File>
+      <Index>0</Index>
+    </AnimatedTexture>
+    <HitSound>monster/pirate_king_hit</HitSound>
+    <DeathSound>monster/pirate_king_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>1000</MaxHitPoints>
+    <Defense>6</Defense>
+    <Quest />
+    <StasisImmune />
+    <Level>1</Level>
+    <Exp>200</Exp>
+    <NoArticle />
+    <EventChestBoss />
+    <TrackLoot />
+    <Projectile id="0">
+      <ObjectId>Gold Shot</ObjectId>
+      <Damage>14</Damage>
+      <Speed>45</Speed>
+      <LifetimeMS>3000</LifetimeMS>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Pirate Shot</ObjectId>
+      <Damage>18</Damage>
+      <Speed>60</Speed>
+      <Size>100</Size>
+      <LifetimeMS>2000</LifetimeMS>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Pirate Cannon Bullet</ObjectId>
+      <Damage>22</Damage>
+      <Speed>140</Speed>
+      <Size>100</Size>
+      <LifetimeMS>700</LifetimeMS>
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>Pirate King Sword</ObjectId>
+      <Damage>15</Damage>
+      <Speed>75</Speed>
+      <LifetimeMS>2500</LifetimeMS>
+    </Projectile>
+    <HealthBarBoss radius="15" />
+    <KillStat stat="HumanoidKills" />
+    <KillStat stat="GodKills" />
+    <DamageBasedXP />
+  </Object>
+  <Object type="0x683" id="Pirate Lieutenant">
+    <Group>Cave Pirate Bosses</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>pirateCaveChars8x8</File>
+      <Index>3</Index>
+    </AnimatedTexture>
+    <HitSound>monster/pirates_hit</HitSound>
+    <DeathSound>monster/pirates_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>70</MaxHitPoints>
+    <Defense>2</Defense>
+    <Exp>7</Exp>
+    <Projectile id="0">
+      <ObjectId>Pirate Shot</ObjectId>
+      <Damage>10</Damage>
+      <Speed>50</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+    </Projectile>
+    <KillStat stat="HumanoidKills" />
+  </Object>
+  <Object type="0x684" id="Pirate Commander">
+    <Group>Cave Pirate Bosses</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>pirateCaveChars8x8</File>
+      <Index>4</Index>
+    </AnimatedTexture>
+    <HitSound>monster/pirates_hit</HitSound>
+    <DeathSound>monster/pirates_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>80</MaxHitPoints>
+    <Defense>3</Defense>
+    <Exp>8</Exp>
+    <Projectile id="0">
+      <ObjectId>Pirate Shot</ObjectId>
+      <Damage>12</Damage>
+      <Speed>50</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+    </Projectile>
+    <KillStat stat="HumanoidKills" />
+  </Object>
+  <Object type="0x685" id="Pirate Captain">
+    <Group>Cave Pirate Bosses</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>pirateCaveChars8x8</File>
+      <Index>5</Index>
+    </AnimatedTexture>
+    <HitSound>monster/pirates_hit</HitSound>
+    <DeathSound>monster/pirates_death</DeathSound>
+    <Size>120</Size>
+    <MaxHitPoints>100</MaxHitPoints>
+    <Defense>4</Defense>
+    <Exp>10</Exp>
+    <Projectile id="0">
+      <ObjectId>Pirate Shot</ObjectId>
+      <Damage>14</Damage>
+      <Speed>50</Speed>
+      <LifetimeMS>2250</LifetimeMS>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Pirate Shot</ObjectId>
+      <Size>120</Size>
+      <Damage>18</Damage>
+      <Speed>130</Speed>
+      <LifetimeMS>800</LifetimeMS>
+    </Projectile>
+    <KillStat stat="HumanoidKills" />
+  </Object>
+  <Object type="0x686" id="Pirate Admiral">
+    <Group>Cave Pirate Bosses</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>pirateCaveChars8x8</File>
+      <Index>6</Index>
+    </AnimatedTexture>
+    <HitSound>monster/pirates_hit</HitSound>
+    <DeathSound>monster/pirates_death</DeathSound>
+    <Size>120</Size>
+    <MaxHitPoints>120</MaxHitPoints>
+    <Defense>5</Defense>
+    <Exp>12</Exp>
+    <Projectile id="0">
+      <ObjectId>Pirate Shot</ObjectId>
+      <Damage>15</Damage>
+      <Speed>50</Speed>
+      <LifetimeMS>2250</LifetimeMS>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Pirate Shot</ObjectId>
+      <Size>120</Size>
+      <Damage>20</Damage>
+      <Speed>130</Speed>
+      <LifetimeMS>800</LifetimeMS>
+    </Projectile>
+    <KillStat stat="HumanoidKills" />
+  </Object>
+  <Object type="0x687" id="Cave Pirate Brawler">
+    <Group>Cave Pirates</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>pirateCaveChars8x8</File>
+      <Index>0</Index>
+    </AnimatedTexture>
+    <HitSound>monster/cave_pirates_hit</HitSound>
+    <DeathSound>monster/cave_pirates_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>20</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>2</Exp>
+    <Projectile id="0">
+      <ObjectId>Pirate Sword</ObjectId>
+      <Damage>4</Damage>
+      <Speed>65</Speed>
+      <LifetimeMS>600</LifetimeMS>
+    </Projectile>
+    <KillStat stat="HumanoidKills" />
+  </Object>
+  <Object type="0x688" id="Cave Pirate Sailor">
+    <Group>Cave Pirates</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>pirateCaveChars8x8</File>
+      <Index>1</Index>
+    </AnimatedTexture>
+    <HitSound>monster/cave_pirates_hit</HitSound>
+    <DeathSound>monster/cave_pirates_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>30</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>3</Exp>
+    <Projectile id="0">
+      <ObjectId>Pirate Sword</ObjectId>
+      <Damage>7</Damage>
+      <Speed>65</Speed>
+      <LifetimeMS>600</LifetimeMS>
+    </Projectile>
+    <KillStat stat="HumanoidKills" />
+  </Object>
+  <Object type="0x689" id="Cave Pirate Veteran">
+    <Group>Cave Pirates</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>pirateCaveChars8x8</File>
+      <Index>2</Index>
+    </AnimatedTexture>
+    <HitSound>monster/cave_pirates_hit</HitSound>
+    <DeathSound>monster/cave_pirates_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>35</MaxHitPoints>
+    <Defense>2</Defense>
+    <Exp>4</Exp>
+    <Projectile id="0">
+      <ObjectId>Pirate Sword</ObjectId>
+      <Damage>8</Damage>
+      <Speed>65</Speed>
+      <LifetimeMS>800</LifetimeMS>
+    </Projectile>
+    <KillStat stat="HumanoidKills" />
+  </Object>
+  <Object type="0x68a" id="Cave Pirate Moll">
+    <Group>Cave Pirate Pets</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>pirateCaveChars8x8</File>
+      <Index>8</Index>
+    </AnimatedTexture>
+    <HitSound>monster/cave_pirates_hit</HitSound>
+    <DeathSound>monster/cave_pirates_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>5</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>1</Exp>
+    <KillStat stat="HumanoidKills" />
+  </Object>
+  <Object type="0x68b" id="Cave Pirate Parrot">
+    <Group>Cave Pirate Pets</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>pirateCaveChars8x8</File>
+      <Index>9</Index>
+    </AnimatedTexture>
+    <HitSound>monster/cave_pirates_hit</HitSound>
+    <DeathSound>monster/cave_pirates_death</DeathSound>
+    <Size>70</Size>
+    <MaxHitPoints>5</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>1</Exp>
+    <KillStat stat="CritterKills" />
+  </Object>
+  <Object type="0x68c" id="Cave Pirate Macaw">
+    <Group>Cave Pirate Pets</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>pirateCaveChars8x8</File>
+      <Index>10</Index>
+    </AnimatedTexture>
+    <HitSound>monster/cave_pirates_hit</HitSound>
+    <DeathSound>monster/cave_pirates_death</DeathSound>
+    <Size>70</Size>
+    <MaxHitPoints>5</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>1</Exp>
+    <KillStat stat="CritterKills" />
+  </Object>
+  <Object type="0x68d" id="Cave Pirate Monkey">
+    <Group>Cave Pirate Pets</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>pirateCaveChars8x8</File>
+      <Index>11</Index>
+    </AnimatedTexture>
+    <HitSound>monster/cave_pirates_hit</HitSound>
+    <DeathSound>monster/cave_pirates_death</DeathSound>
+    <Size>70</Size>
+    <MaxHitPoints>5</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>1</Exp>
+    <KillStat stat="CritterKills" />
+  </Object>
+  <Object type="0x68e" id="Cave Pirate Hunchback">
+    <Group>Cave Pirate Pets</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>pirateCaveChars8x8</File>
+      <Index>12</Index>
+    </AnimatedTexture>
+    <HitSound>monster/cave_pirates_hit</HitSound>
+    <DeathSound>monster/cave_pirates_death</DeathSound>
+    <Size>70</Size>
+    <MaxHitPoints>5</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>1</Exp>
+    <KillStat stat="HumanoidKills" />
+  </Object>
+  <Object type="0x68f" id="Cave Pirate Cabin Boy">
+    <Group>Cave Pirate Pets</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>pirateCaveChars8x8</File>
+      <Index>7</Index>
+    </AnimatedTexture>
+    <HitSound>monster/cave_pirates_hit</HitSound>
+    <DeathSound>monster/cave_pirates_death</DeathSound>
+    <Size>70</Size>
+    <MaxHitPoints>5</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>1</Exp>
+    <KillStat stat="HumanoidKills" />
+  </Object>
+  <Object type="0x2ab" id="PC Large Painting Placer">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x70</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x2b6" id="PC Large Painting Placer South">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x71</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x2b3" id="PC Ship Wall Placer">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x18</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x2b4" id="PC Cannon">
+    <Class>GameObject</Class>
+    <AnimatedTexture>
+      <File>theGoldenArcher</File>
+      <Index>3</Index>
+    </AnimatedTexture>
+    <MinSize>100</MinSize>
+    <MaxSize>120</MaxSize>
+    <Static />
+    <OccupySquare />
+    <EnemyOccupySquare />
+  </Object>
+  <Object type="0x27d" id="PC Treasure X">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x27e" id="PC Static Overwrite">
+    <Class>GameObject</Class>
+    <Static />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x27f" id="PC Cave Wall">
+    <Class>CaveWall</Class>
+    <Color>0x8D5E30</Color>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x9d</Index>
+      </Texture>
+    </Top>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x13</Index>
+    </Texture>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+    <Connects />
+  </Object>
+  <Object type="0x280" id="PC Hermit Shell">
+    <Class>GameObject</Class>
+    <Static />
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x0f</Index>
+    </Texture>
+    <Size>60</Size>
+  </Object>
+  <Object type="0x281" id="PC Wood Wall">
+    <Class>Wall</Class>
+    <RandomTexture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x18</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x18</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x18</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x18</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x18</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x18</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x9a</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x9b</Index>
+      </Texture>
+    </RandomTexture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x282" id="PC Book Wall">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x19</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x283" id="PC Torch Wall">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x1a</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1d</Index>
+      </Texture>
+    </Top>
+    <Animation prob="1.0" period="0.3">
+      <Frame time="0.15">
+        <Texture>
+          <File>pirateCaveObjects8x8</File>
+          <Index>0x1a</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>pirateCaveObjects8x8</File>
+          <Index>0x1b</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x284" id="PC Chest">
+    <Class>GameObject</Class>
+    <Static />
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x1e</Index>
+    </Texture>
+    <Size>100</Size>
+  </Object>
+  <Object type="0x285" id="PC Vase">
+    <Class>GameObject</Class>
+    <Static />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x1f</Index>
+    </Texture>
+    <MinSize>80</MinSize>
+    <MaxSize>100</MaxSize>
+    <SizeStep>20</SizeStep>
+  </Object>
+  <Object type="0x286" id="PC Small Palm">
+    <Class>GameObject</Class>
+    <Static />
+    <RandomTexture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x29</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x2a</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x2b</Index>
+      </Texture>
+    </RandomTexture>
+    <MinSize>80</MinSize>
+    <MaxSize>120</MaxSize>
+    <SizeStep>20</SizeStep>
+  </Object>
+  <Object type="0x287" id="PC Small Flag">
+    <Class>GameObject</Class>
+    <Static />
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x2c</Index>
+    </Texture>
+    <Animation prob="1.0">
+      <Frame time="0.15">
+        <Texture>
+          <File>pirateCaveObjects8x8</File>
+          <Index>0x2c</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>pirateCaveObjects8x8</File>
+          <Index>0x2d</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>pirateCaveObjects8x8</File>
+          <Index>0x2e</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Size>100</Size>
+  </Object>
+  <Object type="0x288" id="PC Cage">
+    <Class>GameObject</Class>
+    <Static />
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x31</Index>
+    </Texture>
+    <Size>80</Size>
+  </Object>
+  <Object type="0x289" id="PC Normal Bottle">
+    <Class>GameObject</Class>
+    <Static />
+    <RandomTexture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x32</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x32</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x32</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x33</Index>
+      </Texture>
+    </RandomTexture>
+    <Size>80</Size>
+  </Object>
+  <Object type="0x2a9" id="PC Booze Barrel">
+    <Class>GameObject</Class>
+    <Static />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <RandomTexture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x34</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x34</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x34</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x35</Index>
+      </Texture>
+    </RandomTexture>
+    <Size>100</Size>
+  </Object>
+  <Object type="0x28a" id="PC Swag">
+    <Class>GameObject</Class>
+    <Static />
+    <RandomTexture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x36</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x37</Index>
+      </Texture>
+    </RandomTexture>
+    <Size>100</Size>
+  </Object>
+  <Object type="0x28b" id="PC Floating Crate">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x38</Index>
+    </Texture>
+    <Flying />
+    <Animation prob="1.0">
+      <Frame time="0.25">
+        <Texture>
+          <File>pirateCaveObjects8x8</File>
+          <Index>0x38</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.25">
+        <Texture>
+          <File>pirateCaveObjects8x8</File>
+          <Index>0x39</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.25">
+        <Texture>
+          <File>pirateCaveObjects8x8</File>
+          <Index>0x3a</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.25">
+        <Texture>
+          <File>pirateCaveObjects8x8</File>
+          <Index>0x3b</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Size>100</Size>
+  </Object>
+  <Object type="0x28c" id="PC Floating Booze">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x3c</Index>
+    </Texture>
+    <Flying />
+    <Animation prob="1.0">
+      <Frame time="0.25">
+        <Texture>
+          <File>pirateCaveObjects8x8</File>
+          <Index>0x3c</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.25">
+        <Texture>
+          <File>pirateCaveObjects8x8</File>
+          <Index>0x3d</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.25">
+        <Texture>
+          <File>pirateCaveObjects8x8</File>
+          <Index>0x3e</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.25">
+        <Texture>
+          <File>pirateCaveObjects8x8</File>
+          <Index>0x3f</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Size>80</Size>
+  </Object>
+  <Object type="0x28d" id="PC SandCastle">
+    <Class>GameObject</Class>
+    <Static />
+    <RandomTexture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x40</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x40</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x40</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x40</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x41</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x41</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x42</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x43</Index>
+      </Texture>
+    </RandomTexture>
+    <Size>80</Size>
+  </Object>
+  <Object type="0x28e" id="PC Fancy Bottle">
+    <Class>GameObject</Class>
+    <Static />
+    <RandomTexture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x44</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x45</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x46</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x47</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x48</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x49</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x4a</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x4b</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x4c</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x4d</Index>
+      </Texture>
+    </RandomTexture>
+    <Size>80</Size>
+  </Object>
+  <Object type="0x28f" id="PC Stool">
+    <Class>GameObject</Class>
+    <Static />
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x4e</Index>
+    </Texture>
+    <Size>80</Size>
+  </Object>
+  <Object type="0x290" id="PC Crate">
+    <Class>GameObject</Class>
+    <Static />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x4f</Index>
+    </Texture>
+    <Size>120</Size>
+  </Object>
+  <Object type="0x2b5" id="PC Crate S">
+    <Class>GameObject</Class>
+    <Static />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x4f</Index>
+    </Texture>
+    <Size>120</Size>
+  </Object>
+  <Object type="0x291" id="PC Hat">
+    <Class>GameObject</Class>
+    <Static />
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x50</Index>
+    </Texture>
+    <Size>80</Size>
+  </Object>
+  <Object type="0x292" id="PC Hook">
+    <Class>GameObject</Class>
+    <Static />
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x51</Index>
+    </Texture>
+    <Size>60</Size>
+  </Object>
+  <Object type="0x293" id="PC Painting L 1">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x60</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x294" id="PC Painting R 1">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x61</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x295" id="PC Painting L 2">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x62</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x296" id="PC Painting R 2">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x63</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x297" id="PC Painting L 3">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x64</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x298" id="PC Painting R 3">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x65</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x299" id="PC Painting L 4">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x66</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x29a" id="PC Painting R 4">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x67</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x29b" id="PC Painting L 5">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x68</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x29c" id="PC Painting R 5">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x69</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x29d" id="PC Painting L 6">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x6a</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x29e" id="PC Painting R 6">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x6b</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x29f" id="PC Painting L 7">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x6c</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2a0" id="PC Painting R 7">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x6d</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2a1" id="PC Painting L 8">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x6e</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2a2" id="PC Painting R 8">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x6f</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2a3" id="PC Painting L 9">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x70</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2a4" id="PC Painting R 9">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x71</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2a5" id="PC Painting L a">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x72</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2a6" id="PC Painting R a">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x73</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2a7" id="PC Painting L b">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x74</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2a8" id="PC Painting R b">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x75</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2c6" id="PC Painting L c">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x76</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2c7" id="PC Painting R c">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x77</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2c8" id="PC Painting L d">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x78</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2c9" id="PC Painting R d">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x79</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2ca" id="PC Painting L e">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x7a</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2cb" id="PC Painting R e">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x7b</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2cc" id="PC Painting L f">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x7c</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2cd" id="PC Painting R f">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x7d</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2ce" id="PC Painting L g">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x7e</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2cf" id="PC Painting R g">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0x7f</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2d0" id="PC Painting L h">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0xa0</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2d1" id="PC Painting R h">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0xa1</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2d2" id="PC Painting L i">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0xa2</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2d3" id="PC Painting R i">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0xa3</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2d4" id="PC Painting L j">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0xa4</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2d5" id="PC Painting R j">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0xa5</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2d6" id="PC Painting L k">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0xa6</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2d7" id="PC Painting R k">
+    <Class>Wall</Class>
+    <Texture>
+      <File>pirateCaveObjects8x8</File>
+      <Index>0xa7</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2aa" id="PC Small Painting">
+    <Class>Wall</Class>
+    <RandomTexture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x80</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x81</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x82</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x83</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x84</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x85</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x86</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x87</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x88</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x89</Index>
+      </Texture>
+    </RandomTexture>
+    <Top>
+      <Texture>
+        <File>pirateCaveObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+    </Top>
+    <ShadowSize>0</ShadowSize>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x2ac" id="PC Large Rolled Sail">
+    <Static />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <Size>120</Size>
+    <Class>GameObject</Class>
+    <Texture>
+      <File>pirateCaveObjects32x32</File>
+      <Index>0x04</Index>
+    </Texture>
+  </Object>
+  <Object type="0x2ad" id="PC Large Anchor">
+    <Static />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <Class>GameObject</Class>
+    <Texture>
+      <File>pirateCaveObjects16x16</File>
+      <Index>0x01</Index>
+    </Texture>
+  </Object>
+  <Object type="0x2ae" id="PC Large Palm Tree">
+    <Static />
+    <Class>GameObject</Class>
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <RandomTexture>
+      <Texture>
+        <File>pirateCaveObjects16x16</File>
+        <Index>0x2</Index>
+      </Texture>
+      <Texture>
+        <File>pirateCaveObjects16x16</File>
+        <Index>0x3</Index>
+      </Texture>
+    </RandomTexture>
+  </Object>
+  <Object type="0x2af" id="PC Large Sail">
+    <Static />
+    <Class>GameObject</Class>
+    <Texture>
+      <File>pirateCaveObjects32x32</File>
+      <Index>0x19</Index>
+    </Texture>
+    <Size>160</Size>
+    <ShadowSize>40</ShadowSize>
+    <OccupySquare />
+    <EnemyOccupySquare />
+  </Object>
+  <Object type="0x2e1" id="PC Large Boss Sail">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>pirateCaveObjects32x32</File>
+      <Index>0x10</Index>
+    </Texture>
+    <Size>160</Size>
+    <ShadowSize>40</ShadowSize>
+    <Animation prob="1.0">
+      <Frame time="0.25">
+        <Texture>
+          <File>pirateCaveObjects32x32</File>
+          <Index>0x10</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.25">
+        <Texture>
+          <File>pirateCaveObjects32x32</File>
+          <Index>0x11</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.25">
+        <Texture>
+          <File>pirateCaveObjects32x32</File>
+          <Index>0x12</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.25">
+        <Texture>
+          <File>pirateCaveObjects32x32</File>
+          <Index>0x13</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+  </Object>
+  <Object type="0x2e2" id="PC Large Boss Sail Roll">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>pirateCaveObjects32x32</File>
+      <Index>0x10</Index>
+    </Texture>
+    <Size>160</Size>
+    <ShadowSize>40</ShadowSize>
+    <Animation prob="1.0">
+      <Frame time="0.15">
+        <Texture>
+          <File>pirateCaveObjects32x32</File>
+          <Index>0x14</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>pirateCaveObjects32x32</File>
+          <Index>0x15</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>pirateCaveObjects32x32</File>
+          <Index>0x16</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>pirateCaveObjects32x32</File>
+          <Index>0x17</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>pirateCaveObjects32x32</File>
+          <Index>0x18</Index>
+        </Texture>
+      </Frame>
+      <Frame time="9.15">
+        <Texture>
+          <File>pirateCaveObjects32x32</File>
+          <Index>0x19</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+  </Object>
+  <Object type="0x2e3" id="PC Large Boss Sail Rolled">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>pirateCaveObjects32x32</File>
+      <Index>0x19</Index>
+    </Texture>
+    <Size>160</Size>
+    <ShadowSize>40</ShadowSize>
+  </Object>
+  <Object type="0x2b0" id="PC Large Telescope">
+    <Static />
+    <Class>GameObject</Class>
+    <Texture>
+      <File>pirateCaveObjects16x16</File>
+      <Index>0x08</Index>
+    </Texture>
+  </Object>
+  <Object type="0x2b1" id="PC Large Globe">
+    <Static />
+    <Class>GameObject</Class>
+    <Texture>
+      <File>pirateCaveObjects16x16</File>
+      <Index>0x09</Index>
+    </Texture>
+  </Object>
+  <Object type="0x2e4" id="PC C">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>pirateCaveObjects16x16</File>
+      <Index>0x0c</Index>
+    </Texture>
+    <Size>40</Size>
+    <ShadowSize>40</ShadowSize>
+    <Animation prob="1.0" sync="true" period="1">
+      <Frame time="0.25">
+        <Texture>
+          <File>pirateCaveObjects16x16</File>
+          <Index>0x0c</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.25">
+        <Texture>
+          <File>pirateCaveObjects16x16</File>
+          <Index>0x0d</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.25">
+        <Texture>
+          <File>pirateCaveObjects16x16</File>
+          <Index>0x0e</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.25">
+        <Texture>
+          <File>pirateCaveObjects16x16</File>
+          <Index>0x0f</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+  </Object>
+</Objects>

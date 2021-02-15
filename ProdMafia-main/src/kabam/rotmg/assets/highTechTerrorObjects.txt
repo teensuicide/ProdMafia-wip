@@ -1,0 +1,5008 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object type="0xb51f" id="Goo Splat">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x00</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0xb520" id="Goo Spike">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x01</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0xb521" id="Goo Spit">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x02</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0xb522" id="Goo Blast">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x03</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0xb523" id="Goo Wave">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x04</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0xb524" id="Goo Spinner">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x05</Index>
+    </Texture>
+    <Rotation>90</Rotation>
+  </Object>
+  <Object type="0xb525" id="Goo Wheel">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x06</Index>
+    </Texture>
+    <Rotation>80</Rotation>
+  </Object>
+  <Object type="0xb526" id="Psychic Shot">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x10</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0xb527" id="Psychic Shot Red">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x11</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0xb528" id="Psychic Shot Yellow">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x12</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0xb529" id="Psychic Shot Green">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x13</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0xb52a" id="Psychic Shot Cyan">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x14</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0xb52b" id="Psychic Shot Blue">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x15</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0xb52c" id="Psychic Shot Pink">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x16</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0xb52d" id="Psychic Shot Pale">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x17</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0xb52e" id="Psychic Spear">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x18</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x2f33" id="Psychic Blob">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x19</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x2f34" id="Psychic Spike">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x1a</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x2f35" id="Psychic Spinner">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x1b</Index>
+    </Texture>
+    <Rotation>90</Rotation>
+  </Object>
+  <Object type="0x2f36" id="Psychic Wheel">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x1c</Index>
+    </Texture>
+    <Rotation>65</Rotation>
+  </Object>
+  <Object type="0x2f37" id="Psychic Blast">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x1d</Index>
+    </Texture>
+  </Object>
+  <Object type="0x2f38" id="Psychic Wave">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x1e</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x2f39" id="Energy Charge">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x20</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x2f3a" id="Energy Bolt">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x21</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x2f3b" id="Energy Spike">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x22</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x2f3c" id="Energy Shock">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x23</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x2f3d" id="Energy Shot">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x24</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x2f3e" id="Energy Spinner">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x25</Index>
+    </Texture>
+    <Rotation>110</Rotation>
+  </Object>
+  <Object type="0x2f3f" id="Energy Wheel">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x26</Index>
+    </Texture>
+    <Rotation>180</Rotation>
+  </Object>
+  <Object type="0x2f40" id="Energy Blast">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x27</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x2f41" id="Energy Splat">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x28</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x2f42" id="Energy Arrow">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x29</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x099a" id="F.E.R.A.L.">
+    <Enemy />
+    <Class>Character</Class>
+    <Group>P.E.T.S.</Group>
+    <AnimatedTexture>
+      <File>highTechTerrorChars16x16</File>
+      <Index>1</Index>
+    </AnimatedTexture>
+    <Portrait>
+      <AnimatedTexture>
+        <File>highTechTerrorChars16x16</File>
+        <Index>1</Index>
+      </AnimatedTexture>
+    </Portrait>
+    <AltTexture id="1">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x14</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x13</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x12</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <AnimatedTexture>
+        <File>highTechTerrorChars8x8</File>
+        <Index>1</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="6">
+      <AnimatedTexture>
+        <File>highTechTerrorChars8x8</File>
+        <Index>2</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="7">
+      <AnimatedTexture>
+        <File>highTechTerrorChars8x8</File>
+        <Index>3</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="8">
+      <AnimatedTexture>
+        <File>highTechTerrorChars8x8</File>
+        <Index>4</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="9">
+      <AnimatedTexture>
+        <File>highTechTerrorChars8x8</File>
+        <Index>5</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="10">
+      <AnimatedTexture>
+        <File>highTechTerrorChars8x8</File>
+        <Index>6</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="11">
+      <AnimatedTexture>
+        <File>highTechTerrorChars16x16</File>
+        <Index>3</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="12">
+      <Texture>
+        <File>highTechTerrorObjects8x8</File>
+        <Index>0x61</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="13">
+      <Texture>
+        <File>highTechTerrorObjects8x8</File>
+        <Index>0x62</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="14">
+      <Texture>
+        <File>highTechTerrorObjects8x8</File>
+        <Index>0x63</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="15">
+      <Texture>
+        <File>highTechTerrorObjects8x8</File>
+        <Index>0x71</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="16">
+      <Texture>
+        <File>highTechTerrorObjects8x8</File>
+        <Index>0x72</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="17">
+      <Texture>
+        <File>highTechTerrorObjects8x8</File>
+        <Index>0x73</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="18">
+      <Texture>
+        <File>highTechTerrorObjects8x8</File>
+        <Index>0x81</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="19">
+      <Texture>
+        <File>highTechTerrorObjects8x8</File>
+        <Index>0x82</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="20">
+      <Texture>
+        <File>highTechTerrorObjects8x8</File>
+        <Index>0x83</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="21">
+      <Texture>
+        <File>highTechTerrorObjects8x8</File>
+        <Index>0x91</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="22">
+      <Texture>
+        <File>highTechTerrorObjects8x8</File>
+        <Index>0x92</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="23">
+      <Texture>
+        <File>highTechTerrorObjects8x8</File>
+        <Index>0x93</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="24">
+      <Texture>
+        <File>highTechTerrorObjects8x8</File>
+        <Index>0xa1</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="25">
+      <Texture>
+        <File>highTechTerrorObjects8x8</File>
+        <Index>0xa2</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="26">
+      <Texture>
+        <File>highTechTerrorObjects8x8</File>
+        <Index>0xa3</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="27">
+      <Texture>
+        <File>highTechTerrorObjects8x8</File>
+        <Index>0xb1</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="28">
+      <Texture>
+        <File>highTechTerrorObjects8x8</File>
+        <Index>0xb2</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="29">
+      <Texture>
+        <File>highTechTerrorObjects8x8</File>
+        <Index>0xb3</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="30">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x35</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="31">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x36</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="32">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x37</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="33">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x00</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="34">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x01</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="35">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x02</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="36">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x03</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="37">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x04</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="38">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x05</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="39">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x06</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="40">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x07</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="41">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x08</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="42">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x09</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="43">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x0a</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="44">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x0b</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="45">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x0c</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="46">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x0d</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="47">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x0e</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="48">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x0f</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="49">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x10</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="50">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x11</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="51">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x03</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="52">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x02</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="53">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x01</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="54">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x00</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="55">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x15</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="56">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x16</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="57">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x17</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="58">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x18</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="59">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x19</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="60">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x1a</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="61">
+      <AnimatedTexture>
+        <File>highTechTerrorChars16x16</File>
+        <Index>4</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="62">
+      <AnimatedTexture>
+        <File>highTechTerrorChars16x16</File>
+        <Index>5</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="63">
+      <AnimatedTexture>
+        <File>highTechTerrorChars16x16</File>
+        <Index>6</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <HitSound>monster/slimes_death</HitSound>
+    <DeathSound>monster/flying_brain_death</DeathSound>
+    <Sound id="3">monster/flying_brain_death</Sound>
+    <Sound id="0">laser_build</Sound>
+    <Sound id="1">laser_hold</Sound>
+    <Sound id="2">laser_end</Sound>
+    <Size>180</Size>
+    <ShadowSize>0</ShadowSize>
+    <MaxHitPoints>100000</MaxHitPoints>
+    <AlwaysPositiveHealth />
+    <Defense>30</Defense>
+    <Exp>40000</Exp>
+    <KillStat stat="GrotesqueKills" />
+    <KillStat stat="GodKills" />
+    <Quest />
+    <God />
+    <StasisImmune />
+    <ParalyzeImmune />
+    <StunImmune />
+    <SlowImmune />
+    <EventChestBoss />
+    <TrackLoot />
+    <HealthBarBoss radius="50" />
+    <Projectile id="0">
+      <ObjectId>Goo Splat</ObjectId>
+      <Damage>110</Damage>
+      <Speed>50</Speed>
+      <Acceleration>45</Acceleration>
+      <AccelerationDelay>700</AccelerationDelay>
+      <SpeedClamp>100</SpeedClamp>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Psychic Spinner</ObjectId>
+      <Damage>130</Damage>
+      <Speed>40</Speed>
+      <Acceleration>40</Acceleration>
+      <AccelerationDelay>2000</AccelerationDelay>
+      <SpeedClamp>80</SpeedClamp>
+      <LifetimeMS>5000</LifetimeMS>
+      <Amplitude>1</Amplitude>
+      <Frequency>10</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Psychic Shot</ObjectId>
+      <Damage>110</Damage>
+      <Speed>80</Speed>
+      <Acceleration>-45</Acceleration>
+      <AccelerationDelay>2000</AccelerationDelay>
+      <SpeedClamp>30</SpeedClamp>
+      <LifetimeMS>5000</LifetimeMS>
+      <Amplitude>1</Amplitude>
+      <Frequency>10</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+      <FaceDir />
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>200</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-40</Acceleration>
+      <AccelerationDelay>400</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>9400</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="4">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>200</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-40</Acceleration>
+      <AccelerationDelay>900</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>9600</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="5">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>200</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-40</Acceleration>
+      <AccelerationDelay>1400</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>9800</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="6">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>200</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-40</Acceleration>
+      <AccelerationDelay>1900</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="7">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>200</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-40</Acceleration>
+      <AccelerationDelay>400</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>8400</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="8">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>200</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-40</Acceleration>
+      <AccelerationDelay>900</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>8600</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="9">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>200</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-40</Acceleration>
+      <AccelerationDelay>1400</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>8800</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="10">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>200</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-40</Acceleration>
+      <AccelerationDelay>1900</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>9000</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="11">
+      <ObjectId>Goo Wave</ObjectId>
+      <Speed>150</Speed>
+      <Damage>0</Damage>
+      <Size>100</Size>
+      <LifetimeMS>4000</LifetimeMS>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="12">
+      <ObjectId>Energy Spike</ObjectId>
+      <Speed>130</Speed>
+      <Damage>0</Damage>
+      <Size>100</Size>
+      <LifetimeMS>4000</LifetimeMS>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="13">
+      <ObjectId>Energy Splat</ObjectId>
+      <Damage>110</Damage>
+      <Speed>50</Speed>
+      <Acceleration>45</Acceleration>
+      <AccelerationDelay>700</AccelerationDelay>
+      <SpeedClamp>100</SpeedClamp>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="14">
+      <ObjectId>Psychic Spike</ObjectId>
+      <Damage>140</Damage>
+      <Speed>85</Speed>
+      <Acceleration>30</Acceleration>
+      <AccelerationDelay>2000</AccelerationDelay>
+      <SpeedClamp>110</SpeedClamp>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>110</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="15">
+      <ObjectId>Psychic Wheel</ObjectId>
+      <Damage>160</Damage>
+      <Speed>60</Speed>
+      <Acceleration>30</Acceleration>
+      <AccelerationDelay>2000</AccelerationDelay>
+      <SpeedClamp>110</SpeedClamp>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="16">
+      <ObjectId>Psychic Blob</ObjectId>
+      <Damage>130</Damage>
+      <Speed>35</Speed>
+      <Acceleration>30</Acceleration>
+      <AccelerationDelay>2000</AccelerationDelay>
+      <SpeedClamp>110</SpeedClamp>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>110</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="17">
+      <ObjectId>Psychic Spike</ObjectId>
+      <Damage>140</Damage>
+      <Speed>35</Speed>
+      <Acceleration>60</Acceleration>
+      <AccelerationDelay>500</AccelerationDelay>
+      <SpeedClamp>85</SpeedClamp>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>110</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="18">
+      <ObjectId>Psychic Wheel</ObjectId>
+      <Damage>160</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="19">
+      <ObjectId>Psychic Blob</ObjectId>
+      <Damage>130</Damage>
+      <Speed>85</Speed>
+      <Acceleration>-60</Acceleration>
+      <AccelerationDelay>500</AccelerationDelay>
+      <SpeedClamp>35</SpeedClamp>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>110</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="20">
+      <ObjectId>Goo Blast</ObjectId>
+      <Damage>115</Damage>
+      <Speed>50</Speed>
+      <Acceleration>20</Acceleration>
+      <AccelerationDelay>500</AccelerationDelay>
+      <SpeedClamp>60</SpeedClamp>
+      <LifetimeMS>15000</LifetimeMS>
+      <Size>130</Size>
+      <MultiHit />
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="21">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>200</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-40</Acceleration>
+      <AccelerationDelay>400</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>11000</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="22">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>200</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-40</Acceleration>
+      <AccelerationDelay>190</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>11000</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="23">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>200</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-40</Acceleration>
+      <AccelerationDelay>120</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>11000</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="24">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>200</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-40</Acceleration>
+      <AccelerationDelay>100</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>11000</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="25">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>200</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-40</Acceleration>
+      <AccelerationDelay>400</AccelerationDelay>
+      <SpeedClamp>20</SpeedClamp>
+      <LifetimeMS>9000</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="26">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>200</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-40</Acceleration>
+      <AccelerationDelay>190</AccelerationDelay>
+      <SpeedClamp>20</SpeedClamp>
+      <LifetimeMS>9000</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="27">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>200</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-40</Acceleration>
+      <AccelerationDelay>120</AccelerationDelay>
+      <SpeedClamp>20</SpeedClamp>
+      <LifetimeMS>9000</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="28">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>200</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-40</Acceleration>
+      <AccelerationDelay>100</AccelerationDelay>
+      <SpeedClamp>20</SpeedClamp>
+      <LifetimeMS>9000</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="29">
+      <ObjectId>Psychic Shot Red</ObjectId>
+      <Damage>120</Damage>
+      <Speed>25</Speed>
+      <Acceleration>170</Acceleration>
+      <AccelerationDelay>1000</AccelerationDelay>
+      <SpeedClamp>100</SpeedClamp>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="30">
+      <ObjectId>Psychic Shot Yellow</ObjectId>
+      <Damage>120</Damage>
+      <Speed>25</Speed>
+      <Acceleration>170</Acceleration>
+      <AccelerationDelay>1000</AccelerationDelay>
+      <SpeedClamp>100</SpeedClamp>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="31">
+      <ObjectId>Psychic Shot Green</ObjectId>
+      <Damage>120</Damage>
+      <Speed>25</Speed>
+      <Acceleration>170</Acceleration>
+      <AccelerationDelay>1000</AccelerationDelay>
+      <SpeedClamp>100</SpeedClamp>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="32">
+      <ObjectId>Psychic Shot Cyan</ObjectId>
+      <Damage>120</Damage>
+      <Speed>25</Speed>
+      <Acceleration>170</Acceleration>
+      <AccelerationDelay>1000</AccelerationDelay>
+      <SpeedClamp>100</SpeedClamp>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="33">
+      <ObjectId>Psychic Shot Blue</ObjectId>
+      <Damage>120</Damage>
+      <Speed>25</Speed>
+      <Acceleration>170</Acceleration>
+      <AccelerationDelay>1000</AccelerationDelay>
+      <SpeedClamp>100</SpeedClamp>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="34">
+      <ObjectId>Psychic Shot Pink</ObjectId>
+      <Damage>120</Damage>
+      <Speed>25</Speed>
+      <Acceleration>170</Acceleration>
+      <AccelerationDelay>1000</AccelerationDelay>
+      <SpeedClamp>100</SpeedClamp>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="35">
+      <ObjectId>Psychic Shot Pale</ObjectId>
+      <Damage>120</Damage>
+      <Speed>25</Speed>
+      <Acceleration>170</Acceleration>
+      <AccelerationDelay>1000</AccelerationDelay>
+      <SpeedClamp>100</SpeedClamp>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="36">
+      <ObjectId>Goo Splat</ObjectId>
+      <Damage>160</Damage>
+      <Speed>60</Speed>
+      <Acceleration>40</Acceleration>
+      <AccelerationDelay>700</AccelerationDelay>
+      <SpeedClamp>120</SpeedClamp>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="37">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>250</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-45</Acceleration>
+      <AccelerationDelay>90</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>6400</LifetimeMS>
+      <Size>180</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="38">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>200</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-40</Acceleration>
+      <AccelerationDelay>200</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>5000</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="39">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>200</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-40</Acceleration>
+      <AccelerationDelay>400</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>5000</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="40">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>200</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-40</Acceleration>
+      <AccelerationDelay>600</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>5000</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="41">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>200</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-40</Acceleration>
+      <AccelerationDelay>800</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>5000</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="42">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>200</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-40</Acceleration>
+      <AccelerationDelay>1000</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>5000</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="43">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>200</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-40</Acceleration>
+      <AccelerationDelay>1200</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>5000</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="44">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>200</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-40</Acceleration>
+      <AccelerationDelay>1400</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>5000</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="45">
+      <ObjectId>Energy Spike</ObjectId>
+      <Damage>100</Damage>
+      <Speed>25</Speed>
+      <Acceleration>160</Acceleration>
+      <AccelerationDelay>1000</AccelerationDelay>
+      <SpeedClamp>90</SpeedClamp>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="46">
+      <ObjectId>Goo Wheel</ObjectId>
+      <Speed>25</Speed>
+      <Size>150</Size>
+      <Damage>200</Damage>
+      <LifetimeMS>2000</LifetimeMS>
+      <MultiHit />
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="47">
+      <ObjectId>Goo Wheel</ObjectId>
+      <Speed>50</Speed>
+      <Size>150</Size>
+      <Damage>200</Damage>
+      <LifetimeMS>2000</LifetimeMS>
+      <MultiHit />
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="48">
+      <ObjectId>Goo Wheel</ObjectId>
+      <Speed>75</Speed>
+      <Size>150</Size>
+      <Damage>200</Damage>
+      <LifetimeMS>2000</LifetimeMS>
+      <MultiHit />
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="49">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>200</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-40</Acceleration>
+      <AccelerationDelay>0</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>5000</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="50">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>200</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-60</Acceleration>
+      <AccelerationDelay>0</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>5000</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="51">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>200</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-80</Acceleration>
+      <AccelerationDelay>0</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>5000</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="52">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>200</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-100</Acceleration>
+      <AccelerationDelay>0</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>5000</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="53">
+      <ObjectId>Energy Spinner</ObjectId>
+      <Damage>200</Damage>
+      <Speed>60</Speed>
+      <Acceleration>-120</Acceleration>
+      <AccelerationDelay>0</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>5000</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="54">
+      <ObjectId>Energy Spike</ObjectId>
+      <Damage>100</Damage>
+      <Speed>50</Speed>
+      <LifetimeMS>5000</LifetimeMS>
+      <Size>120</Size>
+      <MultiHit />
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="55">
+      <ObjectId>InvisibleLaser</ObjectId>
+      <Laser>100</Laser>
+      <Speed>0</Speed>
+      <Damage>150</Damage>
+      <Size>50</Size>
+      <LifetimeMS>200</LifetimeMS>
+      <MultiHit />
+      <ArmorPiercing />
+    </Projectile>
+    <DamageBasedXP />
+  </Object>
+  <Object type="0x2f50" id="M.E.R.V.">
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>highTechTerrorObjects16x16</File>
+      <Index>0x24</Index>
+    </Texture>
+    <Animation prob="1" period="0">
+      <Frame time="0.2">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0x24</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0x25</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Size>90</Size>
+    <NoCollisionWhenMovement />
+    <Invincible />
+    <Projectile id="0">
+      <ObjectId>Energy Shock</ObjectId>
+      <Damage>70</Damage>
+      <Speed>100</Speed>
+      <Acceleration>-50</Acceleration>
+      <AccelerationDelay>100</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>2000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <ConditionEffect duration="0.2">Paralyzed</ConditionEffect>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Psychic Blast</ObjectId>
+      <Damage>140</Damage>
+      <Speed>20</Speed>
+      <Acceleration>20</Acceleration>
+      <AccelerationDelay>500</AccelerationDelay>
+      <SpeedClamp>50</SpeedClamp>
+      <LifetimeMS>1500</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <PassesCover />
+      <Wavy />
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Psychic Blast</ObjectId>
+      <Damage>140</Damage>
+      <Speed>30</Speed>
+      <Acceleration>20</Acceleration>
+      <AccelerationDelay>500</AccelerationDelay>
+      <SpeedClamp>60</SpeedClamp>
+      <LifetimeMS>1500</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <PassesCover />
+      <Wavy />
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>Energy Wheel</ObjectId>
+      <Damage>130</Damage>
+      <Speed>0</Speed>
+      <Acceleration>20</Acceleration>
+      <AccelerationDelay>1000</AccelerationDelay>
+      <SpeedClamp>75</SpeedClamp>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>90</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="4">
+      <ObjectId>Energy Bolt</ObjectId>
+      <Damage>70</Damage>
+      <Speed>100</Speed>
+      <Acceleration>-50</Acceleration>
+      <AccelerationDelay>100</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>2000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <ConditionEffect duration="0.4">Paralyzed</ConditionEffect>
+    </Projectile>
+    <Projectile id="5">
+      <ObjectId>Goo Spinner</ObjectId>
+      <Damage>0</Damage>
+      <Speed>0</Speed>
+      <LifetimeMS>5000</LifetimeMS>
+      <Size>90</Size>
+      <MultiHit />
+      <ConditionEffect duration="1.5">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="6">
+      <ObjectId>Psychic Wave</ObjectId>
+      <Damage>140</Damage>
+      <Speed>120</Speed>
+      <Acceleration>-200</Acceleration>
+      <AccelerationDelay>50</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>1500</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <PassesCover />
+      <Wavy />
+    </Projectile>
+    <Projectile id="7">
+      <ObjectId>Psychic Wave</ObjectId>
+      <Damage>140</Damage>
+      <Speed>120</Speed>
+      <Acceleration>-200</Acceleration>
+      <AccelerationDelay>150</AccelerationDelay>
+      <SpeedClamp>0</SpeedClamp>
+      <LifetimeMS>1500</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <PassesCover />
+      <Wavy />
+    </Projectile>
+  </Object>
+  <Object type="0x2f5a" id="HTT Turret TL">
+    <DisplayId>T.U.R.R.E.T.</DisplayId>
+    <Class>Character</Class>
+    <Enemy />
+    <Model>GasEmitter</Model>
+    <Texture>
+      <File>lofiObjBig</File>
+      <Index>0x3e</Index>
+    </Texture>
+    <NoMiniMap />
+    <Invincible />
+    <Size>100</Size>
+    <Projectile id="0">
+      <ObjectId>Energy Charge</ObjectId>
+      <Damage>150</Damage>
+      <Speed>25</Speed>
+      <Acceleration>20</Acceleration>
+      <AccelerationDelay>900</AccelerationDelay>
+      <SpeedClamp>60</SpeedClamp>
+      <LifetimeMS>6000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Energy Blast</ObjectId>
+      <Damage>0</Damage>
+      <Speed>50</Speed>
+      <Acceleration>100</Acceleration>
+      <AccelerationDelay>500</AccelerationDelay>
+      <SpeedClamp>100</SpeedClamp>
+      <LifetimeMS>1000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <Boomerang />
+      <ConditionEffect duration="2">Dazed</ConditionEffect>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Energy Shot</ObjectId>
+      <Damage>0</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ConditionEffect duration="2">Dazed</ConditionEffect>
+    </Projectile>
+  </Object>
+  <Object type="0x2f5b" id="HTT Turret TR">
+    <DisplayId>T.U.R.R.E.T.</DisplayId>
+    <Class>Character</Class>
+    <Enemy />
+    <Model>GasEmitter</Model>
+    <Texture>
+      <File>lofiObjBig</File>
+      <Index>0x3e</Index>
+    </Texture>
+    <NoMiniMap />
+    <Invincible />
+    <Size>100</Size>
+    <Projectile id="0">
+      <ObjectId>Energy Charge</ObjectId>
+      <Damage>150</Damage>
+      <Speed>25</Speed>
+      <Acceleration>20</Acceleration>
+      <AccelerationDelay>900</AccelerationDelay>
+      <SpeedClamp>60</SpeedClamp>
+      <LifetimeMS>6000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Energy Blast</ObjectId>
+      <Damage>0</Damage>
+      <Speed>50</Speed>
+      <Acceleration>100</Acceleration>
+      <AccelerationDelay>500</AccelerationDelay>
+      <SpeedClamp>100</SpeedClamp>
+      <LifetimeMS>1000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <Boomerang />
+      <ConditionEffect duration="2">Dazed</ConditionEffect>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Energy Shot</ObjectId>
+      <Damage>0</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ConditionEffect duration="2">Dazed</ConditionEffect>
+    </Projectile>
+  </Object>
+  <Object type="0x2f5c" id="HTT Turret BL">
+    <DisplayId>T.U.R.R.E.T.</DisplayId>
+    <Class>Character</Class>
+    <Enemy />
+    <Model>GasEmitter</Model>
+    <Texture>
+      <File>lofiObjBig</File>
+      <Index>0x3e</Index>
+    </Texture>
+    <NoMiniMap />
+    <Invincible />
+    <Size>100</Size>
+    <Projectile id="0">
+      <ObjectId>Energy Charge</ObjectId>
+      <Damage>150</Damage>
+      <Speed>25</Speed>
+      <Acceleration>20</Acceleration>
+      <AccelerationDelay>900</AccelerationDelay>
+      <SpeedClamp>60</SpeedClamp>
+      <LifetimeMS>6000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Energy Blast</ObjectId>
+      <Damage>0</Damage>
+      <Speed>50</Speed>
+      <Acceleration>100</Acceleration>
+      <AccelerationDelay>500</AccelerationDelay>
+      <SpeedClamp>100</SpeedClamp>
+      <LifetimeMS>1000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <Boomerang />
+      <ConditionEffect duration="2">Dazed</ConditionEffect>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Energy Shot</ObjectId>
+      <Damage>0</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ConditionEffect duration="2">Dazed</ConditionEffect>
+    </Projectile>
+  </Object>
+  <Object type="0x2f5d" id="HTT Turret BR">
+    <DisplayId>T.U.R.R.E.T.</DisplayId>
+    <Class>Character</Class>
+    <Enemy />
+    <Model>GasEmitter</Model>
+    <Texture>
+      <File>lofiObjBig</File>
+      <Index>0x3e</Index>
+    </Texture>
+    <NoMiniMap />
+    <Invincible />
+    <Size>100</Size>
+    <Projectile id="0">
+      <ObjectId>Energy Charge</ObjectId>
+      <Damage>150</Damage>
+      <Speed>25</Speed>
+      <Acceleration>20</Acceleration>
+      <AccelerationDelay>900</AccelerationDelay>
+      <SpeedClamp>60</SpeedClamp>
+      <LifetimeMS>6000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Energy Blast</ObjectId>
+      <Damage>0</Damage>
+      <Speed>50</Speed>
+      <Acceleration>100</Acceleration>
+      <AccelerationDelay>500</AccelerationDelay>
+      <SpeedClamp>100</SpeedClamp>
+      <LifetimeMS>1000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <Boomerang />
+      <ConditionEffect duration="2">Dazed</ConditionEffect>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Energy Shot</ObjectId>
+      <Damage>0</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ConditionEffect duration="2">Dazed</ConditionEffect>
+    </Projectile>
+  </Object>
+  <Object type="0x2f5e" id="HTT Tentacle NW">
+    <DisplayId>F.E.R.A.L.</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>highTechTerrorChars16x16</File>
+      <Index>2</Index>
+    </AnimatedTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x20</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x21</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x22</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x23</Index>
+      </Texture>
+    </AltTexture>
+    <Invincible />
+    <Size>130</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <Projectile id="0">
+      <ObjectId>Psychic Blast</ObjectId>
+      <Damage>90</Damage>
+      <Speed>75</Speed>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>100</Size>
+      <Wavy />
+      <FaceDir />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Psychic Spear</ObjectId>
+      <Damage>0</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>1667</LifetimeMS>
+      <Size>90</Size>
+      <Wavy />
+      <FaceDir />
+      <MultiHit />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Psychic Spear</ObjectId>
+      <Damage>0</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>2400</LifetimeMS>
+      <Size>90</Size>
+      <Wavy />
+      <FaceDir />
+      <MultiHit />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>Psychic Wave</ObjectId>
+      <Damage>120</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Size>110</Size>
+      <Wavy />
+    </Projectile>
+    <Projectile id="4">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>90</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>1300</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <FaceDir />
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="5">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>90</Damage>
+      <Speed>70</Speed>
+      <Acceleration>-55</Acceleration>
+      <AccelerationDelay>0</AccelerationDelay>
+      <SpeedClamp>50</SpeedClamp>
+      <LifetimeMS>1300</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <FaceDir />
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="6">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>90</Damage>
+      <Speed>70</Speed>
+      <Acceleration>-55</Acceleration>
+      <AccelerationDelay>0</AccelerationDelay>
+      <SpeedClamp>30</SpeedClamp>
+      <LifetimeMS>1300</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <FaceDir />
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="7">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>0</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>0</LifetimeMS>
+      <Size>0</Size>
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+  </Object>
+  <Object type="0x2f5f" id="HTT Tentacle N">
+    <DisplayId>F.E.R.A.L.</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>highTechTerrorChars16x16</File>
+      <Index>2</Index>
+    </AnimatedTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x20</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x21</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x22</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x23</Index>
+      </Texture>
+    </AltTexture>
+    <Invincible />
+    <Size>130</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <Projectile id="0">
+      <ObjectId>Psychic Blast</ObjectId>
+      <Damage>90</Damage>
+      <Speed>75</Speed>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>100</Size>
+      <Wavy />
+      <FaceDir />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Psychic Spear</ObjectId>
+      <Damage>0</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>1667</LifetimeMS>
+      <Size>90</Size>
+      <Wavy />
+      <FaceDir />
+      <MultiHit />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Psychic Spear</ObjectId>
+      <Damage>0</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>2400</LifetimeMS>
+      <Size>90</Size>
+      <Wavy />
+      <FaceDir />
+      <MultiHit />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>Psychic Wave</ObjectId>
+      <Damage>120</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Size>110</Size>
+      <Wavy />
+    </Projectile>
+    <Projectile id="4">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>90</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>1300</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <FaceDir />
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="5">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>90</Damage>
+      <Speed>70</Speed>
+      <Acceleration>-55</Acceleration>
+      <AccelerationDelay>0</AccelerationDelay>
+      <SpeedClamp>50</SpeedClamp>
+      <LifetimeMS>1300</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <FaceDir />
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="6">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>90</Damage>
+      <Speed>70</Speed>
+      <Acceleration>-55</Acceleration>
+      <AccelerationDelay>0</AccelerationDelay>
+      <SpeedClamp>30</SpeedClamp>
+      <LifetimeMS>1300</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <FaceDir />
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="7">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>0</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>0</LifetimeMS>
+      <Size>0</Size>
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+  </Object>
+  <Object type="0x2f60" id="HTT Tentacle NE">
+    <DisplayId>F.E.R.A.L.</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>highTechTerrorChars16x16</File>
+      <Index>2</Index>
+    </AnimatedTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x20</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x21</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x22</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x23</Index>
+      </Texture>
+    </AltTexture>
+    <Invincible />
+    <Size>130</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <Projectile id="0">
+      <ObjectId>Psychic Blast</ObjectId>
+      <Damage>90</Damage>
+      <Speed>75</Speed>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>100</Size>
+      <Wavy />
+      <FaceDir />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Psychic Spear</ObjectId>
+      <Damage>0</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>1667</LifetimeMS>
+      <Size>90</Size>
+      <Wavy />
+      <FaceDir />
+      <MultiHit />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Psychic Spear</ObjectId>
+      <Damage>0</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>2400</LifetimeMS>
+      <Size>90</Size>
+      <Wavy />
+      <FaceDir />
+      <MultiHit />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>Psychic Wave</ObjectId>
+      <Damage>120</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Size>110</Size>
+      <Wavy />
+    </Projectile>
+    <Projectile id="4">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>90</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>1300</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <FaceDir />
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="5">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>90</Damage>
+      <Speed>70</Speed>
+      <Acceleration>-55</Acceleration>
+      <AccelerationDelay>0</AccelerationDelay>
+      <SpeedClamp>50</SpeedClamp>
+      <LifetimeMS>1300</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <FaceDir />
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="6">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>90</Damage>
+      <Speed>70</Speed>
+      <Acceleration>-55</Acceleration>
+      <AccelerationDelay>0</AccelerationDelay>
+      <SpeedClamp>30</SpeedClamp>
+      <LifetimeMS>1300</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <FaceDir />
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="7">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>0</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>0</LifetimeMS>
+      <Size>0</Size>
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+  </Object>
+  <Object type="0x2f61" id="HTT Tentacle W">
+    <DisplayId>F.E.R.A.L.</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>highTechTerrorChars16x16</File>
+      <Index>2</Index>
+    </AnimatedTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x20</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x21</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x22</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x23</Index>
+      </Texture>
+    </AltTexture>
+    <Invincible />
+    <Size>130</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <Projectile id="0">
+      <ObjectId>Psychic Blast</ObjectId>
+      <Damage>90</Damage>
+      <Speed>75</Speed>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>100</Size>
+      <Wavy />
+      <FaceDir />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Psychic Spear</ObjectId>
+      <Damage>0</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>1667</LifetimeMS>
+      <Size>90</Size>
+      <Wavy />
+      <FaceDir />
+      <MultiHit />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Psychic Spear</ObjectId>
+      <Damage>0</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>2400</LifetimeMS>
+      <Size>90</Size>
+      <Wavy />
+      <FaceDir />
+      <MultiHit />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>Psychic Wave</ObjectId>
+      <Damage>120</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Size>110</Size>
+      <Wavy />
+    </Projectile>
+    <Projectile id="4">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>90</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>1300</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <FaceDir />
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="5">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>90</Damage>
+      <Speed>70</Speed>
+      <Acceleration>-55</Acceleration>
+      <AccelerationDelay>0</AccelerationDelay>
+      <SpeedClamp>50</SpeedClamp>
+      <LifetimeMS>1300</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <FaceDir />
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="6">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>90</Damage>
+      <Speed>70</Speed>
+      <Acceleration>-55</Acceleration>
+      <AccelerationDelay>0</AccelerationDelay>
+      <SpeedClamp>30</SpeedClamp>
+      <LifetimeMS>1300</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <FaceDir />
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="7">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>0</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>0</LifetimeMS>
+      <Size>0</Size>
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+  </Object>
+  <Object type="0x2f62" id="HTT Tentacle E">
+    <DisplayId>F.E.R.A.L.</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>highTechTerrorChars16x16</File>
+      <Index>2</Index>
+    </AnimatedTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x20</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x21</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x22</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x23</Index>
+      </Texture>
+    </AltTexture>
+    <Invincible />
+    <Size>130</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <Projectile id="0">
+      <ObjectId>Psychic Blast</ObjectId>
+      <Damage>90</Damage>
+      <Speed>75</Speed>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>100</Size>
+      <Wavy />
+      <FaceDir />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Psychic Spear</ObjectId>
+      <Damage>0</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>1667</LifetimeMS>
+      <Size>90</Size>
+      <Wavy />
+      <FaceDir />
+      <MultiHit />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Psychic Spear</ObjectId>
+      <Damage>0</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>2400</LifetimeMS>
+      <Size>90</Size>
+      <Wavy />
+      <FaceDir />
+      <MultiHit />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>Psychic Wave</ObjectId>
+      <Damage>120</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Size>110</Size>
+      <Wavy />
+    </Projectile>
+    <Projectile id="4">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>90</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>1300</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <FaceDir />
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="5">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>90</Damage>
+      <Speed>70</Speed>
+      <Acceleration>-55</Acceleration>
+      <AccelerationDelay>0</AccelerationDelay>
+      <SpeedClamp>50</SpeedClamp>
+      <LifetimeMS>1300</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <FaceDir />
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="6">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>90</Damage>
+      <Speed>70</Speed>
+      <Acceleration>-55</Acceleration>
+      <AccelerationDelay>0</AccelerationDelay>
+      <SpeedClamp>30</SpeedClamp>
+      <LifetimeMS>1300</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <FaceDir />
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="7">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>0</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>0</LifetimeMS>
+      <Size>0</Size>
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+  </Object>
+  <Object type="0x2f63" id="HTT Tentacle SW">
+    <DisplayId>F.E.R.A.L.</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>highTechTerrorChars16x16</File>
+      <Index>2</Index>
+    </AnimatedTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x20</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x21</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x22</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x23</Index>
+      </Texture>
+    </AltTexture>
+    <Invincible />
+    <Size>130</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <Projectile id="0">
+      <ObjectId>Psychic Blast</ObjectId>
+      <Damage>90</Damage>
+      <Speed>75</Speed>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>100</Size>
+      <Wavy />
+      <FaceDir />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Psychic Spear</ObjectId>
+      <Damage>0</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>1667</LifetimeMS>
+      <Size>90</Size>
+      <Wavy />
+      <FaceDir />
+      <MultiHit />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Psychic Spear</ObjectId>
+      <Damage>0</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>2400</LifetimeMS>
+      <Size>90</Size>
+      <Wavy />
+      <FaceDir />
+      <MultiHit />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>Psychic Wave</ObjectId>
+      <Damage>120</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Size>110</Size>
+      <Wavy />
+    </Projectile>
+    <Projectile id="4">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>90</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>1300</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <FaceDir />
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="5">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>90</Damage>
+      <Speed>70</Speed>
+      <Acceleration>-55</Acceleration>
+      <AccelerationDelay>0</AccelerationDelay>
+      <SpeedClamp>50</SpeedClamp>
+      <LifetimeMS>1300</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <FaceDir />
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="6">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>90</Damage>
+      <Speed>70</Speed>
+      <Acceleration>-55</Acceleration>
+      <AccelerationDelay>0</AccelerationDelay>
+      <SpeedClamp>30</SpeedClamp>
+      <LifetimeMS>1300</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <FaceDir />
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="7">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>0</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>0</LifetimeMS>
+      <Size>0</Size>
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+  </Object>
+  <Object type="0x2f64" id="HTT Tentacle S">
+    <DisplayId>F.E.R.A.L.</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>highTechTerrorChars16x16</File>
+      <Index>2</Index>
+    </AnimatedTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x20</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x21</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x22</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x23</Index>
+      </Texture>
+    </AltTexture>
+    <Invincible />
+    <Size>130</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <Projectile id="0">
+      <ObjectId>Psychic Blast</ObjectId>
+      <Damage>90</Damage>
+      <Speed>75</Speed>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>100</Size>
+      <Wavy />
+      <FaceDir />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Psychic Spear</ObjectId>
+      <Damage>0</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>1667</LifetimeMS>
+      <Size>90</Size>
+      <Wavy />
+      <FaceDir />
+      <MultiHit />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Psychic Spear</ObjectId>
+      <Damage>0</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>2400</LifetimeMS>
+      <Size>90</Size>
+      <Wavy />
+      <FaceDir />
+      <MultiHit />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>Psychic Wave</ObjectId>
+      <Damage>120</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Size>110</Size>
+      <Wavy />
+    </Projectile>
+    <Projectile id="4">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>90</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>1300</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <FaceDir />
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="5">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>90</Damage>
+      <Speed>70</Speed>
+      <Acceleration>-55</Acceleration>
+      <AccelerationDelay>0</AccelerationDelay>
+      <SpeedClamp>50</SpeedClamp>
+      <LifetimeMS>1300</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <FaceDir />
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="6">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>90</Damage>
+      <Speed>70</Speed>
+      <Acceleration>-55</Acceleration>
+      <AccelerationDelay>0</AccelerationDelay>
+      <SpeedClamp>30</SpeedClamp>
+      <LifetimeMS>1300</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <FaceDir />
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="7">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>0</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>0</LifetimeMS>
+      <Size>0</Size>
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+  </Object>
+  <Object type="0x2f65" id="HTT Tentacle SE">
+    <DisplayId>F.E.R.A.L.</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>highTechTerrorChars16x16</File>
+      <Index>2</Index>
+    </AnimatedTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x20</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x21</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x22</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x23</Index>
+      </Texture>
+    </AltTexture>
+    <Invincible />
+    <Size>130</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <Projectile id="0">
+      <ObjectId>Psychic Blast</ObjectId>
+      <Damage>90</Damage>
+      <Speed>75</Speed>
+      <LifetimeMS>10000</LifetimeMS>
+      <Size>100</Size>
+      <Wavy />
+      <FaceDir />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Psychic Spear</ObjectId>
+      <Damage>0</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>1667</LifetimeMS>
+      <Size>90</Size>
+      <Wavy />
+      <FaceDir />
+      <MultiHit />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Psychic Spear</ObjectId>
+      <Damage>0</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>2400</LifetimeMS>
+      <Size>90</Size>
+      <Wavy />
+      <FaceDir />
+      <MultiHit />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>Psychic Wave</ObjectId>
+      <Damage>120</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Size>110</Size>
+      <Wavy />
+    </Projectile>
+    <Projectile id="4">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>90</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>1300</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <FaceDir />
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="5">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>90</Damage>
+      <Speed>70</Speed>
+      <Acceleration>-55</Acceleration>
+      <AccelerationDelay>0</AccelerationDelay>
+      <SpeedClamp>50</SpeedClamp>
+      <LifetimeMS>1300</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <FaceDir />
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="6">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>90</Damage>
+      <Speed>70</Speed>
+      <Acceleration>-55</Acceleration>
+      <AccelerationDelay>0</AccelerationDelay>
+      <SpeedClamp>30</SpeedClamp>
+      <LifetimeMS>1300</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <FaceDir />
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="7">
+      <ObjectId>Goo Spit</ObjectId>
+      <Damage>0</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>0</LifetimeMS>
+      <Size>0</Size>
+      <Amplitude>2</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+  </Object>
+  <Object type="0x3d7b" id="A.E.G.I.S. 1">
+    <DisplayId>A.E.G.I.S.</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x4b</Index>
+    </Texture>
+    <Animation prob="1" period="0">
+      <Frame time="0.2">
+        <Texture>
+          <File>highTechTerrorObjects8x8</File>
+          <Index>0x4b</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>highTechTerrorObjects8x8</File>
+          <Index>0x4c</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>highTechTerrorObjects8x8</File>
+          <Index>0x4d</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>highTechTerrorObjects8x8</File>
+          <Index>0x4c</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Flying />
+    <Z>0.5</Z>
+    <MaxHitPoints>20000</MaxHitPoints>
+    <AlwaysPositiveHealth />
+    <Defense>0</Defense>
+    <Exp>0</Exp>
+    <Size>90</Size>
+    <KillStat stat="StructureKills" />
+    <HitSound>monster/sprites_hit</HitSound>
+    <DeathSound>monster/sprites_death</DeathSound>
+    <Sound id="0">monster/sprites_death</Sound>
+    <ShadowSize>0</ShadowSize>
+    <StasisImmune />
+    <StunImmune />
+    <ParalyzeImmune />
+    <SlowImmune />
+    <Color>0x82D92B</Color>
+    <HealthBar>1</HealthBar>
+  </Object>
+  <Object type="0x3d7c" id="A.E.G.I.S. 2">
+    <DisplayId>A.E.G.I.S.</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x4b</Index>
+    </Texture>
+    <Animation prob="1" period="0">
+      <Frame time="0.2">
+        <Texture>
+          <File>highTechTerrorObjects8x8</File>
+          <Index>0x4b</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>highTechTerrorObjects8x8</File>
+          <Index>0x4c</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>highTechTerrorObjects8x8</File>
+          <Index>0x4d</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>highTechTerrorObjects8x8</File>
+          <Index>0x4c</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Flying />
+    <Z>0.5</Z>
+    <MaxHitPoints>20000</MaxHitPoints>
+    <AlwaysPositiveHealth />
+    <Defense>0</Defense>
+    <Exp>0</Exp>
+    <Size>90</Size>
+    <KillStat stat="StructureKills" />
+    <HitSound>monster/sprites_hit</HitSound>
+    <DeathSound>monster/sprites_death</DeathSound>
+    <Sound id="0">monster/sprites_death</Sound>
+    <ShadowSize>0</ShadowSize>
+    <StasisImmune />
+    <StunImmune />
+    <ParalyzeImmune />
+    <SlowImmune />
+    <Color>0x82D92B</Color>
+    <HealthBar>1</HealthBar>
+  </Object>
+  <Object type="0x3d7d" id="HTT Guide 1">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>lofiEnvironment</File>
+      <Index>0xa4</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x3d7e" id="HTT Guide 2">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>lofiEnvironment</File>
+      <Index>0xa4</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x3d81" id="HTT Tentacle NW Defend">
+    <DisplayId>F.E.R.A.L.</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <AltTexture id="1">
+      <AnimatedTexture>
+        <File>highTechTerrorChars16x16</File>
+        <Index>2</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x20</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x21</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x22</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x23</Index>
+      </Texture>
+    </AltTexture>
+    <MaxHitPoints>20000</MaxHitPoints>
+    <AlwaysPositiveHealth />
+    <Defense>30</Defense>
+    <Exp>0</Exp>
+    <KillStat stat="StructureKills" />
+    <HitSound>monster/medusa_hit</HitSound>
+    <DeathSound>monster/medusa_death</DeathSound>
+    <Size>130</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <HealthBar>1</HealthBar>
+    <StasisImmune />
+    <ParalyzeImmune />
+    <SlowImmune />
+  </Object>
+  <Object type="0x3d82" id="HTT Tentacle N Defend">
+    <DisplayId>F.E.R.A.L.</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <AltTexture id="1">
+      <AnimatedTexture>
+        <File>highTechTerrorChars16x16</File>
+        <Index>2</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x20</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x21</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x22</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x23</Index>
+      </Texture>
+    </AltTexture>
+    <MaxHitPoints>20000</MaxHitPoints>
+    <AlwaysPositiveHealth />
+    <Defense>30</Defense>
+    <Exp>0</Exp>
+    <KillStat stat="StructureKills" />
+    <HitSound>monster/medusa_hit</HitSound>
+    <DeathSound>monster/medusa_death</DeathSound>
+    <Size>130</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <HealthBar>1</HealthBar>
+    <StasisImmune />
+    <ParalyzeImmune />
+    <SlowImmune />
+  </Object>
+  <Object type="0x3d83" id="HTT Tentacle NE Defend">
+    <DisplayId>F.E.R.A.L.</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <AltTexture id="1">
+      <AnimatedTexture>
+        <File>highTechTerrorChars16x16</File>
+        <Index>2</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x20</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x21</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x22</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x23</Index>
+      </Texture>
+    </AltTexture>
+    <MaxHitPoints>20000</MaxHitPoints>
+    <AlwaysPositiveHealth />
+    <Defense>30</Defense>
+    <Exp>0</Exp>
+    <KillStat stat="StructureKills" />
+    <HitSound>monster/medusa_hit</HitSound>
+    <DeathSound>monster/medusa_death</DeathSound>
+    <Size>130</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <HealthBar>1</HealthBar>
+    <StasisImmune />
+    <ParalyzeImmune />
+    <SlowImmune />
+  </Object>
+  <Object type="0x3d84" id="HTT Tentacle W Defend">
+    <DisplayId>F.E.R.A.L.</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <AltTexture id="1">
+      <AnimatedTexture>
+        <File>highTechTerrorChars16x16</File>
+        <Index>2</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x20</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x21</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x22</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x23</Index>
+      </Texture>
+    </AltTexture>
+    <MaxHitPoints>20000</MaxHitPoints>
+    <AlwaysPositiveHealth />
+    <Defense>30</Defense>
+    <Exp>0</Exp>
+    <KillStat stat="StructureKills" />
+    <HitSound>monster/medusa_hit</HitSound>
+    <DeathSound>monster/medusa_death</DeathSound>
+    <Size>130</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <HealthBar>1</HealthBar>
+    <StasisImmune />
+    <ParalyzeImmune />
+    <SlowImmune />
+  </Object>
+  <Object type="0x3d85" id="HTT Tentacle E Defend">
+    <DisplayId>F.E.R.A.L.</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <AltTexture id="1">
+      <AnimatedTexture>
+        <File>highTechTerrorChars16x16</File>
+        <Index>2</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x20</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x21</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x22</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x23</Index>
+      </Texture>
+    </AltTexture>
+    <MaxHitPoints>20000</MaxHitPoints>
+    <AlwaysPositiveHealth />
+    <Defense>30</Defense>
+    <Exp>0</Exp>
+    <KillStat stat="StructureKills" />
+    <HitSound>monster/medusa_hit</HitSound>
+    <DeathSound>monster/medusa_death</DeathSound>
+    <Size>130</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <HealthBar>1</HealthBar>
+    <StasisImmune />
+    <ParalyzeImmune />
+    <SlowImmune />
+  </Object>
+  <Object type="0x3d86" id="HTT Tentacle SW Defend">
+    <DisplayId>F.E.R.A.L.</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <AltTexture id="1">
+      <AnimatedTexture>
+        <File>highTechTerrorChars16x16</File>
+        <Index>2</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x20</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x21</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x22</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x23</Index>
+      </Texture>
+    </AltTexture>
+    <MaxHitPoints>20000</MaxHitPoints>
+    <AlwaysPositiveHealth />
+    <Defense>30</Defense>
+    <Exp>0</Exp>
+    <KillStat stat="StructureKills" />
+    <HitSound>monster/medusa_hit</HitSound>
+    <DeathSound>monster/medusa_death</DeathSound>
+    <Size>130</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <HealthBar>1</HealthBar>
+    <StasisImmune />
+    <ParalyzeImmune />
+    <SlowImmune />
+  </Object>
+  <Object type="0x3d87" id="HTT Tentacle S Defend">
+    <DisplayId>F.E.R.A.L.</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <AltTexture id="1">
+      <AnimatedTexture>
+        <File>highTechTerrorChars16x16</File>
+        <Index>2</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x20</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x21</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x22</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x23</Index>
+      </Texture>
+    </AltTexture>
+    <MaxHitPoints>20000</MaxHitPoints>
+    <AlwaysPositiveHealth />
+    <Defense>30</Defense>
+    <Exp>0</Exp>
+    <KillStat stat="StructureKills" />
+    <HitSound>monster/medusa_hit</HitSound>
+    <DeathSound>monster/medusa_death</DeathSound>
+    <Size>130</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <HealthBar>1</HealthBar>
+    <StasisImmune />
+    <ParalyzeImmune />
+    <SlowImmune />
+  </Object>
+  <Object type="0x3d88" id="HTT Tentacle SE Defend">
+    <DisplayId>F.E.R.A.L.</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <AltTexture id="1">
+      <AnimatedTexture>
+        <File>highTechTerrorChars16x16</File>
+        <Index>2</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x20</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x21</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x22</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x23</Index>
+      </Texture>
+    </AltTexture>
+    <MaxHitPoints>20000</MaxHitPoints>
+    <AlwaysPositiveHealth />
+    <Defense>30</Defense>
+    <Exp>0</Exp>
+    <KillStat stat="StructureKills" />
+    <HitSound>monster/medusa_hit</HitSound>
+    <DeathSound>monster/medusa_death</DeathSound>
+    <Size>130</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <HealthBar>1</HealthBar>
+    <StasisImmune />
+    <ParalyzeImmune />
+    <SlowImmune />
+  </Object>
+  <Object type="0x3d92" id="HTT Goo Burst">
+    <DisplayId>F.E.R.A.L.</DisplayId>
+    <Class>GameObject</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x06</Index>
+    </Texture>
+    <Size>0</Size>
+    <Enemy />
+    <Invincible />
+    <Projectile id="0">
+      <ObjectId>Goo Spike</ObjectId>
+      <Damage>100</Damage>
+      <Speed>75</Speed>
+      <Acceleration>-200</Acceleration>
+      <AccelerationDelay>150</AccelerationDelay>
+      <SpeedClamp>20</SpeedClamp>
+      <LifetimeMS>15000</LifetimeMS>
+      <Size>100</Size>
+      <ArmorPiercing />
+      <MultiHit />
+    </Projectile>
+  </Object>
+  <Object type="0x3d68" id="HTT Vat Switch NW">
+    <DisplayId>S.W.I.T.C.H.</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>highTechTerrorObjects16x16</File>
+      <Index>0x44</Index>
+    </Texture>
+    <AltTexture id="1">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x40</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x71</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x72</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x73</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="6">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x74</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="7">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x51</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="8">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x52</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="9">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x53</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="10">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x54</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="11">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x80</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="12">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb1</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="13">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb2</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="14">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb3</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="15">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb4</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="16">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x91</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="17">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x92</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="18">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x93</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="19">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x94</Index>
+      </Texture>
+    </AltTexture>
+    <MaxHitPoints>20000</MaxHitPoints>
+    <AlwaysPositiveHealth />
+    <Defense>15</Defense>
+    <Exp>0</Exp>
+    <Size>100</Size>
+    <NoCollisionWhenMovement />
+    <HitSound>weapon/heavy_crossbow</HitSound>
+    <DeathSound>monster/traps_death</DeathSound>
+    <ShadowSize>0</ShadowSize>
+    <StasisImmune />
+    <NoMiniMap />
+    <HealthBar>1</HealthBar>
+    <Sound id="0">monster/traps_death</Sound>
+  </Object>
+  <Object type="0x2f43" id="HTT Vat Switch N">
+    <DisplayId>S.W.I.T.C.H.</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>highTechTerrorObjects16x16</File>
+      <Index>0x44</Index>
+    </Texture>
+    <AltTexture id="1">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x40</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x71</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x72</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x73</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="6">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x74</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="7">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x51</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="8">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x52</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="9">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x53</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="10">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x54</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="11">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x80</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="12">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb1</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="13">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb2</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="14">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb3</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="15">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb4</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="16">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x91</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="17">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x92</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="18">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x93</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="19">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x94</Index>
+      </Texture>
+    </AltTexture>
+    <MaxHitPoints>20000</MaxHitPoints>
+    <AlwaysPositiveHealth />
+    <Defense>15</Defense>
+    <Exp>0</Exp>
+    <Size>100</Size>
+    <NoCollisionWhenMovement />
+    <HitSound>weapon/heavy_crossbow</HitSound>
+    <DeathSound>monster/traps_death</DeathSound>
+    <ShadowSize>0</ShadowSize>
+    <StasisImmune />
+    <NoMiniMap />
+    <HealthBar>1</HealthBar>
+    <Sound id="0">monster/traps_death</Sound>
+  </Object>
+  <Object type="0x2f44" id="HTT Vat Switch NE">
+    <DisplayId>S.W.I.T.C.H.</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>highTechTerrorObjects16x16</File>
+      <Index>0x44</Index>
+    </Texture>
+    <AltTexture id="1">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x40</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x71</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x72</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x73</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="6">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x74</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="7">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x51</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="8">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x52</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="9">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x53</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="10">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x54</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="11">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x80</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="12">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb1</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="13">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb2</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="14">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb3</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="15">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb4</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="16">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x91</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="17">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x92</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="18">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x93</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="19">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x94</Index>
+      </Texture>
+    </AltTexture>
+    <MaxHitPoints>20000</MaxHitPoints>
+    <AlwaysPositiveHealth />
+    <Defense>15</Defense>
+    <Exp>0</Exp>
+    <Size>100</Size>
+    <NoCollisionWhenMovement />
+    <HitSound>weapon/heavy_crossbow</HitSound>
+    <DeathSound>monster/traps_death</DeathSound>
+    <ShadowSize>0</ShadowSize>
+    <StasisImmune />
+    <NoMiniMap />
+    <HealthBar>1</HealthBar>
+    <Sound id="0">monster/traps_death</Sound>
+  </Object>
+  <Object type="0x2f45" id="HTT Vat Switch W">
+    <DisplayId>S.W.I.T.C.H.</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>highTechTerrorObjects16x16</File>
+      <Index>0x44</Index>
+    </Texture>
+    <AltTexture id="1">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x40</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x71</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x72</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x73</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="6">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x74</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="7">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x51</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="8">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x52</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="9">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x53</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="10">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x54</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="11">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x80</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="12">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb1</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="13">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb2</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="14">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb3</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="15">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb4</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="16">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x91</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="17">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x92</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="18">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x93</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="19">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x94</Index>
+      </Texture>
+    </AltTexture>
+    <MaxHitPoints>20000</MaxHitPoints>
+    <AlwaysPositiveHealth />
+    <Defense>15</Defense>
+    <Exp>0</Exp>
+    <Size>100</Size>
+    <NoCollisionWhenMovement />
+    <HitSound>weapon/heavy_crossbow</HitSound>
+    <DeathSound>monster/traps_death</DeathSound>
+    <ShadowSize>0</ShadowSize>
+    <StasisImmune />
+    <NoMiniMap />
+    <HealthBar>1</HealthBar>
+    <Sound id="0">monster/traps_death</Sound>
+  </Object>
+  <Object type="0x2f46" id="HTT Vat Switch M">
+    <DisplayId>S.W.I.T.C.H.</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <AltTexture id="1">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x40</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x71</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x72</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x73</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="6">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x74</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="7">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x51</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="8">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x52</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="9">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x53</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="10">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x54</Index>
+      </Texture>
+    </AltTexture>
+    <MaxHitPoints>20000</MaxHitPoints>
+    <AlwaysPositiveHealth />
+    <Defense>15</Defense>
+    <Exp>0</Exp>
+    <Size>100</Size>
+    <NoCollisionWhenMovement />
+    <HitSound>weapon/heavy_crossbow</HitSound>
+    <DeathSound>monster/traps_death</DeathSound>
+    <ShadowSize>0</ShadowSize>
+    <StasisImmune />
+    <NoMiniMap />
+    <HealthBar>1</HealthBar>
+    <Sound id="0">monster/traps_death</Sound>
+  </Object>
+  <Object type="0x2f47" id="HTT Vat Switch E">
+    <DisplayId>S.W.I.T.C.H.</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>highTechTerrorObjects16x16</File>
+      <Index>0x44</Index>
+    </Texture>
+    <AltTexture id="1">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x40</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x71</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x72</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x73</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="6">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x74</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="7">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x51</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="8">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x52</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="9">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x53</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="10">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x54</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="11">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x80</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="12">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb1</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="13">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb2</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="14">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb3</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="15">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb4</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="16">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x91</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="17">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x92</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="18">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x93</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="19">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x94</Index>
+      </Texture>
+    </AltTexture>
+    <MaxHitPoints>20000</MaxHitPoints>
+    <AlwaysPositiveHealth />
+    <Defense>15</Defense>
+    <Exp>0</Exp>
+    <Size>100</Size>
+    <NoCollisionWhenMovement />
+    <HitSound>weapon/heavy_crossbow</HitSound>
+    <DeathSound>monster/traps_death</DeathSound>
+    <ShadowSize>0</ShadowSize>
+    <StasisImmune />
+    <NoMiniMap />
+    <HealthBar>1</HealthBar>
+    <Sound id="0">monster/traps_death</Sound>
+  </Object>
+  <Object type="0x2f48" id="HTT Vat Switch SW">
+    <DisplayId>S.W.I.T.C.H.</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>highTechTerrorObjects16x16</File>
+      <Index>0x44</Index>
+    </Texture>
+    <AltTexture id="1">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x40</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x71</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x72</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x73</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="6">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x74</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="7">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x51</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="8">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x52</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="9">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x53</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="10">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x54</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="11">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x80</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="12">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb1</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="13">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb2</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="14">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb3</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="15">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb4</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="16">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x91</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="17">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x92</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="18">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x93</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="19">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x94</Index>
+      </Texture>
+    </AltTexture>
+    <MaxHitPoints>20000</MaxHitPoints>
+    <AlwaysPositiveHealth />
+    <Defense>15</Defense>
+    <Exp>0</Exp>
+    <Size>100</Size>
+    <NoCollisionWhenMovement />
+    <HitSound>weapon/heavy_crossbow</HitSound>
+    <DeathSound>monster/traps_death</DeathSound>
+    <ShadowSize>0</ShadowSize>
+    <StasisImmune />
+    <NoMiniMap />
+    <HealthBar>1</HealthBar>
+    <Sound id="0">monster/traps_death</Sound>
+  </Object>
+  <Object type="0x2f49" id="HTT Vat Switch S">
+    <DisplayId>S.W.I.T.C.H.</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>highTechTerrorObjects16x16</File>
+      <Index>0x44</Index>
+    </Texture>
+    <AltTexture id="1">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x40</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x71</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x72</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x73</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="6">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x74</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="7">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x51</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="8">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x52</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="9">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x53</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="10">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x54</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="11">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x80</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="12">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb1</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="13">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb2</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="14">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb3</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="15">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb4</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="16">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x91</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="17">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x92</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="18">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x93</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="19">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x94</Index>
+      </Texture>
+    </AltTexture>
+    <MaxHitPoints>20000</MaxHitPoints>
+    <AlwaysPositiveHealth />
+    <Defense>15</Defense>
+    <Exp>0</Exp>
+    <Size>100</Size>
+    <NoCollisionWhenMovement />
+    <HitSound>weapon/heavy_crossbow</HitSound>
+    <DeathSound>monster/traps_death</DeathSound>
+    <ShadowSize>0</ShadowSize>
+    <StasisImmune />
+    <NoMiniMap />
+    <HealthBar>1</HealthBar>
+    <Sound id="0">monster/traps_death</Sound>
+  </Object>
+  <Object type="0x2f4a" id="HTT Vat Switch SE">
+    <DisplayId>S.W.I.T.C.H.</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>highTechTerrorObjects16x16</File>
+      <Index>0x44</Index>
+    </Texture>
+    <AltTexture id="1">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x40</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x71</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x72</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x73</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="6">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x74</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="7">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x51</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="8">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x52</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="9">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x53</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="10">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x54</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="11">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x80</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="12">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb1</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="13">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb2</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="14">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb3</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="15">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0xb4</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="16">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x91</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="17">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x92</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="18">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x93</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="19">
+      <Texture>
+        <File>highTechTerrorObjects16x16</File>
+        <Index>0x94</Index>
+      </Texture>
+    </AltTexture>
+    <MaxHitPoints>20000</MaxHitPoints>
+    <AlwaysPositiveHealth />
+    <Defense>15</Defense>
+    <Exp>0</Exp>
+    <Size>100</Size>
+    <NoCollisionWhenMovement />
+    <HitSound>weapon/heavy_crossbow</HitSound>
+    <DeathSound>monster/traps_death</DeathSound>
+    <ShadowSize>0</ShadowSize>
+    <StasisImmune />
+    <NoMiniMap />
+    <HealthBar>1</HealthBar>
+    <Sound id="0">monster/traps_death</Sound>
+  </Object>
+  <Object type="0x3d74" id="HTT Manager">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>lofiEnvironment</File>
+      <Index>0xa4</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x3d69" id="HTT Vat Controller NW">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>lofiEnvironment</File>
+      <Index>0xa4</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x3d6a" id="HTT Vat Controller N">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>lofiEnvironment</File>
+      <Index>0xa4</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x3d6b" id="HTT Vat Controller NE">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>lofiEnvironment</File>
+      <Index>0xa4</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x3d6c" id="HTT Vat Controller W">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>lofiEnvironment</File>
+      <Index>0xa4</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x3d6d" id="HTT Vat Controller M">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>lofiEnvironment</File>
+      <Index>0xa4</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x3d6e" id="HTT Vat Controller E">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>lofiEnvironment</File>
+      <Index>0xa4</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x3d6f" id="HTT Vat Controller SW">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>lofiEnvironment</File>
+      <Index>0xa4</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x3d70" id="HTT Vat Controller S">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>lofiEnvironment</File>
+      <Index>0xa4</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x3d71" id="HTT Vat Controller SE">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>lofiEnvironment</File>
+      <Index>0xa4</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x2f4b" id="HTT Vat Blue Point">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>lofiEnvironment</File>
+      <Index>0xa4</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x3d75" id="HTT Alarm">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x3d7f" id="HTT Laser Marker">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x2f4c" id="HTT Vat Blue Bubbles">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>lofiEnvironment</File>
+      <Index>0xa4</Index>
+    </Texture>
+    <Size>-1</Size>
+    <Effect color="0x0079eb" rate="70" life=".3" lifeVariance=".1" speed="0" speedVariance="1" size="3" rise="3" riseVariance=".1" rangeX="3.5" rangeY="3.5">CustomParticles</Effect>
+  </Object>
+  <Object type="0x2f4d" id="HTT Vat Transition Bubbles 1">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>lofiEnvironment</File>
+      <Index>0xa4</Index>
+    </Texture>
+    <Size>-1</Size>
+    <Effect color="0x00ad6d" rate="70" life=".3" lifeVariance=".1" speed="0" speedVariance="1" size="3" rise="3" riseVariance=".1" rangeX="3.5" rangeY="3.5">CustomParticles</Effect>
+  </Object>
+  <Object type="0x2f4e" id="HTT Vat Transition Bubbles 2">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>lofiEnvironment</File>
+      <Index>0xa4</Index>
+    </Texture>
+    <Size>-1</Size>
+    <Effect color="0x0095a8" rate="70" life=".3" lifeVariance=".1" speed="0" speedVariance="1" size="3" rise="3" riseVariance=".1" rangeX="3.5" rangeY="3.5">CustomParticles</Effect>
+  </Object>
+  <Object type="0x2f4f" id="HTT Vat Green Bubbles">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>lofiEnvironment</File>
+      <Index>0xa4</Index>
+    </Texture>
+    <Size>-1</Size>
+    <Effect color="0x00c631" rate="70" life=".3" lifeVariance=".1" speed="0" speedVariance="1" size="3" rise="3" riseVariance=".1" rangeX="3.5" rangeY="3.5">CustomParticles</Effect>
+  </Object>
+  <Object type="0x2f51" id="HTT Lane Controller">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>lofiEnvironment</File>
+      <Index>0xa4</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x2f52" id="HTT Lane Spawner TL">
+    <Class>GameObject</Class>
+    <NoMiniMap />
+    <Texture>
+      <File>lofiEnvironment</File>
+      <Index>0xa4</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x2f53" id="HTT Lane Spawner TR">
+    <Class>GameObject</Class>
+    <NoMiniMap />
+    <Texture>
+      <File>lofiEnvironment</File>
+      <Index>0xa4</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x2f54" id="HTT Lane Spawner BL">
+    <Class>GameObject</Class>
+    <NoMiniMap />
+    <Texture>
+      <File>lofiEnvironment</File>
+      <Index>0xa4</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x2f55" id="HTT Lane Spawner BR">
+    <Class>GameObject</Class>
+    <NoMiniMap />
+    <Texture>
+      <File>lofiEnvironment</File>
+      <Index>0xa4</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x2f56" id="HTT Lane Spawner LU">
+    <Class>GameObject</Class>
+    <NoMiniMap />
+    <Texture>
+      <File>lofiEnvironment</File>
+      <Index>0xa4</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x2f57" id="HTT Lane Spawner LD">
+    <Class>GameObject</Class>
+    <NoMiniMap />
+    <Texture>
+      <File>lofiEnvironment</File>
+      <Index>0xa4</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x2f58" id="HTT Lane Spawner RU">
+    <Class>GameObject</Class>
+    <NoMiniMap />
+    <Texture>
+      <File>lofiEnvironment</File>
+      <Index>0xa4</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x2f59" id="HTT Lane Spawner RD">
+    <Class>GameObject</Class>
+    <NoMiniMap />
+    <Texture>
+      <File>lofiEnvironment</File>
+      <Index>0xa4</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x3d80" id="HTT Lane Animation">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>90</Size>
+    <Animation prob="1.0" period="0.0">
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0x26</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0x27</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0x28</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0x29</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0x2a</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0x2b</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0x2c</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0x2d</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0x2e</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0x2f</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+  </Object>
+  <Object type="0x3d72" id="High Tech Terror Portal">
+    <DisplayId>High Tech Terror</DisplayId>
+    <Class>Portal</Class>
+    <IntergamePortal />
+    <DungeonName>High Tech Terror</DungeonName>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x3c</Index>
+    </Texture>
+    <Animation period="0" prob="1">
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xc7</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xc8</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xc9</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xca</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xcb</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xcc</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xcd</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xce</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xcf</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xd0</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xd1</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xd2</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xd3</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xd4</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xd5</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xd6</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xd7</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xd8</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xd9</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xda</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xdb</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xdc</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xdd</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xde</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xdf</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xc0</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xc1</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xc2</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xc3</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xc4</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xc5</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>highTechTerrorObjects16x16</File>
+          <Index>0xc6</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <ShadowSize>0</ShadowSize>
+    <UnityOnly />
+  </Object>
+  <Object type="0x3d76" id="HTT Partial Catwalk">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>lofiObj3</File>
+        <Index>0x1d2</Index>
+      </Texture>
+      <Texture>
+        <File>lofiObj3</File>
+        <Index>0x1d3</Index>
+      </Texture>
+    </RandomTexture>
+    <DrawOnGround />
+    <Static />
+    <ProtectFromGroundDamage />
+    <ProtectFromSink />
+  </Object>
+  <Object type="0x3d77" id="HTT Partial Horizontal Catwalk">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>lofiObj3</File>
+        <Index>0x1ce</Index>
+      </Texture>
+      <Texture>
+        <File>lofiObj3</File>
+        <Index>0x1cf</Index>
+      </Texture>
+    </RandomTexture>
+    <DrawOnGround />
+    <Static />
+    <ProtectFromGroundDamage />
+    <ProtectFromSink />
+  </Object>
+  <Object type="0x3d78" id="HTT Partial Vertical Catwalk">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>lofiObj3</File>
+        <Index>0x1d0</Index>
+      </Texture>
+      <Texture>
+        <File>lofiObj3</File>
+        <Index>0x1d1</Index>
+      </Texture>
+    </RandomTexture>
+    <DrawOnGround />
+    <Static />
+    <ProtectFromGroundDamage />
+    <ProtectFromSink />
+  </Object>
+  <Object type="0x3d79" id="HTT Wall Transition 1">
+    <Class>Wall</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x5e</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>lofiObj3</File>
+        <Index>0x16d</Index>
+      </Texture>
+    </Top>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+  <Object type="0x3d7a" id="HTT Wall Transition 2">
+    <Class>Wall</Class>
+    <Texture>
+      <File>highTechTerrorObjects8x8</File>
+      <Index>0x5d</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>lofiObj3</File>
+        <Index>0x16d</Index>
+      </Texture>
+    </Top>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+  </Object>
+</Objects>

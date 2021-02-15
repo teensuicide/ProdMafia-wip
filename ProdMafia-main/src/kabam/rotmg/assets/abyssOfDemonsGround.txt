@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroundTypes>
+  <Ground type="0xb005" id="Abyss Lava">
+    <Texture>
+      <File>abyssOfDemonsObjects8x8</File>
+      <Index>0x03</Index>
+    </Texture>
+    <MinDamage>60</MinDamage>
+    <MaxDamage>60</MaxDamage>
+    <Animate dx=".33" dy=".33">Flow</Animate>
+    <Sink />
+    <Speed>.666</Speed>
+    <Color>0xF2711A</Color>
+  </Ground>
+  <Ground type="0xb004" id="Abyss Volcanic Tile">
+    <RandomTexture>
+      <Texture>
+        <File>abyssOfDemonsObjects8x8</File>
+        <Index>0x40</Index>
+      </Texture>
+      <Texture>
+        <File>abyssOfDemonsObjects8x8</File>
+        <Index>0x41</Index>
+      </Texture>
+      <Texture>
+        <File>abyssOfDemonsObjects8x8</File>
+        <Index>0x42</Index>
+      </Texture>
+      <Texture>
+        <File>abyssOfDemonsObjects8x8</File>
+        <Index>0x43</Index>
+      </Texture>
+    </RandomTexture>
+    <RandomOffset />
+    <BlendPriority>9</BlendPriority>
+  </Ground>
+  <Ground type="0xb003" id="Abyss Fort Tile">
+    <RandomTexture>
+      <Texture>
+        <File>abyssOfDemonsObjects8x8</File>
+        <Index>0x26</Index>
+      </Texture>
+      <Texture>
+        <File>abyssOfDemonsObjects8x8</File>
+        <Index>0x26</Index>
+      </Texture>
+      <Texture>
+        <File>abyssOfDemonsObjects8x8</File>
+        <Index>0x26</Index>
+      </Texture>
+      <Texture>
+        <File>abyssOfDemonsObjects8x8</File>
+        <Index>0x26</Index>
+      </Texture>
+      <Texture>
+        <File>abyssOfDemonsObjects8x8</File>
+        <Index>0x27</Index>
+      </Texture>
+      <Texture>
+        <File>abyssOfDemonsObjects8x8</File>
+        <Index>0x28</Index>
+      </Texture>
+      <Texture>
+        <File>abyssOfDemonsObjects8x8</File>
+        <Index>0x29</Index>
+      </Texture>
+    </RandomTexture>
+    <BlendPriority>9</BlendPriority>
+  </Ground>
+  <Ground type="0xb002" id="Abyss Fort Tile Clean">
+    <RandomTexture>
+      <Texture>
+        <File>abyssOfDemonsObjects8x8</File>
+        <Index>0x26</Index>
+      </Texture>
+      <Texture>
+        <File>abyssOfDemonsObjects8x8</File>
+        <Index>0x26</Index>
+      </Texture>
+      <Texture>
+        <File>abyssOfDemonsObjects8x8</File>
+        <Index>0x26</Index>
+      </Texture>
+      <Texture>
+        <File>abyssOfDemonsObjects8x8</File>
+        <Index>0x26</Index>
+      </Texture>
+      <Texture>
+        <File>abyssOfDemonsObjects8x8</File>
+        <Index>0x27</Index>
+      </Texture>
+      <Texture>
+        <File>abyssOfDemonsObjects8x8</File>
+        <Index>0x28</Index>
+      </Texture>
+      <Texture>
+        <File>abyssOfDemonsObjects8x8</File>
+        <Index>0x29</Index>
+      </Texture>
+    </RandomTexture>
+    <BlendPriority>9</BlendPriority>
+  </Ground>
+  <Ground type="0xb001" id="Abyss Fort Tile Checkboard">
+    <Texture>
+      <File>abyssOfDemonsObjects8x8</File>
+      <Index>0x2a</Index>
+    </Texture>
+    <BlendPriority>9</BlendPriority>
+  </Ground>
+  <Ground type="0xb00d" id="Abyss Fort Tile Dual">
+    <Texture>
+      <File>abyssOfDemonsObjects8x8</File>
+      <Index>0x2b</Index>
+    </Texture>
+    <BlendPriority>9</BlendPriority>
+  </Ground>
+  <Ground type="0xb00e" id="Abyss Fort Tile Symbol">
+    <Texture>
+      <File>abyssOfDemonsObjects8x8</File>
+      <Index>0x2c</Index>
+    </Texture>
+    <BlendPriority>9</BlendPriority>
+  </Ground>
+  <Ground type="0xb00f" id="Abyss Fort Tile Dark">
+    <Texture>
+      <File>abyssOfDemonsObjects8x8</File>
+      <Index>0x2d</Index>
+    </Texture>
+    <BlendPriority>9</BlendPriority>
+  </Ground>
+  <Ground type="0xb087" id="Abyss Lava Clean">
+    <Texture>
+      <File>abyssOfDemonsObjects8x8</File>
+      <Index>0x03</Index>
+    </Texture>
+    <MinDamage>60</MinDamage>
+    <MaxDamage>60</MaxDamage>
+    <Animate dx=".33" dy=".33">Flow</Animate>
+    <Sink />
+    <Speed>.666</Speed>
+    <Color>0xF2711A</Color>
+  </Ground>
+  <Ground type="0xb08a" id="Abyss Lava Path">
+    <Texture>
+      <File>abyssOfDemonsObjects8x8</File>
+      <Index>0x03</Index>
+    </Texture>
+    <MinDamage>60</MinDamage>
+    <MaxDamage>60</MaxDamage>
+    <Animate dx=".33" dy=".33">Flow</Animate>
+    <Sink />
+    <Speed>.666</Speed>
+    <Color>0x561323</Color>
+  </Ground>
+  <Ground type="0xb088" id="Abyss Lava Blend">
+    <Texture>
+      <File>abyssOfDemonsObjects8x8</File>
+      <Index>0x03</Index>
+    </Texture>
+    <MinDamage>60</MinDamage>
+    <MaxDamage>60</MaxDamage>
+    <Animate dx=".33" dy=".33">Flow</Animate>
+    <Sink />
+    <Speed>.666</Speed>
+    <BlendPriority>1</BlendPriority>
+    <Color>0xF2711A</Color>
+  </Ground>
+  <Ground type="0xb089" id="Abyss Fort Tile Lava">
+    <Texture>
+      <File>abyssOfDemonsObjects8x8</File>
+      <Index>0x56</Index>
+    </Texture>
+    <Color>0xF2711A</Color>
+  </Ground>
+  <Ground type="0xb08b" id="Abyss Fort Tile Glyph O">
+    <Texture>
+      <File>abyssOfDemonsObjects8x8</File>
+      <Index>0x50</Index>
+    </Texture>
+    <NoBlend />
+  </Ground>
+  <Ground type="0xb08c" id="Abyss Fort Tile Glyph Z">
+    <Texture>
+      <File>abyssOfDemonsObjects8x8</File>
+      <Index>0x51</Index>
+    </Texture>
+    <NoBlend />
+  </Ground>
+  <Ground type="0xb08d" id="Abyss Fort Tile Glyph S">
+    <Texture>
+      <File>abyssOfDemonsObjects8x8</File>
+      <Index>0x52</Index>
+    </Texture>
+    <NoBlend />
+  </Ground>
+  <Ground type="0xb08e" id="Abyss Fort Tile Glyph N">
+    <Texture>
+      <File>abyssOfDemonsObjects8x8</File>
+      <Index>0x53</Index>
+    </Texture>
+    <NoBlend />
+  </Ground>
+  <Ground type="0xb08f" id="Abyss Fort Tile Glyph D">
+    <Texture>
+      <File>abyssOfDemonsObjects8x8</File>
+      <Index>0x54</Index>
+    </Texture>
+    <NoBlend />
+  </Ground>
+  <Ground type="0xb090" id="Abyss Fort Tile Glyph X">
+    <Texture>
+      <File>abyssOfDemonsObjects8x8</File>
+      <Index>0x55</Index>
+    </Texture>
+    <NoBlend />
+  </Ground>
+</GroundTypes>

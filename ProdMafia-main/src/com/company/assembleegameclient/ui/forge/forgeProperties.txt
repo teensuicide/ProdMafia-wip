@@ -1,0 +1,4204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <ForgeProperties type="0x7555" id="Helm of the Juggernaut - Midas">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="180" rare="160" legendary="60" />
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x7556" id="Helm of the Juggernaut - Jade">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="180" rare="160" legendary="60" />
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x7557" id="Helm of the Juggernaut - Chaos">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="180" rare="160" legendary="60" />
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1794" id="Helm of the Jack-o'-naut">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="180" rare="160" legendary="60" />
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xc08" id="Helm of the Juggernaut">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="180" rare="160" legendary="60" />
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x70b3" id="Divinity">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 3 Mark of the Exalted God</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="180" rare="160" legendary="60" />
+    <RequiredItem quantity="3">0xac1e</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x70b5" id="Oryx's Escutcheon">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 3 Mark of the Exalted God</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="180" rare="160" legendary="60" />
+    <RequiredItem quantity="3">0xac1e</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x70b7" id="Gladiator Guard">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 3 Mark of the Exalted God</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="180" rare="160" legendary="60" />
+    <RequiredItem quantity="3">0xac1e</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x70b8" id="Exalted God's Horn">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 3 Mark of the Exalted God</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="180" rare="160" legendary="60" />
+    <RequiredItem quantity="3">0xac1e</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x0251" id="Omnipotence Ring">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 2 Mark of the Void Entity</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="180" rare="160" legendary="60" />
+    <RequiredItem quantity="2">0x17f8</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x64ba" id="Phantasm Dirk">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="180" rare="160" legendary="60" />
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x58a" id="Fractured Gemstone Wakizashi">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 2 Mark of the Crystal Entity</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="180" rare="160" legendary="60" />
+    <RequiredItem quantity="2">0x65ed</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x58d" id="Star of Enlightenment">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 2 Mark of the Crystal Entity</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="180" rare="160" legendary="60" />
+    <RequiredItem quantity="2">0x65ed</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xc0a" id="Dirk of Cronus">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="180" rare="160" legendary="60" />
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x755a" id="Orb of Conflict - Chaos">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="180" rare="160" legendary="60" />
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x73cf" id="Orb of Terror">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="180" rare="160" legendary="60" />
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xc0b" id="Orb of Conflict">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="180" rare="160" legendary="60" />
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xb41" id="Tablet of the King's Avatar">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 2 Mark of the Forgotten King</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="180" rare="160" legendary="60" />
+    <RequiredItem quantity="2">0x1e35</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xc0f" id="Shield of Ogmur">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="180" rare="160" legendary="60" />
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xc06" id="Seal of Blasphemous Prayer">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="180" rare="160" legendary="60" />
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x16d6" id="Enchanted Ice Blade">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1412" id="Frozen Wand">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x6463" id="Warlord Wand">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x7559" id="Quiver of Thunder - Overcharged">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xc07" id="Quiver of Thunder">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x16dc" id="Ice Crown">
+    <CanDismantle />
+    <Description>Requires 2 Mark of the Forgotten King</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="2">0x1e35</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xbab" id="The Forgotten Crown">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 2 Mark of the Forgotten King</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="2">0x1e35</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xbac" id="The Twilight Gemstone">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 2 Mark of the Forgotten King</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="2">0x1e35</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xbad" id="Bracer of the Guardian">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 2 Mark of the Forgotten King</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="2">0x1e35</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x645c" id="Acidic Slasher">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xc05" id="Ancient Stone Sword">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Janus</Description>
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <RequiredItem quantity="1">0x1e33</RequiredItem>
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x04b3" id="Sporous Spray Spell">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x04b2" id="Cave Dweller Trap">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x0243" id="Marble Seal">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 2 Mark of the Marble Colossus</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="2">0x17f7</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x0254" id="Sword of the Colossus">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 2 Mark of the Marble Colossus</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="2">0x17f7</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x0255" id="Breastplate of New Life">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 2 Mark of the Marble Colossus</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="2">0x17f7</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x0256" id="Magical Lodestone">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 2 Mark of the Marble Colossus</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="2">0x17f7</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x709d" id="Avarice">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Exalted God</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="1">0xac1e</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x709e" id="Gambler's Fate">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Exalted God</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="1">0xac1e</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x70a0" id="Turncoat Cape">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Exalted God</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="1">0xac1e</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x70a1" id="Collector's Monocle">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Exalted God</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="1">0xac1e</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x70a2" id="Lumiaire">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Exalted God</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="1">0xac1e</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x70a3" id="Chaotic Scripture">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Exalted God</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="1">0xac1e</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x70a5" id="Vesture of Duality">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Exalted God</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="1">0xac1e</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x70a6" id="Divine Coronation">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Exalted God</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="1">0xac1e</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x70a7" id="Superior">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Exalted God</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="1">0xac1e</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x70a8" id="Genesis Spell">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Exalted God</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="1">0xac1e</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x70ab" id="Diplomatic Robe">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Exalted God</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="1">0xac1e</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x70ac" id="Chancellor's Cranium">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Exalted God</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="1">0xac1e</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x70ae" id="Enforcer">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Exalted God</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="1">0xac1e</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x70af" id="Ballistic Star">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Exalted God</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="1">0xac1e</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x70b0" id="Centaur's Shielding">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Exalted God</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="1">0xac1e</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x70b1" id="Battalion Banner">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Exalted God</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="1">0xac1e</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x0257" id="Cloak of Bloody Surprises">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x024c" id="Bow of the Void">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 2 Mark of the Void Entity</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="2">0x17f8</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x024d" id="Quiver of the Shadows">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 2 Mark of the Void Entity</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="2">0x17f8</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x024e" id="Armor of Nil">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 2 Mark of the Void Entity</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="2">0x17f8</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x024f" id="Sourcestone">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 2 Mark of the Void Entity</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="2">0x17f8</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x589" id="Refraction Cloak">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 2 Mark of the Crystal Entity</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="2">0x65ed</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x04b6" id="Echoes Prism">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 2 Mark of the Crystal Entity</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="2">0x65ed</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x0499" id="Crystal Shield">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 2 Mark of the Crystal Entity</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="2">0x65ed</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x04b0" id="Crystallised Fang's Venom">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 2 Mark of the Crystal Entity</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="2">0x65ed</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x04b1" id="Crystallised Mist">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 2 Mark of the Crystal Entity</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="2">0x65ed</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x0244" id="Staff of Unholy Sacrifice">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 2 Mark of Malus</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="2">0x17f9</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x0250" id="Skull of Corrupted Souls">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 2 Mark of Malus</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="2">0x17f9</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x0252" id="Ritual Robe">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 2 Mark of Malus</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="2">0x17f9</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x0253" id="Bloodshed Ring">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 2 Mark of Malus</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="2">0x17f9</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x047f" id="Tome of the Mushroom Tribes">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x04b5" id="Fungal Breastplate">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x73ce" id="Trap of the Blood Spirit">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xb40" id="Trap of the Vile Spirit">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x10ed" id="EH Yellow Quiver">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x10f3" id="EH Red Quiver">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x10f2" id="EH Blue Quiver">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x109f" id="EH Queen's Stinger Dagger">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 2 Mark of the Killer Bee Queen</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="2">0x1e39</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x08b1" id="EH Hivemaster Helm">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 2 Mark of the Killer Bee Queen</Description>
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <RequiredItem quantity="2">0x1e39</RequiredItem>
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x1413" id="Freezing Quiver">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x6461" id="Corrosion Cutter">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="135" rare="120" legendary="45" />
+    <ForgefireCost>1560</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x2f85" id="Garland Bow">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x2f84" id="Candy Katana">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xba2" id="Ring of the Pyramid">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Geb</Description>
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <RequiredItem quantity="1">0x1e31</RequiredItem>
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x2f83" id="Cheerful Chipper">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x2f82" id="Brass Chamberstick">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x2f81" id="Sleigh Bell Staff">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x2f80" id="Evergreen Dagger">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xc1e" id="Tome of Holy Protection">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Geb</Description>
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <RequiredItem quantity="1">0x1e31</RequiredItem>
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x16de" id="Tome of Frigid Protection">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x7fd4" id="Frimarra">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x5b1e" id="Jade Storm">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x916" id="Midnight Star">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Wyvern</Description>
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <RequiredItem quantity="1">0x1e34</RequiredItem>
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x911" id="Skull of Endless Torment">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x7b9" id="pD Scepter">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Parasitic Horrors</Description>
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <RequiredItem quantity="1">0x1e3d</RequiredItem>
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x5b1f" id="Cloak of the Mad God">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x260" id="Tome of Holy Furor">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xfd7" id="Soulful Affection">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x183b" id="Wand of the Fallen">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Daichi</Description>
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <RequiredItem quantity="1">0x1e2d</RequiredItem>
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x20c2" id="Orb of Aether">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Daichi</Description>
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <RequiredItem quantity="1">0x1e2d</RequiredItem>
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x6464" id="Snowblind Wand">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x3d91" id="Q.U.I.V.E.R.">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x3d8d" id="B.O.W.">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x3d8e" id="S.T.A.F.F.">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x3d8f" id="E.Y.E.">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x7565" id="Celestial Blade">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Wyvern</Description>
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <RequiredItem quantity="1">0x1e34</RequiredItem>
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x7a1" id="pD Spell">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Parasitic Horrors</Description>
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <RequiredItem quantity="1">0x1e3d</RequiredItem>
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x0487" id="Locked Reactor">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x7562" id="Leaf Dragon Hide Armor">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Wyvern</Description>
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <RequiredItem quantity="1">0x1e34</RequiredItem>
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x7564" id="Fire Dragon Battle Armor">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Wyvern</Description>
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <RequiredItem quantity="1">0x1e34</RequiredItem>
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x36a2" id="Tezcacoatl's Tail">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x645a" id="Comet of Calamity">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x4b96" id="Perennial Cranium">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x4b9a" id="Hanagasaku">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x7563" id="Water Dragon Silk Robe">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Wyvern</Description>
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <RequiredItem quantity="1">0x1e34</RequiredItem>
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xc1c" id="Coral Venom Trap">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Thessal</Description>
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <RequiredItem quantity="1">0x1e30</RequiredItem>
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xba1" id="Ring of the Nile">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Geb</Description>
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <RequiredItem quantity="1">0x1e31</RequiredItem>
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x4dec" id="Wavecrest Concertina">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Bilgewater</Description>
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <RequiredItem quantity="1">0x1e37</RequiredItem>
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x7fd3" id="Ring of the Northern Light">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x0485" id="Fitted Protective Matrix">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x0484" id="Magic Protective Matrix">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x0483" id="Heavy Protective Matrix">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x23c0" id="Wakizashi of Crossing Fires">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x5280" id="tD Waki">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x4b68" id="tD Seal">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x4b6b" id="tD Cloak">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x9fd" id="Bottled Medusozoan">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x9fc" id="Cnidaria Rod">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x9d5" id="Thousand Shot">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x4def" id="Pharaoh's Requiem">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Geb</Description>
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <RequiredItem quantity="1">0x1e31</RequiredItem>
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xcde" id="Leaf Bow">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Megamoth</Description>
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <RequiredItem quantity="1">0x1e38</RequiredItem>
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x13a8" id="Sunny Side Bow">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x645f" id="Blazon Bow">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x8a8" id="Helm of the Swift Bunny">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x8a9" id="Vitamine Buster">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xfd5" id="Gem of Tenderness">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xfd6" id="Gem of Adoration">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x0d43" id="Spiteful Scutum">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Janus</Description>
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <RequiredItem quantity="1">0x1e33</RequiredItem>
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x7b8" id="pD Tome">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Parasitic Horrors</Description>
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <RequiredItem quantity="1">0x1e3d</RequiredItem>
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x0d42" id="Prism of Dire Instability">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x36a4" id="Penetrating Blast Spell">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x2322" id="Wakizashi of Eastern Winds">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Megamoth</Description>
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <RequiredItem quantity="1">0x1e38</RequiredItem>
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x183e" id="Sakura Wakizashi">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x5b20" id="Shield of Flowing Clarity">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x65ef" id="Henchman's Claymore">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x65f0" id="Tyrant's Wand">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x65f1" id="Predator Bow">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x65f2" id="Bounty Hunter's Dagger">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x65f3" id="Oppressor's Staff">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x65f4" id="Blade of the Assailant">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x6ea" id="Aegis Armor">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x6eb" id="Squadron Sheathing">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x6ec" id="Judge's Robe">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x4b62" id="AoOScepter">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x4b5b" id="AoOStar">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x4b52" id="AoOSpell">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x520a" id="AoOWaki">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x51e2" id="AoOTrap">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x5212" id="AoOSkull">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x52da" id="AoOPrism">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x52eb" id="AoOTome">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x52ec" id="AoOCloak">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x4e01" id="AoOOrb">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x4e03" id="AoOLute">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x4e05" id="AoOSeal">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1b1a" id="AoOHelm">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x4f33" id="AoOShield">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x4f34" id="AoOQuiver">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1b19" id="AoOPoison">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x915" id="Ray Katana">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xa03" id="Crystal Sword">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xb3f" id="Crystal Wand">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="120" rare="90" legendary="0" />
+    <ForgefireCost>720</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x767" id="Skullish Remains of Esben">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Esben</Description>
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <RequiredItem quantity="1">0x1e2e</RequiredItem>
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xc09" id="Tome of Purification">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Ruthven</Description>
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <RequiredItem quantity="1">0x1e2c</RequiredItem>
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x6219" id="Botany Book">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x3d66" id="Mighty Stein">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xc10" id="Coral Bow">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Thessal</Description>
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <RequiredItem quantity="1">0x1e30</RequiredItem>
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xfda" id="Mask of Anubis">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xfdb" id="Mask of Lightning">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xfdc" id="Mask of Cnidaria">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xfdd" id="Mask of Mucus">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x64bc" id="Oryxmas Ornament: Energized">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x64bd" id="Oryxmas Ornament: Weak">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x64be" id="Oryxmas Ornament: Exposed">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x912" id="Prism of Dancing Swords">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Puppet Master</Description>
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <RequiredItem quantity="1">0x1e2a</RequiredItem>
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xc02" id="Doom Bow">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Septavius</Description>
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <RequiredItem quantity="1">0x1e26</RequiredItem>
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x2301" id="Bow of the Morning Star">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x6460" id="Sun's Judgement">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x16d9" id="Arctic Bow">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x580" id="Corruption Cutter">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Archivist</Description>
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <RequiredItem quantity="1">0x1e1c</RequiredItem>
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xc6d" id="Plague Poison">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Skuld</Description>
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <RequiredItem quantity="1">0x1e2b</RequiredItem>
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xc30" id="Scepter of Fulmination">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Dr Terrible</Description>
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <RequiredItem quantity="1">0x1e29</RequiredItem>
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xcdc" id="Doku No Ken">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Son of Arachna</Description>
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <RequiredItem quantity="1">0x1e3a</RequiredItem>
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x7170" id="Murky Toxin">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Gulpord</Description>
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <RequiredItem quantity="1">0x1e28</RequiredItem>
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x716d" id="Void Blade">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Gulpord</Description>
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <RequiredItem quantity="1">0x1e28</RequiredItem>
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x6462" id="Dueling Daggers">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x645d" id="Fire Blade">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x3d65" id="Greaterhosen">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x2f29" id="Magic Construction Vest">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x2f2a" id="Fitted Construction Vest">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x2f2b" id="Heavy Construction Vest">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x183d" id="Kageboshi">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x645e" id="Moonbeam Blade">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xc29" id="Spirit Dagger">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Davy Jones</Description>
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <RequiredItem quantity="1">0x1e3c</RequiredItem>
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xc2a" id="Ghostly Prism">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Davy Jones</Description>
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <RequiredItem quantity="1">0x1e3c</RequiredItem>
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xcdb" id="Pirate King's Cutlass">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Bilgewater</Description>
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <RequiredItem quantity="1">0x1e37</RequiredItem>
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xc6e" id="Resurrected Warrior's Armor">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Skuld</Description>
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <RequiredItem quantity="1">0x1e2b</RequiredItem>
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xc32" id="Robe of the Mad Scientist">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Dr Terrible</Description>
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <RequiredItem quantity="1">0x1e29</RequiredItem>
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xc18" id="Coral Silk Armor">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Thessal</Description>
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <RequiredItem quantity="1">0x1e30</RequiredItem>
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x10d4" id="EH Yellow Bee Armor">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x10d5" id="EH Red Bee Armor">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x10d6" id="EH Blue Bee Armor">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x645b" id="Gaseous Glaive">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x2f23" id="Nail Gun Bow">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x2f24" id="Spatula Dagger">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x2f25" id="Screwdriver Staff">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x2f26" id="Measuring Wand">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x2f27" id="Hammer Sword">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x2f28" id="Sawblade Katana">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xc01" id="Demon Blade">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Malphas</Description>
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <RequiredItem quantity="1">0x1e27</RequiredItem>
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x2303" id="Sword of Illumination">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xb3f7" id="Esben's Shaman Attire">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xc33" id="Conducting Wand">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Dr Terrible</Description>
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <RequiredItem quantity="1">0x1e29</RequiredItem>
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x25bb" id="Arcane Rapier">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Sandstone Titan</Description>
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <RequiredItem quantity="1">0x70d0</RequiredItem>
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x6102" id="Soul's Guidance">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Skuld</Description>
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <RequiredItem quantity="1">0x1e2b</RequiredItem>
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xb3f8" id="Esben's Wedding Ring">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x36a3" id="Sealed Crystal Skull">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x4dee" id="Snake Charmer Pungi">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Stheno</Description>
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <RequiredItem quantity="1">0x1e3b</RequiredItem>
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x16da" id="Frost Drake Hide Armor">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x16db" id="Frost Elementalist Robe">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x16dd" id="Frost Citadel Armor">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xc28" id="Spectral Cloth Armor">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Davy Jones</Description>
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <RequiredItem quantity="1">0x1e3c</RequiredItem>
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x766" id="Staff of Esben">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Esben</Description>
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <RequiredItem quantity="1">0x1e2e</RequiredItem>
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x7448" id="Harlequin Armor">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Puppet Master</Description>
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <RequiredItem quantity="1">0x1e2a</RequiredItem>
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x7fd2" id="Enchanted Ice Shard">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x4b0c" id="Keychain Cutlass">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x4b32" id="Crystal Key">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xba0" id="Ring of the Sphinx">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Geb</Description>
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <RequiredItem quantity="1">0x1e31</RequiredItem>
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xc61" id="Candy-Coated Armor">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x57e" id="Scholar's Seal">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Archivist</Description>
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <RequiredItem quantity="1">0x1e1c</RequiredItem>
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x36fa" id="Tlatoani's Shroud">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x232a" id="Dagger of the Amethyst Prism">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1aca" id="Icicle Launcher">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1acb" id="Frost Lich's Finger">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1acc" id="Frosty's Walking Stick">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1acd" id="Winter's Breath Wand">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1ace" id="Saint Nicolas' Blade">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1acf" id="Yuki">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x57d" id="Tome of Forbidden Knowledge">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Archivist</Description>
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <RequiredItem quantity="1">0x1e1c</RequiredItem>
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x4b34" id="Mimicry Trap">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x4b36" id="Prismimic">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="90" rare="45" legendary="0" />
+    <ForgefireCost>400</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x57f" id="Ronin's Wakizashi">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Archivist</Description>
+    <DismantleRequirements common="20" rare="5" legendary="0" />
+    <CraftRequirements common="60" rare="0" legendary="0" />
+    <RequiredItem quantity="1">0x1e1c</RequiredItem>
+    <ForgefireCost>120</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xc31" id="Experimental Ring">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="20" rare="5" legendary="0" />
+    <CraftRequirements common="60" rare="0" legendary="0" />
+    <ForgefireCost>120</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xa5a" id="Cloak of the Planewalker">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Limon</Description>
+    <DismantleRequirements common="20" rare="5" legendary="0" />
+    <CraftRequirements common="60" rare="0" legendary="0" />
+    <RequiredItem quantity="1">0x1e2f</RequiredItem>
+    <ForgefireCost>120</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xc04" id="Wand of the Bulwark">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Stheno</Description>
+    <DismantleRequirements common="20" rare="5" legendary="0" />
+    <CraftRequirements common="60" rare="0" legendary="0" />
+    <RequiredItem quantity="1">0x1e3b</RequiredItem>
+    <ForgefireCost>120</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x16d8" id="Eternal Snowflake Wand">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="20" rare="5" legendary="0" />
+    <CraftRequirements common="60" rare="0" legendary="0" />
+    <ForgefireCost>120</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xc27" id="Captain's Ring">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Davy Jones</Description>
+    <DismantleRequirements common="20" rare="5" legendary="0" />
+    <CraftRequirements common="60" rare="0" legendary="0" />
+    <RequiredItem quantity="1">0x1e3c</RequiredItem>
+    <ForgefireCost>120</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xc03" id="Staff of Extreme Prejudice">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Limon</Description>
+    <DismantleRequirements common="20" rare="5" legendary="0" />
+    <CraftRequirements common="60" rare="0" legendary="0" />
+    <RequiredItem quantity="1">0x1e2f</RequiredItem>
+    <ForgefireCost>120</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x16d7" id="Staff of Iceblast">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="20" rare="5" legendary="0" />
+    <CraftRequirements common="60" rare="0" legendary="0" />
+    <ForgefireCost>120</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x840" id="Spirit Staff">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Fountain Spirit</Description>
+    <DismantleRequirements common="20" rare="5" legendary="0" />
+    <CraftRequirements common="60" rare="0" legendary="0" />
+    <RequiredItem quantity="1">0x1e1a</RequiredItem>
+    <ForgefireCost>120</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xc13" id="Coral Ring">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Thessal</Description>
+    <DismantleRequirements common="20" rare="5" legendary="0" />
+    <CraftRequirements common="60" rare="0" legendary="0" />
+    <RequiredItem quantity="1">0x1e30</RequiredItem>
+    <ForgefireCost>120</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x6458" id="Foramite Staff">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="20" rare="5" legendary="0" />
+    <CraftRequirements common="60" rare="0" legendary="0" />
+    <ForgefireCost>120</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x83f" id="Enchantment Orb">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Fountain Spirit</Description>
+    <DismantleRequirements common="20" rare="5" legendary="0" />
+    <CraftRequirements common="60" rare="0" legendary="0" />
+    <RequiredItem quantity="1">0x1e1a</RequiredItem>
+    <ForgefireCost>120</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xc22" id="Bone Dagger">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Ruthven</Description>
+    <DismantleRequirements common="20" rare="5" legendary="0" />
+    <CraftRequirements common="60" rare="0" legendary="0" />
+    <RequiredItem quantity="1">0x1e2c</RequiredItem>
+    <ForgefireCost>120</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x899" id="Dagger of the Hasteful Rabbit">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="20" rare="5" legendary="0" />
+    <CraftRequirements common="60" rare="0" legendary="0" />
+    <ForgefireCost>120</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x2296" id="Wand of Egg-cellence">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="20" rare="5" legendary="0" />
+    <CraftRequirements common="60" rare="0" legendary="0" />
+    <ForgefireCost>120</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xc1d" id="St. Abraham's Wand">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="20" rare="5" legendary="0" />
+    <CraftRequirements common="60" rare="0" legendary="0" />
+    <ForgefireCost>120</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xb3e" id="Amulet of Resurrection">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="20" rare="5" legendary="0" />
+    <CraftRequirements common="60" rare="0" legendary="0" />
+    <ForgefireCost>120</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x0770" id="Heart of Gold Prism">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="20" rare="5" legendary="0" />
+    <CraftRequirements common="60" rare="0" legendary="0" />
+    <ForgefireCost>120</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xc5f" id="Candy Ring">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="20" rare="5" legendary="0" />
+    <CraftRequirements common="60" rare="0" legendary="0" />
+    <ForgefireCost>120</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1e4e" id="Jade Beetle">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="20" rare="5" legendary="0" />
+    <CraftRequirements common="60" rare="0" legendary="0" />
+    <ForgefireCost>120</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x6587" id="Abyssal Trophy">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="20" rare="5" legendary="0" />
+    <CraftRequirements common="60" rare="0" legendary="0" />
+    <ForgefireCost>120</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xc1f" id="Chasuble of Holy Light">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="20" rare="5" legendary="0" />
+    <CraftRequirements common="60" rare="0" legendary="0" />
+    <ForgefireCost>120</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xc20" id="Ring of Divine Faith">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="20" rare="5" legendary="0" />
+    <CraftRequirements common="60" rare="0" legendary="0" />
+    <ForgefireCost>120</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xc2d" id="America Ring">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="20" rare="5" legendary="0" />
+    <CraftRequirements common="60" rare="0" legendary="0" />
+    <ForgefireCost>120</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xc3e" id="Gold Medal">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="20" rare="5" legendary="0" />
+    <CraftRequirements common="60" rare="0" legendary="0" />
+    <ForgefireCost>120</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xc3f" id="Silver Medal">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="20" rare="5" legendary="0" />
+    <CraftRequirements common="60" rare="0" legendary="0" />
+    <ForgefireCost>120</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xc40" id="Bronze Medal">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="20" rare="5" legendary="0" />
+    <CraftRequirements common="60" rare="0" legendary="0" />
+    <ForgefireCost>120</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x25bc" id="Sandstone Seal">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x25bd" id="Amber Encrusted Helmet">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Sandstone Titan</Description>
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <RequiredItem quantity="1">0x70d0</RequiredItem>
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xa41" id="Snake Eye Ring">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x3745" id="Spider Shuriken">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x83e" id="Woodland Robe">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xa4b" id="Sprite Wand">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xc15" id="Staff of the Crystal Serpent">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x83d" id="Fairy Ring">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xa3e" id="Snake Skin Armor">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0xa40" id="Snake Skin Shield">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x914" id="Useless Katana">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xcdf" id="Doctor Swordsworth">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xcea" id="KoalaPOW">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xceb" id="Spicy Wand of Spice">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xcec" id="Robobow">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xced" id="Sunshine Shiv">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xcee" id="Arbiter's Wrath">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x2324" id="Unstable Anomaly">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x2325" id="Precisely Calibrated Stringstick">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x2326" id="Barely Attuned Magic Thingy">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x2327" id="Lethargic Sentience">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x2328" id="Toy Knife">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x164a" id="Clover Bow">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x164b" id="Sword of the Rainbow's End">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x7418" id="Katana of Good Fortune">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x7416" id="Clover Star">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x5b24" id="Krathana">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x5b26" id="Silex's Hammer">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x576" id="Caduceus of Current Craziness">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x577" id="Blade of Ages">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x5b27" id="Mirror Cloak">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x5b2b" id="Spelling Spell">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x5b2d" id="Tome of Moral Support">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x5b2f" id="Challenger Helm">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x5b30" id="Shield of Pogmur">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x5b32" id="Seal of Eternal Life">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x5b33" id="Lightning in a Bottle">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x5b35" id="Epiphany Skull">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x5b37" id="Helium Trap">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x5b38" id="Karma Orb">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x5b39" id="Fool's Prism">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x4b7c" id="Rainbow Rod">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x6215" id="Painbow">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x51f7" id="Prismatic Slasher">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xb21" id="Chicken Leg of Doom">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xc24" id="Anatis Staff">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xc83" id="Cheater Robe">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x6a9" id="Apocalypse Feather">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x5b22" id="Random Spell Extraction Device">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x572" id="K.I.D.D. Force">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x573" id="MMace MMurderer">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x574" id="Mister Mango">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x575" id="Butter Bow">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x5b29" id="Archerang">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x5b3b" id="Unshuriken">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x5b3d" id="NSFWakizashi">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x709" id="Poison Fang Dagger">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Arachna</Description>
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <RequiredItem quantity="1">0x17fd</RequiredItem>
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x136" id="HoneyScepter">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Queen Bee</Description>
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <RequiredItem quantity="1">0x17fe</RequiredItem>
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x132" id="Orb of Sweet Demise">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of the Queen Bee</Description>
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <RequiredItem quantity="1">0x17fe</RequiredItem>
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+    <BlueprintRequired />
+  </ForgeProperties>
+  <ForgeProperties type="0x5b3a" id="Honey Scepter Supreme">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xc82" id="Cheater Light Armor">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xc84" id="Cheater Heavy Armor">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x51f1" id="Staff of the Saint">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xc16" id="Cracked Crystal Skull">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x708" id="Spider's Eye Ring">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Arachna</Description>
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <RequiredItem quantity="1">0x17fd</RequiredItem>
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xc14" id="Robe of the Tlatoani">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Mixcoatl</Description>
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <RequiredItem quantity="1">0x17ff</RequiredItem>
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xc17" id="Crystal Bone Ring">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x2380" id="Bramble Bow">
+    <CanDismantle />
+    <CanCraft />
+    <Description />
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x2381" id="Cocoon Quiver">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Mama Megamoth</Description>
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <RequiredItem quantity="1">0x17fc</RequiredItem>
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x2289" id="Corsair Ring">
+    <CanDismantle />
+    <CanCraft />
+    <Description>Requires 1 Mark of Dreadstump</Description>
+    <DismantleRequirements common="15" rare="0" legendary="0" />
+    <CraftRequirements common="45" rare="0" legendary="0" />
+    <RequiredItem quantity="1">0x17fb</RequiredItem>
+    <ForgefireCost>60</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1e26" id="Mark of Septavius">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1e27" id="Mark of Malphas">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1e28" id="Mark of Gulpord">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1e29" id="Mark of Dr Terrible">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1e2a" id="Mark of the Puppet Master">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1e2b" id="Mark of Skuld">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1e2c" id="Mark of Ruthven">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1e2d" id="Mark of Daichi">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1e2e" id="Mark of Esben">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1e2f" id="Mark of Limon">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1e30" id="Mark of Thessal">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1e31" id="Mark of Geb">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1e32" id="Mark of Oryx">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1e33" id="Mark of Janus">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1e34" id="Mark of the Wyvern">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1e35" id="Mark of the Forgotten King">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1e36" id="Mark of Shaitan">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1e37" id="Mark of Bilgewater">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1e38" id="Mark of the Megamoth">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1e39" id="Mark of the Killer Bee Queen">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1e3a" id="Mark of the Son of Arachna">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1e3b" id="Mark of Stheno">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1e3c" id="Mark of Davy Jones">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1e3d" id="Mark of Parasitic Horrors">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1e1a" id="Mark of the Fountain Spirit">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x1e1c" id="Mark of the Archivist">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x17f7" id="Mark of the Marble Colossus">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x17f8" id="Mark of the Void Entity">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x17f9" id="Mark of Malus">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x17fa" id="Mark of the Effigy">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x17fb" id="Mark of Dreadstump">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x17fc" id="Mark of Mama Megamoth">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x17fd" id="Mark of Arachna">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x17fe" id="Mark of the Queen Bee">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x17ff" id="Mark of Mixcoatl">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x65ed" id="Mark of the Crystal Entity">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x70d0" id="Mark of the Sandstone Titan">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xac1e" id="Mark of The Exalted God">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0x4231" id="Mark of the Tesseract Goddess">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>0</ForgefireDismantle>
+  </ForgeProperties>
+  <ForgeProperties type="0xb8d0" id="Blueprint_1">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8d1" id="Blueprint_2">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8d2" id="Blueprint_3">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8d3" id="Blueprint_4">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8d4" id="Blueprint_5">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8d5" id="Blueprint_6">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8d6" id="Blueprint_7">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8d7" id="Blueprint_8">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8d8" id="Blueprint_9">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8d9" id="Blueprint_10">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8da" id="Blueprint_11">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8db" id="Blueprint_12">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8dc" id="Blueprint_13">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8dd" id="Blueprint_14">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8de" id="Blueprint_15">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8df" id="Blueprint_16">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8e0" id="Blueprint_17">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8e1" id="Blueprint_18">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8e2" id="Blueprint_19">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8e3" id="Blueprint_20">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8e4" id="Blueprint_21">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8e5" id="Blueprint_22">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8e6" id="Blueprint_23">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8e7" id="Blueprint_24">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-80</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8e8" id="Blueprint_25">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-80</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8e9" id="Blueprint_26">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-80</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8ea" id="Blueprint_27">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-80</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8eb" id="Blueprint_28">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-80</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8ec" id="Blueprint_29">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-80</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8ed" id="Blueprint_30">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-80</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8ee" id="Blueprint_31">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-80</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8ef" id="Blueprint_32">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-60</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8f0" id="Blueprint_33">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-60</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8f1" id="Blueprint_34">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-60</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8f2" id="Blueprint_35">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-60</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8f3" id="Blueprint_36">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-60</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8f4" id="Blueprint_37">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-60</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8f5" id="Blueprint_38">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-60</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8f6" id="Blueprint_39">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-60</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8f7" id="Blueprint_40">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-60</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8f8" id="Blueprint_41">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-60</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8f9" id="Blueprint_42">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-60</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8fa" id="Blueprint_43">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-60</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8fb" id="Blueprint_44">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-40</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8fc" id="Blueprint_45">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-40</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8fd" id="Blueprint_46">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-20</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8fe" id="Blueprint_47">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-20</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb8ff" id="Blueprint_48">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-20</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb920" id="Blueprint_49">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb921" id="Blueprint_50">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb905" id="Blueprint_51">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb906" id="Blueprint_52">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb907" id="Blueprint_53">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb908" id="Blueprint_54">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb909" id="Blueprint_55">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb90a" id="Blueprint_56">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb90b" id="Blueprint_57">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb90c" id="Blueprint_58">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb90d" id="Blueprint_59">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb90e" id="Blueprint_60">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb90f" id="Blueprint_61">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb910" id="Blueprint_62">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb911" id="Blueprint_63">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb912" id="Blueprint_64">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb913" id="Blueprint_65">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb914" id="Blueprint_66">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb915" id="Blueprint_67">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb916" id="Blueprint_68">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb917" id="Blueprint_69">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb918" id="Blueprint_70">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb919" id="Blueprint_71">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb904" id="Blueprint_Santa's Arsenal">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-80</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb900" id="Basic Ore">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="20" rare="5" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-40</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb901" id="Greater Ore">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="30" rare="15" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-80</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb902" id="Superior Ore">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="40" rare="30" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-200</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0xb903" id="Paramount Ore">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="45" rare="40" legendary="15" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-320</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0x72dd" id="Blueprint_72">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+  <ForgeProperties type="0x72df" id="Blueprint_73">
+    <CanDismantle />
+    <Description />
+    <DismantleRequirements common="0" rare="0" legendary="0" />
+    <CraftRequirements common="0" rare="0" legendary="0" />
+    <ForgefireCost>0</ForgefireCost>
+    <ForgefireDismantle>-120</ForgefireDismantle>
+    <Ingredient />
+  </ForgeProperties>
+</Objects>

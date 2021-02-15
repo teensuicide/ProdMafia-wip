@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroundTypes>
+  <Ground type="0x3ce1" id="UDL Normal Tile">
+    <RandomTexture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x10</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x11</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x12</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x13</Index>
+      </Texture>
+    </RandomTexture>
+    <Color>0x37363D</Color>
+  </Ground>
+  <Ground type="0x3ce2" id="UDL Outside Hallway Tile">
+    <Texture>
+      <File>undeadLairObjects8x8</File>
+      <Index>0x16</Index>
+    </Texture>
+    <Color>0x37363D</Color>
+  </Ground>
+  <Ground type="0x3ce3" id="UDL Inside Hallway Tile">
+    <Texture>
+      <File>undeadLairObjects8x8</File>
+      <Index>0x43</Index>
+    </Texture>
+    <Color>0x37363D</Color>
+  </Ground>
+  <Ground type="0x3ce4" id="UDL Broken Tile">
+    <Texture>
+      <File>undeadLairObjects8x8</File>
+      <Index>0x17</Index>
+    </Texture>
+    <Color>0x37363D</Color>
+  </Ground>
+  <Ground type="0x3ce5" id="UDL Blood Tile">
+    <RandomTexture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x19</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x1a</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x1b</Index>
+      </Texture>
+    </RandomTexture>
+    <Color>0x37363D</Color>
+  </Ground>
+  <Ground type="0x3ce6" id="UDL Faces Tile">
+    <RandomTexture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x1c</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x1d</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x1e</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x1f</Index>
+      </Texture>
+    </RandomTexture>
+    <Color>0x37363D</Color>
+  </Ground>
+</GroundTypes>

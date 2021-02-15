@@ -1,0 +1,5589 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object type="0x7fd9" id="tD Grey Square">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x07</Index>
+    </Texture>
+    <Rotation>250</Rotation>
+  </Object>
+  <Object type="0x51ce" id="tD Magenta Border">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x1e</Index>
+    </Texture>
+    <Rotation>250</Rotation>
+  </Object>
+  <Object type="0x5262" id="tD Cronus Border">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x18</Index>
+    </Texture>
+    <Rotation>250</Rotation>
+  </Object>
+  <Object type="0x51cf" id="tD Lime Border">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x1d</Index>
+    </Texture>
+    <Rotation>250</Rotation>
+  </Object>
+  <Object type="0x51d0" id="tD Crimson Border">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x1f</Index>
+    </Texture>
+    <Rotation>250</Rotation>
+  </Object>
+  <Object type="0x51d1" id="tD Magenta Block">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x0e</Index>
+    </Texture>
+    <Rotation>250</Rotation>
+  </Object>
+  <Object type="0x5232" id="tD Powerful Border">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x17</Index>
+    </Texture>
+    <Rotation>250</Rotation>
+  </Object>
+  <Object type="0x51d2" id="tD Lime Block">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x0d</Index>
+    </Texture>
+    <Rotation>250</Rotation>
+  </Object>
+  <Object type="0x51d3" id="tD Crimson Block">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x0f</Index>
+    </Texture>
+    <Rotation>250</Rotation>
+  </Object>
+  <Object type="0x51d4" id="tD Rogue Slash">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x6b</Index>
+    </Texture>
+  </Object>
+  <Object type="0x51d5" id="tD Trickster Slash">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x68</Index>
+    </Texture>
+  </Object>
+  <Object type="0x51d6" id="tD Paladin Slash">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x6c</Index>
+    </Texture>
+  </Object>
+  <Object type="0x51d7" id="tD Block">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x0c</Index>
+    </Texture>
+    <Rotation>250</Rotation>
+  </Object>
+  <Object type="0x51d8" id="tD Border">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x1c</Index>
+    </Texture>
+    <Rotation>250</Rotation>
+  </Object>
+  <Object type="0x52c1" id="tD Chaos Border">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x15</Index>
+    </Texture>
+    <Rotation>250</Rotation>
+  </Object>
+  <Object type="0x52a9" id="tD Cursed Border">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x19</Index>
+    </Texture>
+    <Rotation>250</Rotation>
+  </Object>
+  <Object type="0x5296" id="tD Shadow Block">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x0b</Index>
+    </Texture>
+    <Rotation>250</Rotation>
+  </Object>
+  <Object type="0x5297" id="tD Shadow Border">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x1b</Index>
+    </Texture>
+    <Rotation>250</Rotation>
+  </Object>
+  <Object type="0x7fda" id="tD Native Block">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x0a</Index>
+    </Texture>
+    <Rotation>250</Rotation>
+  </Object>
+  <Object type="0x7fdb" id="tD Native Border">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x1a</Index>
+    </Texture>
+    <Rotation>250</Rotation>
+  </Object>
+  <Object type="0x7fdc" id="tD Squarazor">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x3c</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x51d9" id="tD Shadow Squarazor">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x3b</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x51da" id="tD Square Magic">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x4c</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x4248" id="tD Cronus Magic">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x48</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x51db" id="tD Shadow Square Magic">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x4b</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x7fdd" id="tD Shocking Magic">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x46</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x2f68" id="tD Powerful Magic">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x47</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x5245" id="tD Chaos Magic">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x45</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x52a8" id="tD Chaos Squarazor">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x35</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x5205" id="tD Sickening Magic">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x4d</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x51dc" id="tD Tesseract Magic">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x2c</Index>
+    </Texture>
+    <Rotation>250</Rotation>
+  </Object>
+  <Object type="0x51dd" id="tD Sentry Magic">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x2b</Index>
+    </Texture>
+    <Rotation>250</Rotation>
+  </Object>
+  <Object type="0x51de" id="tD Monolith Magic">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x5c</Index>
+    </Texture>
+    <Rotation>250</Rotation>
+  </Object>
+  <Object type="0x421d" id="tD Chaos Monolith Magic">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x55</Index>
+    </Texture>
+    <Rotation>250</Rotation>
+  </Object>
+  <Object type="0x51df" id="tD Shadow Monolith Magic">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x5b</Index>
+    </Texture>
+    <Rotation>250</Rotation>
+  </Object>
+  <Object type="0x7fde" id="tD Cronus Squarazor">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x38</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x524a" id="tD Staff Projectile">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x7c</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x7fdf" id="tD Shocking Squarazor">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x36</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x5283" id="tD Serpent Head Main">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0x0e</Index>
+    </Texture>
+    <Rotation>150</Rotation>
+  </Object>
+  <Object type="0x528e" id="tD Serpent Head Inner">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0x0f</Index>
+    </Texture>
+    <Rotation>-150</Rotation>
+  </Object>
+  <Object type="0x5284" id="tD Serpent Body">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0x0d</Index>
+    </Texture>
+    <Rotation>150</Rotation>
+  </Object>
+  <Object type="0x5285" id="tD Serpent Tail">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0x0c</Index>
+    </Texture>
+    <Rotation>150</Rotation>
+  </Object>
+  <Object type="0x4ece" id="tD Cronus Beam Head">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0x1f</Index>
+    </Texture>
+  </Object>
+  <Object type="0x4ecd" id="tD Cronus Beam Main">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0x1e</Index>
+    </Texture>
+  </Object>
+  <Object type="0x4ecc" id="tD Cronus Beam Tail">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0x1d</Index>
+    </Texture>
+  </Object>
+  <Object type="0x4230" id="tD Tesseract Beam">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0x4f</Index>
+    </Texture>
+  </Object>
+  <Object type="0x4235" id="tD Cronus Beam">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0x3f</Index>
+    </Texture>
+  </Object>
+  <Object type="0x52bb" id="tD Tesseract Beam Head">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0x2f</Index>
+    </Texture>
+  </Object>
+  <Object type="0x52bc" id="tD Tesseract Beam Main">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0x2e</Index>
+    </Texture>
+  </Object>
+  <Object type="0x52bd" id="tD Tesseract Beam Tail">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0x2d</Index>
+    </Texture>
+  </Object>
+  <Object type="0x4215" id="tD Telegraph Beam">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0x3e</Index>
+    </Texture>
+  </Object>
+  <Object type="0x4244" id="Squaroid">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x7c</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x4245" id="Super Squaroid">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x7d</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x4255" id="Squarrier">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x7e</Index>
+    </Texture>
+    <Rotation>200</Rotation>
+  </Object>
+  <Object id="tD Shadow Overseer" type="0x52a1">
+    <Class>Character</Class>
+    <DisplayId>Shadow Cube Overseer</DisplayId>
+    <Enemy />
+    <Invincible />
+    <AnimatedTexture>
+      <File>thirdDimensionChars16x16</File>
+      <Index>21</Index>
+    </AnimatedTexture>
+    <Projectile id="0">
+      <ObjectId>tD Chaos Magic</ObjectId>
+      <Damage>80</Damage>
+      <Speed>40</Speed>
+      <Size>110</Size>
+      <LifetimeMS>2750</LifetimeMS>
+      <MultiHit />
+      <ConditionEffect duration="3">Curse</ConditionEffect>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>tD Chaos Magic</ObjectId>
+      <Damage>80</Damage>
+      <Speed>40.78</Speed>
+      <Size>110</Size>
+      <LifetimeMS>2750</LifetimeMS>
+      <MultiHit />
+      <ConditionEffect duration="3">Curse</ConditionEffect>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>tD Chaos Magic</ObjectId>
+      <Damage>80</Damage>
+      <Speed>43.3</Speed>
+      <Size>110</Size>
+      <LifetimeMS>2750</LifetimeMS>
+      <MultiHit />
+      <ConditionEffect duration="3">Curse</ConditionEffect>
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>tD Chaos Magic</ObjectId>
+      <Damage>80</Damage>
+      <Speed>48.11</Speed>
+      <Size>110</Size>
+      <LifetimeMS>2750</LifetimeMS>
+      <MultiHit />
+      <ConditionEffect duration="3">Curse</ConditionEffect>
+    </Projectile>
+    <Projectile id="4">
+      <ObjectId>tD Chaos Magic</ObjectId>
+      <Damage>80</Damage>
+      <Speed>56.56</Speed>
+      <Size>110</Size>
+      <LifetimeMS>2750</LifetimeMS>
+      <MultiHit />
+      <ConditionEffect duration="3">Curse</ConditionEffect>
+    </Projectile>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD Elemental" type="0x420d">
+    <DisplayId>Square Elemental</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Enemy />
+    <NoCollisionWhenMovement />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>thirdDimensionChars8x8</File>
+      <Index>15</Index>
+    </AnimatedTexture>
+    <AltTexture id="1">
+      <AnimatedTexture>
+        <File>thirdDimensionChars8x8</File>
+        <Index>16</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="2">
+      <AnimatedTexture>
+        <File>thirdDimensionChars8x8</File>
+        <Index>15</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <Projectile id="0">
+      <ObjectId>tD Border</ObjectId>
+      <Speed>0</Speed>
+      <Damage>80</Damage>
+      <LifetimeMS>2400</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Slowed</ConditionEffect>
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>tD Shadow Border</ObjectId>
+      <Speed>0</Speed>
+      <Damage>80</Damage>
+      <LifetimeMS>2400</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Silenced</ConditionEffect>
+      <ArmorPiercing />
+    </Projectile>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>1500</MaxHitPoints>
+    <Defense>30</Defense>
+    <Exp>250</Exp>
+    <KillStat stat="CubeKills" />
+    <ParalyzeImmune />
+    <StasisImmune />
+    <StunImmune />
+    <DazedImmune />
+    <SlowImmune />
+  </Object>
+  <Object id="tD Cubyte" type="0x422d">
+    <DisplayId>Cubyte</DisplayId>
+    <NoCollisionWhenMovement />
+    <Group>The Third Dimension</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AlwaysPositiveHealth />
+    <AnimatedTexture>
+      <File>thirdDimensionChars8x8</File>
+      <Index>33</Index>
+    </AnimatedTexture>
+    <AltTexture id="0">
+      <AnimatedTexture>
+        <File>thirdDimensionChars8x8</File>
+        <Index>33</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="1">
+      <AnimatedTexture>
+        <File>thirdDimensionChars8x8</File>
+        <Index>34</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <Projectile id="0">
+      <ObjectId>tD Paladin Slash</ObjectId>
+      <Speed>40</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>1500</LifetimeMS>
+      <Frequency>0</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>tD Trickster Slash</ObjectId>
+      <Speed>40</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>1500</LifetimeMS>
+      <Frequency>0</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+    </Projectile>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>12000</MaxHitPoints>
+    <Defense>25</Defense>
+    <Exp>500</Exp>
+    <KillStat stat="CubeKills" />
+    <KillStat stat="LesserGodKills" />
+    <ParalyzeImmune />
+    <StasisImmune />
+    <SlowImmune />
+    <StunImmune />
+  </Object>
+  <Object id="tD Tesseract Key" type="0x421c">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD Cronus Key" type="0x4220">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD Tesseract Minion" type="0x52b6">
+    <DisplayId>Tesseract Fragment</DisplayId>
+    <NoCollisionWhenMovement />
+    <Group>The Third Dimension</Group>
+    <Enemy />
+    <AlwaysPositiveHealth />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>thirdDimensionChars8x8</File>
+      <Index>18</Index>
+    </AnimatedTexture>
+    <AltTexture id="1">
+      <AnimatedTexture>
+        <File>thirdDimensionChars8x8</File>
+        <Index>19</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <Projectile id="0">
+      <ObjectId>tD Paladin Slash</ObjectId>
+      <Speed>60</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>1100</LifetimeMS>
+      <Amplitude>0</Amplitude>
+      <Frequency>1</Frequency>
+      <ConditionEffect duration="0.6">Slowed</ConditionEffect>
+      <MultiHit />
+      <Size>80</Size>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>tD Trickster Slash</ObjectId>
+      <Speed>60</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>1600</LifetimeMS>
+      <Amplitude>0</Amplitude>
+      <Frequency>1</Frequency>
+      <ConditionEffect duration="0.8">Slowed</ConditionEffect>
+      <MultiHit />
+      <Size>80</Size>
+    </Projectile>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>12000</MaxHitPoints>
+    <Defense>35</Defense>
+    <Exp>500</Exp>
+    <KillStat stat="CubeKills" />
+    <KillStat stat="LesserGodKills" />
+    <ParalyzeImmune />
+    <StasisImmune />
+    <SlowImmune />
+    <DazedImmune />
+  </Object>
+  <Object id="tD Mimic" type="0x525e">
+    <DisplayId>Masquarerader</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0x60</Index>
+    </Texture>
+    <AltTexture id="1">
+      <AnimatedTexture>
+        <File>thirdDimensionChars8x8</File>
+        <Index>21</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="2">
+      <AnimatedTexture>
+        <File>thirdDimensionChars8x8</File>
+        <Index>22</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="3">
+      <AnimatedTexture>
+        <File>thirdDimensionChars8x8</File>
+        <Index>23</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x60</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x61</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="6">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x62</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="7">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x63</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="8">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x64</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="9">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x65</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="10">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x80</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="11">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x81</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="12">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x82</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="13">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x83</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="14">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x84</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="15">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x90</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="16">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x91</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="17">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x92</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="18">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x93</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="19">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x94</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="20">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xa0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="21">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xa1</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="22">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xa2</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="23">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xa3</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="24">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xa4</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="25">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xd0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="26">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xd1</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="27">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xd2</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="28">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xd3</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="29">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xd4</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="30">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xb0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="31">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xb1</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="32">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xb2</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="33">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xb3</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="34">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xb4</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="35">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xc0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="36">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xc1</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="37">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xc2</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="38">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xc3</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="39">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xc4</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="40">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x70</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="41">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x71</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="42">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x72</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="43">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x73</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="44">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x74</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="45">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xf9</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="46">
+      <AnimatedTexture>
+        <File>thirdDimensionChars8x8</File>
+        <Index>30</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="48">
+      <AnimatedTexture>
+        <File>thirdDimensionChars8x8</File>
+        <Index>26</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="49">
+      <AnimatedTexture>
+        <File>thirdDimensionChars8x8</File>
+        <Index>25</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="50">
+      <AnimatedTexture>
+        <File>thirdDimensionChars8x8</File>
+        <Index>24</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="51">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x75</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="52">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x76</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="53">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x85</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="54">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x86</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="55">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x95</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="56">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x96</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="57">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xa5</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="58">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xa6</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="59">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xb5</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="60">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xb6</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="61">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xc5</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="62">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xc6</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="63">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x69</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="64">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x6a</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="65">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x66</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="66">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x67</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="67">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x68</Index>
+      </Texture>
+    </AltTexture>
+    <Projectile id="0">
+      <ObjectId>tD Powerful Magic</ObjectId>
+      <Speed>80</Speed>
+      <Damage>120</Damage>
+      <LifetimeMS>1500</LifetimeMS>
+      <Amplitude>0</Amplitude>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>tD Powerful Border</ObjectId>
+      <Speed>65.71</Speed>
+      <Damage>140</Damage>
+      <LifetimeMS>1500</LifetimeMS>
+      <Amplitude>0</Amplitude>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>tD Powerful Border</ObjectId>
+      <Speed>56.57</Speed>
+      <Damage>160</Damage>
+      <LifetimeMS>1500</LifetimeMS>
+      <Amplitude>0</Amplitude>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>tD Powerful Border</ObjectId>
+      <Speed>46.19</Speed>
+      <Damage>180</Damage>
+      <LifetimeMS>1500</LifetimeMS>
+      <Amplitude>0</Amplitude>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="4">
+      <ObjectId>tD Square Magic</ObjectId>
+      <Speed>60</Speed>
+      <Damage>120</Damage>
+      <LifetimeMS>2000</LifetimeMS>
+      <Amplitude>0</Amplitude>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="5">
+      <ObjectId>tD Border</ObjectId>
+      <Speed>30</Speed>
+      <Damage>50</Damage>
+      <ArmorPiercing />
+      <LifetimeMS>4000</LifetimeMS>
+      <Amplitude>0</Amplitude>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+    </Projectile>
+    <Projectile id="6">
+      <ObjectId>tD Shadow Block</ObjectId>
+      <Speed>50</Speed>
+      <Damage>90</Damage>
+      <ArmorPiercing />
+      <LifetimeMS>1600</LifetimeMS>
+      <Amplitude>0</Amplitude>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+    </Projectile>
+    <Projectile id="7">
+      <ObjectId>tD Shadow Border</ObjectId>
+      <Speed>50</Speed>
+      <Damage>90</Damage>
+      <ArmorPiercing />
+      <LifetimeMS>1600</LifetimeMS>
+      <Amplitude>0</Amplitude>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <ConditionEffect duration="2">Silenced</ConditionEffect>
+    </Projectile>
+    <Projectile id="8">
+      <ObjectId>tD Lime Border</ObjectId>
+      <Speed>57.74</Speed>
+      <Damage>80</Damage>
+      <LifetimeMS>1200</LifetimeMS>
+      <Amplitude>0</Amplitude>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="9">
+      <ObjectId>tD Lime Border</ObjectId>
+      <Speed>70.71</Speed>
+      <Damage>80</Damage>
+      <LifetimeMS>1200</LifetimeMS>
+      <Amplitude>0</Amplitude>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="10">
+      <ObjectId>tD Sickening Magic</ObjectId>
+      <Speed>60</Speed>
+      <Damage>80</Damage>
+      <ArmorPiercing />
+      <LifetimeMS>1333</LifetimeMS>
+      <Amplitude>0</Amplitude>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+      <ConditionEffect duration="4">Sick</ConditionEffect>
+    </Projectile>
+    <Projectile id="11">
+      <ObjectId>tD Crimson Block</ObjectId>
+      <Speed>80</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>1000</LifetimeMS>
+      <Amplitude>0</Amplitude>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="12">
+      <ObjectId>tD Crimson Border</ObjectId>
+      <Speed>60</Speed>
+      <Damage>80</Damage>
+      <LifetimeMS>1333</LifetimeMS>
+      <Amplitude>0</Amplitude>
+      <Frequency>1</Frequency>
+      <ConditionEffect duration="4">Armor Broken</ConditionEffect>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="13">
+      <ObjectId>tD Cronus Squarazor</ObjectId>
+      <Speed>0</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>2000</LifetimeMS>
+      <Amplitude>4</Amplitude>
+      <Frequency>0.5</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="14">
+      <ObjectId>tD Cronus Squarazor</ObjectId>
+      <Speed>0</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>2000</LifetimeMS>
+      <Amplitude>5.66</Amplitude>
+      <Frequency>0.5</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="15">
+      <ObjectId>tD Magenta Border</ObjectId>
+      <Speed>50</Speed>
+      <Damage>90</Damage>
+      <LifetimeMS>2400</LifetimeMS>
+      <Amplitude>0</Amplitude>
+      <Frequency>1</Frequency>
+      <ConditionEffect duration="2">Quiet</ConditionEffect>
+      <Size>100</Size>
+      <Boomerang />
+      <MultiHit />
+    </Projectile>
+    <Projectile id="16">
+      <ObjectId>tD Magenta Block</ObjectId>
+      <Speed>54.12</Speed>
+      <Damage>90</Damage>
+      <LifetimeMS>2400</LifetimeMS>
+      <Amplitude>0</Amplitude>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+      <Boomerang />
+    </Projectile>
+    <Projectile id="17">
+      <ObjectId>tD Magenta Block</ObjectId>
+      <Speed>70.71</Speed>
+      <Damage>90</Damage>
+      <LifetimeMS>2400</LifetimeMS>
+      <Amplitude>0</Amplitude>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+      <Boomerang />
+    </Projectile>
+    <Projectile id="18">
+      <ObjectId>tD Powerful Border</ObjectId>
+      <Speed>60</Speed>
+      <Damage>150</Damage>
+      <LifetimeMS>1500</LifetimeMS>
+      <Amplitude>0</Amplitude>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="19">
+      <ObjectId>tD Border</ObjectId>
+      <Speed>60</Speed>
+      <Damage>90</Damage>
+      <LifetimeMS>1500</LifetimeMS>
+      <Amplitude>0</Amplitude>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="20">
+      <ObjectId>tD Shadow Border</ObjectId>
+      <Speed>60</Speed>
+      <Damage>90</Damage>
+      <LifetimeMS>1500</LifetimeMS>
+      <Amplitude>0</Amplitude>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <ArmorPiercing />
+      <ConditionEffect duration="2">Silenced</ConditionEffect>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="21">
+      <ObjectId>tD Lime Border</ObjectId>
+      <Speed>60</Speed>
+      <Damage>60</Damage>
+      <LifetimeMS>1500</LifetimeMS>
+      <Amplitude>0</Amplitude>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <ConditionEffect duration="2">Sick</ConditionEffect>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="22">
+      <ObjectId>tD Crimson Border</ObjectId>
+      <Speed>60</Speed>
+      <Damage>60</Damage>
+      <LifetimeMS>1500</LifetimeMS>
+      <Amplitude>0</Amplitude>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <ConditionEffect duration="2">Armor Broken</ConditionEffect>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="23">
+      <ObjectId>tD Cronus Squarazor</ObjectId>
+      <Speed>0</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>2400</LifetimeMS>
+      <Amplitude>6</Amplitude>
+      <Frequency>0.5</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="24">
+      <ObjectId>tD Magenta Border</ObjectId>
+      <Speed>60</Speed>
+      <Damage>60</Damage>
+      <LifetimeMS>3000</LifetimeMS>
+      <Amplitude>0</Amplitude>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <Boomerang />
+      <ConditionEffect duration="2">Quiet</ConditionEffect>
+      <MultiHit />
+    </Projectile>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>40000</MaxHitPoints>
+    <Defense>25</Defense>
+    <Exp>1000</Exp>
+    <KillStat stat="CubeKills" />
+    <KillStat stat="GodKills" />
+    <HealthBarBoss radius="20" yOffset="5" />
+    <ParalyzeImmune />
+    <StunImmune />
+    <StasisImmune />
+    <DamageBasedXP />
+  </Object>
+  <Object id="tD Mimic Helper" type="0x422c">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD Soldier" type="0x525f">
+    <DisplayId>Cubic Soldier</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>thirdDimensionChars8x8</File>
+      <Index>28</Index>
+    </AnimatedTexture>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>5000</MaxHitPoints>
+    <Defense>25</Defense>
+    <Exp>500</Exp>
+    <KillStat stat="CubeKills" />
+    <ParalyzeImmune />
+    <Projectile id="0">
+      <ObjectId>tD Rogue Slash</ObjectId>
+      <Damage>120</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>1000</LifetimeMS>
+      <MultiHit />
+    </Projectile>
+  </Object>
+  <Object id="tD Cleric" type="0x7fe0">
+    <DisplayId>Cubic Cleric</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>thirdDimensionChars8x8</File>
+      <Index>29</Index>
+    </AnimatedTexture>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>5000</MaxHitPoints>
+    <Defense>25</Defense>
+    <Exp>500</Exp>
+    <KillStat stat="CubeKills" />
+    <ParalyzeImmune />
+    <Projectile id="0">
+      <ObjectId>tD Grey Square</ObjectId>
+      <Damage>75</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>1000</LifetimeMS>
+      <MultiHit />
+      <ArmorPiercing />
+      <ConditionEffect duration="2">Weak</ConditionEffect>
+    </Projectile>
+  </Object>
+  <Object id="tD Satellite" type="0x5260">
+    <DisplayId>Cubic Satellite</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>thirdDimensionChars8x8</File>
+      <Index>27</Index>
+    </AnimatedTexture>
+    <Projectile id="0">
+      <ObjectId>tD Cronus Border</ObjectId>
+      <Speed>65</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>1846</LifetimeMS>
+      <Amplitude>0</Amplitude>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+    </Projectile>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>5000</MaxHitPoints>
+    <Defense>25</Defense>
+    <Exp>500</Exp>
+    <KillStat stat="CubeKills" />
+    <ParalyzeImmune />
+  </Object>
+  <Object id="tD Square" type="0x7fe1">
+    <DisplayId>Square</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>thirdDimensionChars8x8</File>
+      <Index>7</Index>
+    </AnimatedTexture>
+    <AltTexture id="1">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>7</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <Projectile id="0">
+      <ObjectId>tD Square Magic</ObjectId>
+      <Speed>60</Speed>
+      <Damage>120</Damage>
+      <LifetimeMS>1666</LifetimeMS>
+      <Frequency>0</Frequency>
+      <Size>100</Size>
+      <Boomerang />
+    </Projectile>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>2000</MaxHitPoints>
+    <Defense>30</Defense>
+    <Exp>250</Exp>
+    <KillStat stat="CubeKills" />
+    <ParalyzeImmune />
+    <StasisImmune />
+    <StunImmune />
+  </Object>
+  <Object id="tD Skeleton" type="0x7fe2">
+    <DisplayId>Cubic Frame</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>thirdDimensionChars8x8</File>
+      <Index>8</Index>
+    </AnimatedTexture>
+    <AltTexture id="1">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>6</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>3500</MaxHitPoints>
+    <Defense>10</Defense>
+    <Exp>250</Exp>
+    <KillStat stat="CubeKills" />
+    <KillStat stat="LesserGodKills" />
+    <ParalyzeImmune />
+    <StasisImmune />
+    <Projectile id="2">
+      <ObjectId>tD Block</ObjectId>
+      <Speed>0</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>2000</LifetimeMS>
+      <Amplitude>0</Amplitude>
+      <Frequency>0</Frequency>
+      <Size>100</Size>
+      <ArmorPiercing />
+      <MultiHit />
+    </Projectile>
+    <Projectile id="0">
+      <ObjectId>tD Border</ObjectId>
+      <Speed>60</Speed>
+      <Damage>120</Damage>
+      <LifetimeMS>1500</LifetimeMS>
+      <Frequency>0</Frequency>
+      <Size>100</Size>
+      <Boomerang />
+      <MultiHit />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>tD Border</ObjectId>
+      <Speed>84.85</Speed>
+      <Damage>120</Damage>
+      <LifetimeMS>1500</LifetimeMS>
+      <Frequency>0</Frequency>
+      <Size>100</Size>
+      <Boomerang />
+      <MultiHit />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+  </Object>
+  <Object id="tD Core" type="0x7fe3">
+    <DisplayId>Cubic Core</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>thirdDimensionChars8x8</File>
+      <Index>6</Index>
+    </AnimatedTexture>
+    <AltTexture id="1">
+      <AnimatedTexture>
+        <File>thirdDimensionChars8x8</File>
+        <Index>31</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>4500</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>250</Exp>
+    <KillStat stat="CubeKills" />
+    <KillStat stat="LesserGodKills" />
+    <ParalyzeImmune />
+    <StasisImmune />
+    <StunImmune />
+    <Projectile id="0">
+      <ObjectId>tD Monolith Magic</ObjectId>
+      <Speed>0</Speed>
+      <Damage>75</Damage>
+      <LifetimeMS>3000</LifetimeMS>
+      <Amplitude>4</Amplitude>
+      <Frequency>0.5</Frequency>
+      <Size>100</Size>
+      <ArmorPiercing />
+      <MultiHit />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>tD Monolith Magic</ObjectId>
+      <Speed>0</Speed>
+      <Damage>75</Damage>
+      <LifetimeMS>3000</LifetimeMS>
+      <Amplitude>5.66</Amplitude>
+      <Frequency>0.5</Frequency>
+      <Size>100</Size>
+      <ArmorPiercing />
+      <MultiHit />
+    </Projectile>
+  </Object>
+  <Object id="tD Sentry" type="0x7fe4">
+    <DisplayId>Shadow Cube Defender</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Enemy />
+    <Quest />
+    <HealthBarBoss radius="30" />
+    <Class>Character</Class>
+    <KeepDamageRecord />
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0x87</Index>
+    </Texture>
+    <Animation period="0" prob="1">
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x87</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x88</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x89</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x8a</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x89</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x88</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Projectile id="0">
+      <ObjectId>tD Powerful Magic</ObjectId>
+      <Speed>63.63</Speed>
+      <Damage>75</Damage>
+      <LifetimeMS>2875</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>120</Size>
+      <MultiHit />
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>tD Powerful Magic</ObjectId>
+      <Speed>54.12</Speed>
+      <Damage>75</Damage>
+      <LifetimeMS>2875</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>120</Size>
+      <MultiHit />
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>tD Powerful Magic</ObjectId>
+      <Speed>48.71</Speed>
+      <Damage>75</Damage>
+      <LifetimeMS>2875</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>120</Size>
+      <MultiHit />
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>tD Powerful Magic</ObjectId>
+      <Speed>45.88</Speed>
+      <Damage>75</Damage>
+      <LifetimeMS>2875</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>120</Size>
+      <MultiHit />
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="4">
+      <ObjectId>tD Powerful Magic</ObjectId>
+      <Speed>45</Speed>
+      <Damage>75</Damage>
+      <LifetimeMS>2555</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>120</Size>
+      <MultiHit />
+      <ArmorPiercing />
+    </Projectile>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>120</Size>
+    <MaxHitPoints>50000</MaxHitPoints>
+    <Defense>40</Defense>
+    <Exp>7500</Exp>
+    <KillStat stat="CubeKills" />
+    <KillStat stat="GodKills" />
+    <StunImmune />
+    <DazedImmune />
+    <StasisImmune />
+    <DamageBasedXP />
+  </Object>
+  <Object id="tD Hyper Cube" type="0x522a">
+    <DisplayId>Hyper Cube</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>thirdDimensionChars16x16</File>
+      <Index>11</Index>
+    </AnimatedTexture>
+    <AltTexture id="1">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>12</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="2">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>13</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="3">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>14</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <Projectile id="0">
+      <ObjectId>tD Square Magic</ObjectId>
+      <Speed>40</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>5000</LifetimeMS>
+      <Frequency>0</Frequency>
+      <Size>100</Size>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>tD Square Magic</ObjectId>
+      <Speed>41.41</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>5000</LifetimeMS>
+      <Frequency>0</Frequency>
+      <Size>100</Size>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>tD Square Magic</ObjectId>
+      <Speed>46.19</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>5000</LifetimeMS>
+      <Frequency>0</Frequency>
+      <Size>100</Size>
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>tD Border</ObjectId>
+      <Speed>56.57</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>5000</LifetimeMS>
+      <Frequency>0</Frequency>
+      <Size>100</Size>
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>8500</MaxHitPoints>
+    <Defense>10</Defense>
+    <Exp>150</Exp>
+    <KillStat stat="CubeKills" />
+    <KillStat stat="LesserGodKills" />
+    <StunImmune />
+    <DazedImmune />
+    <ParalyzeImmune />
+    <StasisImmune />
+  </Object>
+  <Object id="tD SegShoot" type="0x52a7">
+    <Class>Character</Class>
+    <DisplayId>Shadow Cube Serpent</DisplayId>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0xf7</Index>
+    </Texture>
+    <AltTexture id="1">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>16</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <Projectile id="0">
+      <ObjectId>tD Serpent Head Main</ObjectId>
+      <Speed>80</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>tD Serpent Head Main</ObjectId>
+      <Speed>113.13708499</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>tD Serpent Body</ObjectId>
+      <Speed>80</Speed>
+      <Damage>50</Damage>
+      <LifetimeMS>3000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <Amplitude>0</Amplitude>
+      <Frequency>6</Frequency>
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>tD Serpent Body</ObjectId>
+      <Speed>113.13708499</Speed>
+      <Damage>50</Damage>
+      <LifetimeMS>3000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <Amplitude>0</Amplitude>
+      <Frequency>6</Frequency>
+    </Projectile>
+    <Projectile id="4">
+      <ObjectId>tD Serpent Tail</ObjectId>
+      <Speed>80</Speed>
+      <Damage>150</Damage>
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="5">
+      <ObjectId>tD Serpent Tail</ObjectId>
+      <Speed>113.13708499</Speed>
+      <Damage>150</Damage>
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="6">
+      <ObjectId>tD Serpent Head Inner</ObjectId>
+      <Speed>80</Speed>
+      <Damage>0</Damage>
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="7">
+      <ObjectId>tD Serpent Head Inner</ObjectId>
+      <Speed>113.13708499</Speed>
+      <Damage>0</Damage>
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="8">
+      <ObjectId>tD Serpent Head Inner</ObjectId>
+      <Speed>80</Speed>
+      <Damage>20</Damage>
+      <LifetimeMS>4000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>200</Size>
+      <MultiHit />
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="11">
+      <ObjectId>tD Serpent Head Inner</ObjectId>
+      <Speed>113.13708499</Speed>
+      <Damage>20</Damage>
+      <LifetimeMS>4000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>200</Size>
+      <MultiHit />
+      <ArmorPiercing />
+    </Projectile>
+    <Size>100</Size>
+  </Object>
+  <Object id="tD Shadow Core" type="0x7fe5">
+    <DisplayId>Shadow Cube Blaster</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Enemy />
+    <DontFaceAttacks />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>thirdDimensionChars16x16</File>
+      <Index>17</Index>
+    </AnimatedTexture>
+    <AltTexture id="0">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>17</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x20</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x21</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x22</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x23</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x24</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="6">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x25</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="7">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x26</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="8">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x27</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="9">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>37</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <Projectile id="0">
+      <ObjectId>tD Shadow Square Magic</ObjectId>
+      <Speed>0</Speed>
+      <Damage>35</Damage>
+      <LifetimeMS>4500</LifetimeMS>
+      <Amplitude>12</Amplitude>
+      <Frequency>0.5</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <FaceDir />
+      <ConditionEffect duration="2">Silenced</ConditionEffect>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>tD Shadow Square Magic</ObjectId>
+      <Speed>0</Speed>
+      <Damage>35</Damage>
+      <LifetimeMS>4500</LifetimeMS>
+      <Amplitude>12.9887064035</Amplitude>
+      <Frequency>0.5</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <FaceDir />
+      <ConditionEffect duration="2">Silenced</ConditionEffect>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>tD Shadow Square Magic</ObjectId>
+      <Speed>0</Speed>
+      <Damage>35</Damage>
+      <LifetimeMS>4500</LifetimeMS>
+      <Amplitude>16.9705627485</Amplitude>
+      <Frequency>0.5</Frequency>
+      <Size>100</Size>
+      <ArmorPiercing />
+      <MultiHit />
+      <FaceDir />
+      <ConditionEffect duration="2">Silenced</ConditionEffect>
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>tD Shadow Border</ObjectId>
+      <Speed>75</Speed>
+      <Damage>90</Damage>
+      <LifetimeMS>4533</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>120</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="4">
+      <ObjectId>tD Chaos Monolith Magic</ObjectId>
+      <Damage>60</Damage>
+      <Speed>0</Speed>
+      <LifetimeMS>2400</LifetimeMS>
+      <MultiHit />
+      <Amplitude>1</Amplitude>
+      <Frequency>2</Frequency>
+      <ConditionEffect duration="2">Curse</ConditionEffect>
+      <Size>80</Size>
+    </Projectile>
+    <Projectile id="5">
+      <ObjectId>tD Chaos Monolith Magic</ObjectId>
+      <Damage>60</Damage>
+      <Speed>0</Speed>
+      <LifetimeMS>2400</LifetimeMS>
+      <MultiHit />
+      <Amplitude>1.41421356237</Amplitude>
+      <Frequency>2</Frequency>
+      <ConditionEffect duration="2">Curse</ConditionEffect>
+      <Size>80</Size>
+    </Projectile>
+    <Projectile id="6">
+      <ObjectId>tD Square Magic</ObjectId>
+      <Speed>65</Speed>
+      <Damage>120</Damage>
+      <LifetimeMS>2000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="7">
+      <ObjectId>tD Square Magic</ObjectId>
+      <Speed>67.2929517267</Speed>
+      <Damage>130</Damage>
+      <LifetimeMS>2000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="8">
+      <ObjectId>tD Square Magic</ObjectId>
+      <Speed>75.0555349947</Speed>
+      <Damage>140</Damage>
+      <LifetimeMS>2000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="9">
+      <ObjectId>tD Square Magic</ObjectId>
+      <Speed>91.9238815543</Speed>
+      <Damage>150</Damage>
+      <LifetimeMS>2000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="10">
+      <ObjectId>tD Shadow Monolith Magic</ObjectId>
+      <Damage>200</Damage>
+      <Speed>0</Speed>
+      <Size>100</Size>
+      <LifetimeMS>1600</LifetimeMS>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="15">
+      <ObjectId>tD Telegraph Beam</ObjectId>
+      <Speed>176.78</Speed>
+      <Damage>0</Damage>
+      <LifetimeMS>1760</LifetimeMS>
+      <Amplitude>0</Amplitude>
+      <Frequency>1</Frequency>
+      <Size>200</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="16">
+      <ObjectId>tD Monolith Magic</ObjectId>
+      <Speed>60</Speed>
+      <Damage>85</Damage>
+      <LifetimeMS>2666</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>120</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <ConditionEffect duration="1">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="17">
+      <ObjectId>tD Powerful Magic</ObjectId>
+      <Speed>80</Speed>
+      <Damage>80</Damage>
+      <LifetimeMS>1000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>120</Size>
+      <MultiHit />
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="18">
+      <ObjectId>tD Square Magic</ObjectId>
+      <Speed>60</Speed>
+      <Damage>120</Damage>
+      <LifetimeMS>2666</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <NoCollisionWhenMovement />
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>20</Size>
+    <MaxHitPoints>40000</MaxHitPoints>
+    <Defense>20</Defense>
+    <Exp>500</Exp>
+    <KillStat stat="CubeKills" />
+    <KillStat stat="GodKills" />
+    <Quest />
+    <HealthBarBoss radius="30" />
+    <StunImmune />
+    <StasisImmune />
+    <ParalyzeImmune />
+    <SlowImmune />
+    <DamageBasedXP />
+  </Object>
+  <Object type="0x422e" id="tD Shadow Target">
+    <NoMiniMap />
+    <DisplayId>Shadow Target</DisplayId>
+    <Class>Character</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0xb7</Index>
+    </Texture>
+    <Size>150</Size>
+    <ShadowSize>0</ShadowSize>
+    <Flying />
+    <Animation sync="true" prob="1" period="0.2">
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0xb7</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0xb8</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Enemy />
+    <Invincible />
+  </Object>
+  <Object id="tD Shadow Shock" type="0x422f">
+    <Class>Character</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0xc7</Index>
+    </Texture>
+    <DisplayId>Shadow Cube Blaster</DisplayId>
+    <Enemy />
+    <Invincible />
+    <Animation period="0" prob="1">
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0xc7</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0xc8</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0xc9</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0xca</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0xcb</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0xcc</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0xcd</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0xce</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0xc7</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0xcf</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Size>100</Size>
+    <NoMiniMap />
+  </Object>
+  <Object id="tD Segment" type="0x7fe6">
+    <DisplayId>Shadow Cube Body</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <DontFaceAttacks />
+    <AnimatedTexture>
+      <File>thirdDimensionChars16x16</File>
+      <Index>18</Index>
+    </AnimatedTexture>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>20</Size>
+    <MaxHitPoints>1500</MaxHitPoints>
+    <Defense>30</Defense>
+    <Exp>500</Exp>
+    <KillStat stat="CubeKills" />
+    <StunImmune />
+    <StasisImmune />
+    <ParalyzeImmune />
+    <SlowImmune />
+    <Projectile id="0">
+      <ObjectId>tD Shadow Square Magic</ObjectId>
+      <Speed>0</Speed>
+      <Damage>125</Damage>
+      <LifetimeMS>1400</LifetimeMS>
+      <Amplitude>4.125</Amplitude>
+      <Frequency>0.24</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+      <FaceDir />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>tD Shadow Square Magic</ObjectId>
+      <Speed>0</Speed>
+      <Damage>125</Damage>
+      <LifetimeMS>1400</LifetimeMS>
+      <Amplitude>4.46486782621</Amplitude>
+      <Frequency>0.24</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+      <FaceDir />
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>tD Shadow Square Magic</ObjectId>
+      <Speed>0</Speed>
+      <Damage>125</Damage>
+      <LifetimeMS>1400</LifetimeMS>
+      <Amplitude>5.83363094479</Amplitude>
+      <Frequency>0.24</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+      <FaceDir />
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>tD Shadow Border</ObjectId>
+      <Speed>75</Speed>
+      <Damage>90</Damage>
+      <LifetimeMS>4533</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>120</Size>
+      <MultiHit />
+    </Projectile>
+  </Object>
+  <Object id="tD Segment B" type="0x52b1">
+    <DisplayId>Shadow Cube Body</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <DontFaceAttacks />
+    <AnimatedTexture>
+      <File>thirdDimensionChars16x16</File>
+      <Index>19</Index>
+    </AnimatedTexture>
+    <AltTexture id="1">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>18</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>20</Size>
+    <MaxHitPoints>2000</MaxHitPoints>
+    <Defense>30</Defense>
+    <Exp>500</Exp>
+    <KillStat stat="CubeKills" />
+    <StunImmune />
+    <StasisImmune />
+    <ParalyzeImmune />
+    <SlowImmune />
+    <Projectile id="0">
+      <ObjectId>tD Shadow Square Magic</ObjectId>
+      <Speed>0</Speed>
+      <Damage>125</Damage>
+      <LifetimeMS>1400</LifetimeMS>
+      <Amplitude>4.125</Amplitude>
+      <Frequency>0.24</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+      <FaceDir />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>tD Shadow Square Magic</ObjectId>
+      <Speed>0</Speed>
+      <Damage>125</Damage>
+      <LifetimeMS>1400</LifetimeMS>
+      <Amplitude>4.46486782621</Amplitude>
+      <Frequency>0.24</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+      <FaceDir />
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>tD Shadow Square Magic</ObjectId>
+      <Speed>0</Speed>
+      <Damage>125</Damage>
+      <LifetimeMS>1400</LifetimeMS>
+      <Amplitude>5.83363094479</Amplitude>
+      <Frequency>0.24</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+      <FaceDir />
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>tD Shadow Border</ObjectId>
+      <Speed>75</Speed>
+      <Damage>90</Damage>
+      <LifetimeMS>4533</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>120</Size>
+      <MultiHit />
+    </Projectile>
+  </Object>
+  <Object id="tD Tail" type="0x7fe7">
+    <DisplayId>Shadow Cube Tail</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Enemy />
+    <DontFaceAttacks />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>thirdDimensionChars16x16</File>
+      <Index>20</Index>
+    </AnimatedTexture>
+    <Projectile id="0">
+      <ObjectId>tD Monolith Magic</ObjectId>
+      <Speed>60</Speed>
+      <Damage>85</Damage>
+      <LifetimeMS>2666</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>120</Size>
+      <MultiHit />
+      <ConditionEffect duration="1">Slowed</ConditionEffect>
+      <ArmorPiercing />
+    </Projectile>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>20</Size>
+    <MaxHitPoints>8000</MaxHitPoints>
+    <Defense>30</Defense>
+    <Exp>500</Exp>
+    <KillStat stat="CubeKills" />
+    <StunImmune />
+    <StasisImmune />
+    <ParalyzeImmune />
+    <SlowImmune />
+  </Object>
+  <Object id="tD Rogue" type="0x524d">
+    <DisplayId>Cuboid Rogue</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>thirdDimensionChars8x8</File>
+      <Index>4</Index>
+    </AnimatedTexture>
+    <AltTexture id="0">
+      <AnimatedTexture>
+        <File>thirdDimensionChars8x8</File>
+        <Index>4</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>4</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>2500</MaxHitPoints>
+    <Defense>25</Defense>
+    <Exp>500</Exp>
+    <KillStat stat="CubeKills" />
+    <ParalyzeImmune />
+    <Projectile id="0">
+      <ObjectId>tD Rogue Slash</ObjectId>
+      <Speed>55</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>909</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+      <ConditionEffect duration="2">Silenced</ConditionEffect>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>tD Rogue Slash</ObjectId>
+      <Speed>56.9401899226</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>909</LifetimeMS>
+      <Frequency>1</Frequency>
+      <MultiHit />
+      <ConditionEffect duration="2">Silenced</ConditionEffect>
+      <Size>100</Size>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>tD Rogue Slash</ObjectId>
+      <Speed>63.5085296109</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>909</LifetimeMS>
+      <Frequency>1</Frequency>
+      <MultiHit />
+      <ConditionEffect duration="2">Silenced</ConditionEffect>
+      <Size>100</Size>
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>tD Rogue Slash</ObjectId>
+      <Speed>77.7817459305</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>909</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+      <ConditionEffect duration="2">Silenced</ConditionEffect>
+    </Projectile>
+  </Object>
+  <Object id="tD Trickster" type="0x524e">
+    <DisplayId>Cuboid Trickster</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>thirdDimensionChars8x8</File>
+      <Index>5</Index>
+    </AnimatedTexture>
+    <AltTexture id="0">
+      <AnimatedTexture>
+        <File>thirdDimensionChars8x8</File>
+        <Index>5</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="1">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>5</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>2000</MaxHitPoints>
+    <Defense>20</Defense>
+    <Exp>500</Exp>
+    <KillStat stat="CubeKills" />
+    <ParalyzeImmune />
+    <Projectile id="0">
+      <ObjectId>tD Cronus Border</ObjectId>
+      <Damage>100</Damage>
+      <Speed>77.7817459305</Speed>
+      <LifetimeMS>650</LifetimeMS>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>tD Trickster Slash</ObjectId>
+      <Damage>100</Damage>
+      <Speed>63.5085296109</Speed>
+      <LifetimeMS>650</LifetimeMS>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>tD Cronus Border</ObjectId>
+      <Damage>100</Damage>
+      <Speed>77.7817459305</Speed>
+      <LifetimeMS>780</LifetimeMS>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>tD Trickster Slash</ObjectId>
+      <Damage>100</Damage>
+      <Speed>63.5085296109</Speed>
+      <LifetimeMS>780</LifetimeMS>
+      <MultiHit />
+    </Projectile>
+  </Object>
+  <Object id="tD Trickster Decoy" type="0x524f">
+    <DisplayId>Cuboid Trickster Decoy</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>thirdDimensionChars8x8</File>
+      <Index>5</Index>
+    </AnimatedTexture>
+    <Projectile id="0">
+      <ObjectId>tD Cronus Border</ObjectId>
+      <Speed>0</Speed>
+      <Damage>60</Damage>
+      <LifetimeMS>2400</LifetimeMS>
+      <Amplitude>2</Amplitude>
+      <Frequency>1</Frequency>
+      <Magnitude>2</Magnitude>
+      <Size>100</Size>
+      <Parametric />
+      <ArmorPiercing />
+      <MultiHit />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>tD Cronus Border</ObjectId>
+      <Speed>0</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>0</LifetimeMS>
+      <Amplitude>3</Amplitude>
+      <Frequency>1</Frequency>
+      <Magnitude>3</Magnitude>
+      <Size>100</Size>
+      <Parametric />
+      <ArmorPiercing />
+      <MultiHit />
+    </Projectile>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>5000</MaxHitPoints>
+    <Defense>25</Defense>
+    <Exp>0</Exp>
+    <KillStat stat="CubeKills" />
+    <ParalyzeImmune />
+    <StasisImmune />
+  </Object>
+  <Object id="tD Squared Trickster Decoy" type="0x421f">
+    <DisplayId>Cuboid Trickster Decoy</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>thirdDimensionChars16x16</File>
+      <Index>5</Index>
+    </AnimatedTexture>
+    <Projectile id="0">
+      <ObjectId>tD Cronus Border</ObjectId>
+      <Speed>0</Speed>
+      <Damage>60</Damage>
+      <LifetimeMS>2600</LifetimeMS>
+      <Amplitude>2</Amplitude>
+      <Frequency>1</Frequency>
+      <Magnitude>2</Magnitude>
+      <Size>100</Size>
+      <Parametric />
+      <ArmorPiercing />
+      <MultiHit />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>tD Cronus Border</ObjectId>
+      <Speed>0</Speed>
+      <Damage>60</Damage>
+      <LifetimeMS>2600</LifetimeMS>
+      <Amplitude>2.83</Amplitude>
+      <Frequency>1</Frequency>
+      <Magnitude>2.83</Magnitude>
+      <Size>100</Size>
+      <Parametric />
+      <ArmorPiercing />
+      <MultiHit />
+      <FaceDir />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>tD Cronus Border</ObjectId>
+      <Speed>0</Speed>
+      <Damage>0</Damage>
+      <LifetimeMS>0</LifetimeMS>
+      <Amplitude>2.83</Amplitude>
+      <Frequency>1</Frequency>
+      <Magnitude>2.83</Magnitude>
+      <Size>100</Size>
+      <Parametric />
+      <ArmorPiercing />
+      <MultiHit />
+    </Projectile>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>5000</MaxHitPoints>
+    <Defense>25</Defense>
+    <Exp>0</Exp>
+    <KillStat stat="CubeKills" />
+    <ParalyzeImmune />
+    <StasisImmune />
+    <StunImmune />
+  </Object>
+  <Object id="tD Paladin" type="0x5255">
+    <DisplayId>Cuboid Paladin</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>thirdDimensionChars8x8</File>
+      <Index>3</Index>
+    </AnimatedTexture>
+    <AltTexture id="0">
+      <AnimatedTexture>
+        <File>thirdDimensionChars8x8</File>
+        <Index>3</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="1">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>3</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>3500</MaxHitPoints>
+    <Defense>30</Defense>
+    <Exp>500</Exp>
+    <KillStat stat="CubeKills" />
+    <ParalyzeImmune />
+    <StasisImmune />
+    <Projectile id="0">
+      <ObjectId>tD Paladin Slash</ObjectId>
+      <Speed>0</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>800</LifetimeMS>
+      <Amplitude>5</Amplitude>
+      <Frequency>0.24</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+      <FaceDir />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>tD Paladin Slash</ObjectId>
+      <Speed>0</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>1000</LifetimeMS>
+      <Amplitude>5.176</Amplitude>
+      <Frequency>0.24</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+      <FaceDir />
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>tD Paladin Slash</ObjectId>
+      <Speed>0</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>1200</LifetimeMS>
+      <Amplitude>5.77</Amplitude>
+      <Frequency>0.24</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+      <FaceDir />
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>tD Paladin Slash</ObjectId>
+      <Speed>0</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>1400</LifetimeMS>
+      <Amplitude>7.071</Amplitude>
+      <Frequency>0.24</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+      <FaceDir />
+    </Projectile>
+  </Object>
+  <Object id="tD Matriarch" type="0x522b">
+    <DisplayId>Cuboid Matriarch</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>thirdDimensionChars16x16</File>
+      <Index>9</Index>
+    </AnimatedTexture>
+    <AltTexture id="0">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>9</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="1">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>10</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="2">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>38</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <Projectile id="0">
+      <ObjectId>tD Border</ObjectId>
+      <Speed>0</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>4800</LifetimeMS>
+      <Amplitude>5</Amplitude>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>tD Border</ObjectId>
+      <Speed>0</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>4800</LifetimeMS>
+      <Amplitude>7.07</Amplitude>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>tD Powerful Magic</ObjectId>
+      <Speed>55</Speed>
+      <Damage>140</Damage>
+      <LifetimeMS>2000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+    </Projectile>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>7500</MaxHitPoints>
+    <Defense>20</Defense>
+    <Exp>1000</Exp>
+    <KillStat stat="CubeKills" />
+    <KillStat stat="LesserGodKills" />
+    <ParalyzeImmune />
+    <StasisImmune />
+    <StunImmune />
+  </Object>
+  <Object id="tD Tesseract Helper A" type="0x52be">
+    <Class>GameObject</Class>
+    <DrawOnGround />
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xe0</Index>
+    </Texture>
+    <Animation sync="true" period="0.8" prob="1">
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects8x8</File>
+          <Index>0xe0</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects8x8</File>
+          <Index>0xe1</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects8x8</File>
+          <Index>0xe2</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects8x8</File>
+          <Index>0xe3</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+  </Object>
+  <Object id="tD Tesseract Portal Exit" type="0x7fe8">
+    <DisplayId>Tesseract Portal</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0x01</Index>
+    </Texture>
+    <Animation period="0.6" prob="1">
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x00</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x01</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x02</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x03</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x04</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x05</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Size>120</Size>
+  </Object>
+  <Object id="tD Tesseract Portal Exit Fake" type="0x4236">
+    <DisplayId>Tesseract Portal</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0x01</Index>
+    </Texture>
+    <Animation period="0.6" prob="1">
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x00</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x01</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x02</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x03</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x04</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x05</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Size>120</Size>
+  </Object>
+  <Object id="tD Tesseract Portal Enter" type="0x4233">
+    <DisplayId>Tesseract Portal</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD Tesseract Portal Enter Fake" type="0x4237">
+    <DisplayId>Tesseract Portal</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x52bf" id="tD Tesseract Target">
+    <NoMiniMap />
+    <DisplayId>Tesseract Goddess</DisplayId>
+    <Class>Character</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0x97</Index>
+    </Texture>
+    <Size>100</Size>
+    <ShadowSize>0</ShadowSize>
+    <Flying />
+    <Animation sync="true" prob="1" period="0.2">
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x97</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x98</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Projectile id="0">
+      <ObjectId>tD Tesseract Beam</ObjectId>
+      <Speed>70.71</Speed>
+      <Damage>50</Damage>
+      <MultiHit />
+      <LifetimeMS>4800</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>200</Size>
+      <ArmorPiercing />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Enemy />
+    <Invincible />
+  </Object>
+  <Object type="0x4234" id="tD Tesseract Target Opposite">
+    <NoMiniMap />
+    <DisplayId>Tesseract Goddess</DisplayId>
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+  </Object>
+  <Object type="0x4238" id="tD Tesseract Target Opposite Fake">
+    <NoMiniMap />
+    <DisplayId>Tesseract Goddess</DisplayId>
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+  </Object>
+  <Object type="0x52c2" id="tD Tesseract Target Fake">
+    <NoMiniMap />
+    <DisplayId>Tesseract Goddess</DisplayId>
+    <Class>Character</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0x97</Index>
+    </Texture>
+    <Size>100</Size>
+    <ShadowSize>0</ShadowSize>
+    <Flying />
+    <Animation sync="true" prob="1" period="0.2">
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x97</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x98</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Projectile id="0">
+      <ObjectId>tD Tesseract Beam</ObjectId>
+      <Speed>50</Speed>
+      <Damage>50</Damage>
+      <MultiHit />
+      <LifetimeMS>4800</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>200</Size>
+      <ArmorPiercing />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Enemy />
+    <Invincible />
+  </Object>
+  <Object type="0x4232" id="tD Cronus Target">
+    <NoMiniMap />
+    <DisplayId>Tesseract Goddess</DisplayId>
+    <Class>Character</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0xa7</Index>
+    </Texture>
+    <Size>100</Size>
+    <ShadowSize>0</ShadowSize>
+    <Flying />
+    <Animation sync="true" prob="1" period="0.2">
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0xa7</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0xa8</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Projectile id="0">
+      <ObjectId>tD Cronus Beam</ObjectId>
+      <Speed>70.71</Speed>
+      <Damage>50</Damage>
+      <MultiHit />
+      <LifetimeMS>4800</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>200</Size>
+      <ArmorPiercing />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Enemy />
+    <Invincible />
+  </Object>
+  <Object type="0x423c" id="tD Cronus Target Opposite">
+    <NoMiniMap />
+    <DisplayId>Tesseract Goddess</DisplayId>
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+  </Object>
+  <Object type="0x423d" id="tD Cronus Target Opposite Fake">
+    <NoMiniMap />
+    <DisplayId>Tesseract Goddess</DisplayId>
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+  </Object>
+  <Object type="0x423b" id="tD Cronus Target Fake">
+    <NoMiniMap />
+    <DisplayId>Tesseract Goddess</DisplayId>
+    <Class>Character</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0xa7</Index>
+    </Texture>
+    <Size>100</Size>
+    <ShadowSize>0</ShadowSize>
+    <Flying />
+    <Animation sync="true" prob="1" period="0.2">
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0xa7</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0xa8</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Projectile id="0">
+      <ObjectId>tD Cronus Beam</ObjectId>
+      <Speed>50</Speed>
+      <Damage>50</Damage>
+      <MultiHit />
+      <LifetimeMS>4800</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>200</Size>
+      <ArmorPiercing />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+    <Enemy />
+    <Invincible />
+  </Object>
+  <Object id="tD Cronus Portal Exit" type="0x423e">
+    <DisplayId>Cronus Portal</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0x11</Index>
+    </Texture>
+    <Animation period="0.6" prob="1">
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x10</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x11</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x12</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x13</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x14</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x15</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Size>120</Size>
+  </Object>
+  <Object id="tD Cronus Portal Exit Fake" type="0x423f">
+    <DisplayId>Cronus Portal</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0x11</Index>
+    </Texture>
+    <Animation period="0.6" prob="1">
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x10</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x11</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x12</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x13</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x14</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x15</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Size>120</Size>
+  </Object>
+  <Object id="tD Cronus Portal Enter" type="0x4241">
+    <DisplayId>Cronus Portal</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD Cronus Portal Enter Fake" type="0x4242">
+    <DisplayId>Cronus Portal</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD Goddess Fake" type="0x4219">
+    <DisplayId>Tesseract Goddess</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Enemy />
+    <NoCollisionWhenMovement />
+    <AlwaysPositiveHealth />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>thirdDimensionChars16x16</File>
+      <Index>22</Index>
+    </AnimatedTexture>
+    <AltTexture id="4">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>26</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="10">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="11">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>33</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="12">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>34</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <Projectile id="0">
+      <ObjectId>tD Square Magic</ObjectId>
+      <Speed>50</Speed>
+      <Damage>90</Damage>
+      <MultiHit />
+      <LifetimeMS>2400</LifetimeMS>
+      <Frequency>0</Frequency>
+      <Size>100</Size>
+      <FaceDir />
+      <ArmorPiercing />
+      <ConditionEffect duration="1.2">Slowed</ConditionEffect>
+      <Amplitude>0</Amplitude>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>tD Powerful Border</ObjectId>
+      <Speed>60</Speed>
+      <Damage>100</Damage>
+      <MultiHit />
+      <LifetimeMS>1500</LifetimeMS>
+      <Frequency>0</Frequency>
+      <Size>100</Size>
+      <Amplitude>0</Amplitude>
+    </Projectile>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>85000</MaxHitPoints>
+    <Defense>50</Defense>
+    <KillStat stat="CubeKills" />
+    <StunImmune />
+    <DazedImmune />
+    <ParalyzeImmune />
+    <SlowImmune />
+    <StasisImmune />
+  </Object>
+  <Object id="tD Cronus Fake" type="0x4240">
+    <DisplayId>Tesseract Goddess</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Enemy />
+    <NoCollisionWhenMovement />
+    <Class>Character</Class>
+    <AlwaysPositiveHealth />
+    <AnimatedTexture>
+      <File>thirdDimensionChars16x16</File>
+      <Index>31</Index>
+    </AnimatedTexture>
+    <AltTexture id="9">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>31</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="10">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="11">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>35</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="12">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>36</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <Projectile id="0">
+      <ObjectId>tD Cronus Magic</ObjectId>
+      <Speed>50</Speed>
+      <Damage>100</Damage>
+      <MultiHit />
+      <LifetimeMS>2400</LifetimeMS>
+      <Frequency>0</Frequency>
+      <Size>100</Size>
+      <FaceDir />
+      <ArmorPiercing />
+      <ConditionEffect duration="1.6">Slowed</ConditionEffect>
+      <Amplitude>0</Amplitude>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>tD Powerful Border</ObjectId>
+      <Speed>60</Speed>
+      <Damage>125</Damage>
+      <MultiHit />
+      <LifetimeMS>1500</LifetimeMS>
+      <Frequency>0</Frequency>
+      <Size>100</Size>
+      <Amplitude>0</Amplitude>
+    </Projectile>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>85000</MaxHitPoints>
+    <Defense>50</Defense>
+    <KillStat stat="CubeKills" />
+    <StunImmune />
+    <DazedImmune />
+    <ParalyzeImmune />
+    <SlowImmune />
+    <StasisImmune />
+  </Object>
+  <Object id="tD Goddess" type="0x7fe9">
+    <DisplayId>Tesseract Goddess</DisplayId>
+    <Group>The Third Dimension</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <EventChestBoss />
+    <NoCollisionWhenMovement />
+    <AlwaysPositiveHealth />
+    <Portrait>
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>26</Index>
+      </AnimatedTexture>
+    </Portrait>
+    <AnimatedTexture>
+      <File>thirdDimensionChars16x16</File>
+      <Index>22</Index>
+    </AnimatedTexture>
+    <AltTexture id="0">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>22</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="1">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>23</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="2">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>24</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="3">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>25</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="4">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>26</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="5">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>27</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="6">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>28</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="7">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>29</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="8">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>30</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="9">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>31</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="10">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="11">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>33</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="12">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>34</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="13">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>35</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="14">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>36</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="15">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x9c</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="16">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x9b</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="17">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x9a</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="18">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x99</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="19">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xac</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="20">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xab</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="21">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xaa</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="22">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0xa9</Index>
+      </Texture>
+    </AltTexture>
+    <Projectile id="0">
+      <ObjectId>tD Tesseract Beam Head</ObjectId>
+      <Speed>65</Speed>
+      <Damage>100</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>240</Size>
+      <ConditionEffect duration="2">Exposed</ConditionEffect>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>tD Tesseract Beam Head</ObjectId>
+      <Speed>67.2929517267</Speed>
+      <Damage>100</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>260</Size>
+      <ConditionEffect duration="2">Exposed</ConditionEffect>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>tD Tesseract Beam Head</ObjectId>
+      <Speed>75.0555349947</Speed>
+      <Damage>100</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>280</Size>
+      <ConditionEffect duration="2">Exposed</ConditionEffect>
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>tD Tesseract Beam Head</ObjectId>
+      <Speed>91.9238815543</Speed>
+      <Damage>100</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>300</Size>
+      <ConditionEffect duration="2">Exposed</ConditionEffect>
+    </Projectile>
+    <Projectile id="4">
+      <ObjectId>tD Tesseract Beam Main</ObjectId>
+      <Speed>65</Speed>
+      <Damage>100</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>240</Size>
+      <ConditionEffect duration="2">Exposed</ConditionEffect>
+    </Projectile>
+    <Projectile id="5">
+      <ObjectId>tD Tesseract Beam Main</ObjectId>
+      <Speed>67.2929517267</Speed>
+      <Damage>100</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>260</Size>
+      <ConditionEffect duration="2">Exposed</ConditionEffect>
+    </Projectile>
+    <Projectile id="6">
+      <ObjectId>tD Tesseract Beam Main</ObjectId>
+      <Speed>75.0555349947</Speed>
+      <Damage>100</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>280</Size>
+      <ConditionEffect duration="2">Exposed</ConditionEffect>
+    </Projectile>
+    <Projectile id="7">
+      <ObjectId>tD Tesseract Beam Main</ObjectId>
+      <Speed>91.9238815543</Speed>
+      <Damage>100</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>300</Size>
+      <ConditionEffect duration="2">Exposed</ConditionEffect>
+    </Projectile>
+    <Projectile id="8">
+      <ObjectId>tD Tesseract Beam Tail</ObjectId>
+      <Speed>65</Speed>
+      <Damage>100</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>240</Size>
+      <ConditionEffect duration="2">Exposed</ConditionEffect>
+    </Projectile>
+    <Projectile id="9">
+      <ObjectId>tD Tesseract Beam Tail</ObjectId>
+      <Speed>67.2929517267</Speed>
+      <Damage>100</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>260</Size>
+      <ConditionEffect duration="2">Exposed</ConditionEffect>
+    </Projectile>
+    <Projectile id="10">
+      <ObjectId>tD Tesseract Beam Tail</ObjectId>
+      <Speed>75.0555349947</Speed>
+      <Damage>100</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>280</Size>
+      <ConditionEffect duration="2">Exposed</ConditionEffect>
+    </Projectile>
+    <Projectile id="11">
+      <ObjectId>tD Tesseract Beam Tail</ObjectId>
+      <Speed>91.9238815543</Speed>
+      <Damage>100</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>300</Size>
+      <ConditionEffect duration="2">Exposed</ConditionEffect>
+    </Projectile>
+    <Projectile id="12">
+      <ObjectId>tD Cronus Beam Head</ObjectId>
+      <Speed>65</Speed>
+      <Damage>80</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>240</Size>
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="13">
+      <ObjectId>tD Cronus Beam Head</ObjectId>
+      <Speed>67.2929517267</Speed>
+      <Damage>80</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>260</Size>
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="14">
+      <ObjectId>tD Cronus Beam Head</ObjectId>
+      <Speed>75.0555349947</Speed>
+      <Damage>80</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>280</Size>
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="15">
+      <ObjectId>tD Cronus Beam Head</ObjectId>
+      <Speed>91.9238815543</Speed>
+      <Damage>80</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>300</Size>
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="16">
+      <ObjectId>tD Cronus Beam Main</ObjectId>
+      <Speed>65</Speed>
+      <Damage>80</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>240</Size>
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="17">
+      <ObjectId>tD Cronus Beam Main</ObjectId>
+      <Speed>67.2929517267</Speed>
+      <Damage>80</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>260</Size>
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="18">
+      <ObjectId>tD Cronus Beam Main</ObjectId>
+      <Speed>75.0555349947</Speed>
+      <Damage>80</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>280</Size>
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="19">
+      <ObjectId>tD Cronus Beam Main</ObjectId>
+      <Speed>91.9238815543</Speed>
+      <Damage>80</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>300</Size>
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="20">
+      <ObjectId>tD Cronus Beam Tail</ObjectId>
+      <Speed>65</Speed>
+      <Damage>80</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>240</Size>
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="21">
+      <ObjectId>tD Cronus Beam Tail</ObjectId>
+      <Speed>67.2929517267</Speed>
+      <Damage>80</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>260</Size>
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="22">
+      <ObjectId>tD Cronus Beam Tail</ObjectId>
+      <Speed>75.0555349947</Speed>
+      <Damage>80</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>280</Size>
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="23">
+      <ObjectId>tD Cronus Beam Tail</ObjectId>
+      <Speed>91.9238815543</Speed>
+      <Damage>80</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>300</Size>
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="24">
+      <ObjectId>tD Powerful Magic</ObjectId>
+      <Speed>55</Speed>
+      <Damage>120</Damage>
+      <LifetimeMS>2181</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="25">
+      <ObjectId>tD Powerful Magic</ObjectId>
+      <Speed>56.9401899226</Speed>
+      <Damage>130</Damage>
+      <LifetimeMS>2181</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="26">
+      <ObjectId>tD Powerful Magic</ObjectId>
+      <Speed>63.5085296109</Speed>
+      <Damage>140</Damage>
+      <LifetimeMS>2181</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="27">
+      <ObjectId>tD Powerful Magic</ObjectId>
+      <Speed>77.7817459305</Speed>
+      <Damage>150</Damage>
+      <LifetimeMS>2181</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="28">
+      <ObjectId>tD Telegraph Beam</ObjectId>
+      <Speed>65</Speed>
+      <Damage>0</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>240</Size>
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="29">
+      <ObjectId>tD Telegraph Beam</ObjectId>
+      <Speed>67.2929517267</Speed>
+      <Damage>0</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>260</Size>
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="30">
+      <ObjectId>tD Telegraph Beam</ObjectId>
+      <Speed>75.0555349947</Speed>
+      <Damage>0</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>280</Size>
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="31">
+      <ObjectId>tD Telegraph Beam</ObjectId>
+      <Speed>91.9238815543</Speed>
+      <Damage>0</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>300</Size>
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="32">
+      <ObjectId>tD Powerful Magic</ObjectId>
+      <Speed>70.71</Speed>
+      <Damage>100</Damage>
+      <MultiHit />
+      <LifetimeMS>4800</LifetimeMS>
+      <Frequency>2</Frequency>
+      <Size>100</Size>
+      <FaceDir />
+      <ArmorPiercing />
+      <Amplitude>0</Amplitude>
+    </Projectile>
+    <Projectile id="33">
+      <ObjectId>tD Powerful Magic</ObjectId>
+      <Speed>46.59</Speed>
+      <Damage>80</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="34">
+      <ObjectId>tD Powerful Magic</ObjectId>
+      <Speed>51.96</Speed>
+      <Damage>100</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="35">
+      <ObjectId>tD Powerful Magic</ObjectId>
+      <Speed>63.64</Speed>
+      <Damage>120</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="36">
+      <ObjectId>tD Tesseract Magic</ObjectId>
+      <Speed>80</Speed>
+      <Damage>150</Damage>
+      <MultiHit />
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <ConditionEffect duration="0.4">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="37">
+      <ObjectId>tD Border</ObjectId>
+      <Speed>80</Speed>
+      <Damage>100</Damage>
+      <MultiHit />
+      <LifetimeMS>1200</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <ArmorPiercing />
+      <ConditionEffect duration="4">Curse</ConditionEffect>
+    </Projectile>
+    <Projectile id="38">
+      <ObjectId>tD Border</ObjectId>
+      <Speed>65.32</Speed>
+      <Damage>100</Damage>
+      <MultiHit />
+      <LifetimeMS>1200</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <ArmorPiercing />
+      <ConditionEffect duration="4">Curse</ConditionEffect>
+    </Projectile>
+    <Projectile id="39">
+      <ObjectId>tD Paladin Slash</ObjectId>
+      <Speed>60</Speed>
+      <Damage>100</Damage>
+      <MultiHit />
+      <LifetimeMS>1200</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="40">
+      <ObjectId>tD Paladin Slash</ObjectId>
+      <Speed>48.99</Speed>
+      <Damage>100</Damage>
+      <MultiHit />
+      <LifetimeMS>1200</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="41">
+      <ObjectId>tD Cronus Border</ObjectId>
+      <Speed>80</Speed>
+      <Damage>100</Damage>
+      <MultiHit />
+      <LifetimeMS>1200</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <ArmorPiercing />
+      <ConditionEffect duration="4">Curse</ConditionEffect>
+    </Projectile>
+    <Projectile id="42">
+      <ObjectId>tD Cronus Border</ObjectId>
+      <Speed>65.32</Speed>
+      <Damage>100</Damage>
+      <MultiHit />
+      <LifetimeMS>1200</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <ArmorPiercing />
+      <ConditionEffect duration="4">Curse</ConditionEffect>
+    </Projectile>
+    <Projectile id="43">
+      <ObjectId>tD Trickster Slash</ObjectId>
+      <Speed>60</Speed>
+      <Damage>100</Damage>
+      <MultiHit />
+      <LifetimeMS>1200</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="44">
+      <ObjectId>tD Trickster Slash</ObjectId>
+      <Speed>48.99</Speed>
+      <Damage>100</Damage>
+      <MultiHit />
+      <LifetimeMS>1200</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="45">
+      <ObjectId>tD Tesseract Beam</ObjectId>
+      <Speed>40</Speed>
+      <Damage>150</Damage>
+      <LifetimeMS>5000</LifetimeMS>
+      <Frequency>0</Frequency>
+      <Size>200</Size>
+      <ConditionEffect duration="1.6">Slowed</ConditionEffect>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="46">
+      <ObjectId>tD Powerful Magic</ObjectId>
+      <Speed>50</Speed>
+      <Damage>100</Damage>
+      <MultiHit />
+      <LifetimeMS>2400</LifetimeMS>
+      <Frequency>0</Frequency>
+      <Size>100</Size>
+      <FaceDir />
+      <ArmorPiercing />
+      <Amplitude>0</Amplitude>
+    </Projectile>
+    <Projectile id="47">
+      <ObjectId>tD Square Magic</ObjectId>
+      <Speed>70.71</Speed>
+      <Damage>90</Damage>
+      <MultiHit />
+      <LifetimeMS>2400</LifetimeMS>
+      <Frequency>0</Frequency>
+      <Size>100</Size>
+      <FaceDir />
+      <ArmorPiercing />
+      <ConditionEffect duration="1.2">Slowed</ConditionEffect>
+      <Amplitude>0</Amplitude>
+    </Projectile>
+    <Projectile id="48">
+      <ObjectId>tD Cronus Beam</ObjectId>
+      <Speed>40</Speed>
+      <Damage>200</Damage>
+      <LifetimeMS>5000</LifetimeMS>
+      <Frequency>0</Frequency>
+      <Size>200</Size>
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="49">
+      <ObjectId>tD Powerful Border</ObjectId>
+      <Speed>84.85</Speed>
+      <Damage>100</Damage>
+      <MultiHit />
+      <LifetimeMS>1500</LifetimeMS>
+      <Frequency>0</Frequency>
+      <Size>100</Size>
+      <Amplitude>0</Amplitude>
+    </Projectile>
+    <Projectile id="50">
+      <ObjectId>tD Powerful Border</ObjectId>
+      <Speed>84.85</Speed>
+      <Damage>125</Damage>
+      <MultiHit />
+      <LifetimeMS>1500</LifetimeMS>
+      <Frequency>0</Frequency>
+      <Size>100</Size>
+      <Amplitude>0</Amplitude>
+    </Projectile>
+    <Projectile id="51">
+      <ObjectId>tD Cronus Magic</ObjectId>
+      <Speed>70.71</Speed>
+      <Damage>100</Damage>
+      <MultiHit />
+      <LifetimeMS>2400</LifetimeMS>
+      <Frequency>0</Frequency>
+      <Size>100</Size>
+      <FaceDir />
+      <ArmorPiercing />
+      <ConditionEffect duration="1.6">Slowed</ConditionEffect>
+      <Amplitude>0</Amplitude>
+    </Projectile>
+    <Projectile id="52">
+      <ObjectId>tD Trickster Slash</ObjectId>
+      <Speed>40</Speed>
+      <Damage>100</Damage>
+      <LifetimeMS>3000</LifetimeMS>
+      <Frequency>0</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+      <ArmorPiercing />
+    </Projectile>
+    <Projectile id="53">
+      <ObjectId>tD Powerful Magic</ObjectId>
+      <Speed>40</Speed>
+      <Damage>120</Damage>
+      <LifetimeMS>1600</LifetimeMS>
+      <Acceleration>400</Acceleration>
+      <AccelerationDelay>400</AccelerationDelay>
+      <SpeedClamp>100</SpeedClamp>
+      <Frequency>1</Frequency>
+      <MultiHit />
+      <Size>100</Size>
+    </Projectile>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>115000</MaxHitPoints>
+    <Defense>50</Defense>
+    <Exp>7500</Exp>
+    <KillStat stat="CubeKills" />
+    <KillStat stat="GodKills" />
+    <Quest />
+    <HealthBarBoss radius="30" />
+    <StunImmune />
+    <DazedImmune />
+    <ParalyzeImmune />
+    <SlowImmune />
+    <StasisImmune />
+    <Sound id="0">monster/rocks_death</Sound>
+    <DamageBasedXP />
+  </Object>
+  <Object id="tD Tesseract Fragment" type="0x52b7">
+    <Class>Character</Class>
+    <DisplayId>Tesseract Fragment</DisplayId>
+    <NoCollisionWhenMovement />
+    <NoMiniMap />
+    <AnimatedTexture>
+      <File>thirdDimensionChars8x8</File>
+      <Index>33</Index>
+    </AnimatedTexture>
+    <Size>100</Size>
+  </Object>
+  <Object id="tD Cronus Fragment" type="0x4ecf">
+    <Class>Character</Class>
+    <DisplayId>Tesseract Fragment</DisplayId>
+    <NoCollisionWhenMovement />
+    <NoMiniMap />
+    <AnimatedTexture>
+      <File>thirdDimensionChars8x8</File>
+      <Index>34</Index>
+    </AnimatedTexture>
+    <Size>100</Size>
+  </Object>
+  <Object id="tD Cube God" type="0x522d">
+    <DisplayId>Lesser Cube God</DisplayId>
+    <Group>Greater Cubes</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>thirdDimensionChars16x16</File>
+      <Index>8</Index>
+    </AnimatedTexture>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>120</Size>
+    <MaxHitPoints>8000</MaxHitPoints>
+    <Defense>30</Defense>
+    <Exp>1250</Exp>
+    <KillStat stat="CubeKills" />
+    <KillStat stat="LesserGodKills" />
+    <StunImmune />
+    <DazedImmune />
+    <ParalyzeImmune />
+    <StasisImmune />
+    <Projectile id="0">
+      <ObjectId>tD Native Border</ObjectId>
+      <Speed>50</Speed>
+      <Damage>95</Damage>
+      <LifetimeMS>1455</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+    </Projectile>
+  </Object>
+  <Object id="tD Overseer" type="0x420a">
+    <DisplayId>Fire Cube Overseer</DisplayId>
+    <Group>Elemental Cubes</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>thirdDimensionChars8x8</File>
+      <Index>1</Index>
+    </AnimatedTexture>
+    <AltTexture id="1">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>1</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <Projectile id="0">
+      <ObjectId>tD Crimson Block</ObjectId>
+      <Speed>55</Speed>
+      <Damage>60</Damage>
+      <LifetimeMS>770</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>tD Crimson Block</ObjectId>
+      <Speed>56.9401899226</Speed>
+      <Damage>60</Damage>
+      <LifetimeMS>770</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>tD Crimson Block</ObjectId>
+      <Speed>63.5085296109</Speed>
+      <Damage>60</Damage>
+      <LifetimeMS>770</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>tD Crimson Border</ObjectId>
+      <Speed>77.7817459305</Speed>
+      <Damage>60</Damage>
+      <LifetimeMS>770</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+      <ConditionEffect duration="2">Armor Broken</ConditionEffect>
+    </Projectile>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>2000</MaxHitPoints>
+    <Defense>25</Defense>
+    <Exp>150</Exp>
+    <KillStat stat="CubeKills" />
+    <StunImmune />
+    <DazedImmune />
+    <ParalyzeImmune />
+  </Object>
+  <Object id="tD Defender" type="0x420c">
+    <DisplayId>Lightning Cube Defender</DisplayId>
+    <Group>Elemental Cubes</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>thirdDimensionChars8x8</File>
+      <Index>0</Index>
+    </AnimatedTexture>
+    <AltTexture id="1">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>0</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <Projectile id="0">
+      <ObjectId>tD Shocking Magic</ObjectId>
+      <Speed>77.7817459305</Speed>
+      <Damage>90</Damage>
+      <LifetimeMS>770</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <MultiHit />
+      <ConditionEffect duration="0.6">Paralyzed</ConditionEffect>
+    </Projectile>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>4000</MaxHitPoints>
+    <Defense>15</Defense>
+    <Exp>150</Exp>
+    <KillStat stat="CubeKills" />
+    <StunImmune />
+    <DazedImmune />
+    <ParalyzeImmune />
+  </Object>
+  <Object id="tD Blaster" type="0x420e">
+    <DisplayId>Ice Cube Blaster</DisplayId>
+    <Group>Elemental Cubes</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>thirdDimensionChars8x8</File>
+      <Index>2</Index>
+    </AnimatedTexture>
+    <AltTexture id="1">
+      <AnimatedTexture>
+        <File>thirdDimensionChars16x16</File>
+        <Index>2</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>4000</MaxHitPoints>
+    <Defense>15</Defense>
+    <Exp>150</Exp>
+    <KillStat stat="CubeKills" />
+    <StunImmune />
+    <DazedImmune />
+    <ParalyzeImmune />
+  </Object>
+  <Object id="tD Blaster Shot" type="0x420f">
+    <DisplayId>Ice Cube Blaster</DisplayId>
+    <Invincible />
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>thirdDimensionChars8x8</File>
+      <Index>33</Index>
+    </AnimatedTexture>
+    <Projectile id="0">
+      <ObjectId>tD Border</ObjectId>
+      <Speed>0</Speed>
+      <Damage>60</Damage>
+      <LifetimeMS>600</LifetimeMS>
+      <Frequency>1</Frequency>
+      <Size>100</Size>
+      <FaceDir />
+      <ArmorPiercing />
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+      <MultiHit />
+    </Projectile>
+    <Size>129</Size>
+  </Object>
+  <Object id="tD Friendly Frame" type="0x4259">
+    <Class>GameObject</Class>
+    <NoCollisionWhenMovement />
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0x06</Index>
+    </Texture>
+    <AltTexture id="0">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x06</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x16</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x07</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x17</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x08</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x18</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="6">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x09</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="7">
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x19</Index>
+      </Texture>
+    </AltTexture>
+    <Size>40</Size>
+  </Object>
+  <Object id="tD Greater Enemy" type="0x4226">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD Tesseract Fragment Texture" type="0x4246">
+    <Class>GameObject</Class>
+    <AnimatedTexture>
+      <File>thirdDimensionChars8x8</File>
+      <Index>18</Index>
+    </AnimatedTexture>
+    <Size>100</Size>
+  </Object>
+  <Object id="tD Cronus Fragment Texture" type="0x4247">
+    <Class>GameObject</Class>
+    <AnimatedTexture>
+      <File>thirdDimensionChars8x8</File>
+      <Index>19</Index>
+    </AnimatedTexture>
+    <Size>100</Size>
+  </Object>
+  <Object id="tD Protect A" type="0x5246">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xe0</Index>
+    </Texture>
+    <AltTexture id="0">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe1</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe2</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe3</Index>
+      </Texture>
+    </AltTexture>
+    <DrawOnGround />
+    <ProtectFromSink />
+    <ProtectFromGroundDamage />
+  </Object>
+  <Object id="tD Protect B" type="0x5247">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xe0</Index>
+    </Texture>
+    <AltTexture id="0">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe1</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe2</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe3</Index>
+      </Texture>
+    </AltTexture>
+    <DrawOnGround />
+    <ProtectFromSink />
+    <ProtectFromGroundDamage />
+  </Object>
+  <Object id="tD Protect C" type="0x5248">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xe0</Index>
+    </Texture>
+    <AltTexture id="0">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe1</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe2</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe3</Index>
+      </Texture>
+    </AltTexture>
+    <DrawOnGround />
+    <ProtectFromSink />
+    <ProtectFromGroundDamage />
+  </Object>
+  <Object id="tD Protect D" type="0x5249">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xe0</Index>
+    </Texture>
+    <AltTexture id="0">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe1</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe2</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe3</Index>
+      </Texture>
+    </AltTexture>
+    <DrawOnGround />
+    <ProtectFromSink />
+    <ProtectFromGroundDamage />
+  </Object>
+  <Object id="tD Bridge Helper" type="0x7feb">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD TP" type="0x523c">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xc0</Index>
+    </Texture>
+    <Effect color="0xf566ff" minRadius="1" maxRadius="1" rise="0.5" speed="0.2" zOffset="1.0">SkyBeam</Effect>
+    <DrawOnGround />
+  </Object>
+  <Object id="tD TP Back" type="0x529d">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xc1</Index>
+    </Texture>
+    <AltTexture id="0">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xc1</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xc0</Index>
+      </Texture>
+      <Effect color="0xf566ff" minRadius="1" maxRadius="1" rise="0.5" speed="0.2" zOffset="1.0">SkyBeam</Effect>
+    </AltTexture>
+    <DrawOnGround />
+  </Object>
+  <Object id="tD TP Back B" type="0x529e">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xd1</Index>
+    </Texture>
+    <AltTexture id="0">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xd1</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xd0</Index>
+      </Texture>
+      <Effect color="0x9de4eb" rate="20" life=".45" lifeVariance=".1" speed="0" speedVariance=".5" size="5" rise="1" riseVariance=".1" rangeX="1" rangeY="1">CustomParticles</Effect>
+    </AltTexture>
+    <DrawOnGround />
+  </Object>
+  <Object id="tD TP Point" type="0x523d">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD TP Back Point" type="0x529f">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD TP Back Point B" type="0x52a0">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD TP B" type="0x523f">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xd0</Index>
+    </Texture>
+    <Effect color="0x9de4eb" rate="20" life=".45" lifeVariance=".1" speed="0" speedVariance=".5" size="5" rise="1" riseVariance=".1" rangeX="1" rangeY="1">CustomParticles</Effect>
+    <DrawOnGround />
+  </Object>
+  <Object id="tD TP Point B" type="0x5240">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD TP Obj" type="0x523e">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD Quest Helper" type="0x529c">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD Worm Helper" type="0x7fec">
+    <Class>GameObject</Class>
+    <AnimatedTexture>
+      <File>thirdDimensionChars8x8</File>
+      <Index>34</Index>
+    </AnimatedTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>invisible</File>
+        <Index>0</Index>
+      </Texture>
+    </AltTexture>
+    <NoMiniMap />
+    <Size>100</Size>
+  </Object>
+  <Object id="tD Worm Helper B" type="0x523b">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <NoMiniMap />
+    <Size>0</Size>
+  </Object>
+  <Object id="tD Failsafe" type="0x7fed">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD Element Helper" type="0x4210">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD Element A" type="0x4211">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD Element B" type="0x4212">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD Element C" type="0x4213">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD Element D" type="0x4214">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD Deco 1" type="0x422b">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0x86</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0x87</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0x88</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0x89</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0x8a</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0x8b</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0x8c</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0x8d</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0x8e</Index>
+      </Texture>
+    </RandomTexture>
+    <Static />
+  </Object>
+  <Object id="tD Deco 2" type="0x423a">
+    <Class>Character</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x34</Index>
+    </Texture>
+    <Animation period="1.8" prob="1">
+      <Frame time="0.15">
+        <Texture>
+          <File>thirdDimensionObjects8x8</File>
+          <Index>0x44</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>thirdDimensionObjects8x8</File>
+          <Index>0x34</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>thirdDimensionObjects8x8</File>
+          <Index>0x54</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>thirdDimensionObjects8x8</File>
+          <Index>0x64</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>thirdDimensionObjects8x8</File>
+          <Index>0x54</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>thirdDimensionObjects8x8</File>
+          <Index>0x34</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>thirdDimensionObjects8x8</File>
+          <Index>0x24</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>thirdDimensionObjects8x8</File>
+          <Index>0x34</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>thirdDimensionObjects8x8</File>
+          <Index>0x14</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>thirdDimensionObjects8x8</File>
+          <Index>0x04</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>thirdDimensionObjects8x8</File>
+          <Index>0x14</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>thirdDimensionObjects8x8</File>
+          <Index>0x34</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <NoCollisionWhenMovement />
+    <Z>0.27</Z>
+    <Flying />
+    <Size>60</Size>
+    <ShadowSize>30</ShadowSize>
+    <NoMiniMap />
+  </Object>
+  <Object id="tD Deco 3" type="0x4249">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x3c</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x4c</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x5c</Index>
+      </Texture>
+      <Texture>
+        <File>thirdDimensionObjects16x16</File>
+        <Index>0x6c</Index>
+      </Texture>
+    </RandomTexture>
+    <Size>80</Size>
+    <Static />
+  </Object>
+  <Object id="tD Tesseract Cube" type="0x4b6e">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0x37</Index>
+    </Texture>
+    <Animation sync="true" period="1.2" prob="1">
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x36</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x37</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x38</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x39</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x3a</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x3b</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+  </Object>
+  <Object id="tD Deco Portal 1" type="0x424e">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0x00</Index>
+    </Texture>
+    <Animation sync="true" period="1.2" prob="1">
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x00</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x01</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x02</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x03</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x04</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x05</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD Deco Portal 2" type="0x424f">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0xb9</Index>
+    </Texture>
+    <Animation sync="true" period="1.2" prob="1">
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0xb9</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0xba</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0xbb</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0xbc</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0xbd</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0xbe</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD Cronus Cube" type="0x4b6f">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0x57</Index>
+    </Texture>
+    <Animation sync="true" period="1.2" prob="1">
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x56</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x57</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x58</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x59</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x5a</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x5b</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+  </Object>
+  <Object id="tD Shadow Cube" type="0x4b70">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects16x16</File>
+      <Index>0x47</Index>
+    </Texture>
+    <Animation sync="true" period="1.2" prob="1">
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x46</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x47</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x48</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x49</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x4a</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>thirdDimensionObjects16x16</File>
+          <Index>0x4b</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+  </Object>
+  <Object id="Cubic Portal of Cowardice" type="0x4224">
+    <Class>Portal</Class>
+    <IntergamePortal />
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xea</Index>
+    </Texture>
+    <AltTexture id="1">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xd6</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xd7</Index>
+      </Texture>
+    </AltTexture>
+    <SpawnPoint />
+  </Object>
+  <Object id="tD Diagonal TL" type="0x4b71">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x52</Index>
+    </Texture>
+    <DrawOnGround />
+    <ProtectFromSink />
+    <ProtectFromGroundDamage />
+    <Static />
+  </Object>
+  <Object id="tD Diagonal TR" type="0x4b72">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x53</Index>
+    </Texture>
+    <DrawOnGround />
+    <ProtectFromSink />
+    <ProtectFromGroundDamage />
+    <Static />
+  </Object>
+  <Object id="tD Diagonal BL" type="0x4b73">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x62</Index>
+    </Texture>
+    <DrawOnGround />
+    <ProtectFromSink />
+    <ProtectFromGroundDamage />
+    <Static />
+  </Object>
+  <Object id="tD Diagonal BR" type="0x4b74">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0x63</Index>
+    </Texture>
+    <DrawOnGround />
+    <ProtectFromSink />
+    <ProtectFromGroundDamage />
+    <Static />
+  </Object>
+  <Object id="tD ObjShot" type="0x52a3">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>-1</Size>
+  </Object>
+  <Object id="tD Orbit A" type="0x5237">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD Orbit B" type="0x5238">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD Orbit C" type="0x5239">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD Orbit D" type="0x523a">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD Orbit TL" type="0x4206">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD Orbit TR" type="0x4207">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD Orbit BR" type="0x4208">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD Orbit BL" type="0x4209">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object id="tD Invisible Wall" type="0x7fee">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>-1</Size>
+    <Static />
+    <BlocksSight />
+    <NoMiniMap />
+  </Object>
+  <Object id="tD Destructible" type="0x5209">
+    <Class>Wall</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xcb</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xdb</Index>
+      </Texture>
+    </Top>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <MaxHitPoints>2400</MaxHitPoints>
+    <KillStat stat="StructureKills" />
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <Enemy />
+    <Exp>0</Exp>
+  </Object>
+  <Object id="tD Destructible Red" type="0x421a">
+    <Class>Wall</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xca</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xda</Index>
+      </Texture>
+    </Top>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <MaxHitPoints>2400</MaxHitPoints>
+    <KillStat stat="StructureKills" />
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <Enemy />
+    <Exp>0</Exp>
+  </Object>
+  <Object id="tD Destructible Yellow" type="0x421b">
+    <Class>Wall</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xc9</Index>
+    </Texture>
+    <Top>
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xd9</Index>
+      </Texture>
+    </Top>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <MaxHitPoints>2400</MaxHitPoints>
+    <KillStat stat="StructureKills" />
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <Enemy />
+    <Exp>0</Exp>
+  </Object>
+  <Object id="tD Protect Top" type="0x4ed5">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xe0</Index>
+    </Texture>
+    <AltTexture id="0">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe1</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe2</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe3</Index>
+      </Texture>
+    </AltTexture>
+    <DrawOnGround />
+  </Object>
+  <Object id="tD Protect Bottom" type="0x4ed4">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xe0</Index>
+    </Texture>
+    <AltTexture id="0">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe1</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe2</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe3</Index>
+      </Texture>
+    </AltTexture>
+    <DrawOnGround />
+  </Object>
+  <Object id="tD Protect Left" type="0x4ed3">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xe0</Index>
+    </Texture>
+    <AltTexture id="0">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe1</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe2</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe3</Index>
+      </Texture>
+    </AltTexture>
+    <DrawOnGround />
+  </Object>
+  <Object id="tD Protect Right" type="0x4ed2">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xe0</Index>
+    </Texture>
+    <AltTexture id="0">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe1</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe2</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe3</Index>
+      </Texture>
+    </AltTexture>
+    <DrawOnGround />
+  </Object>
+  <Object id="tD Protect TL" type="0x52b2">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xe0</Index>
+    </Texture>
+    <AltTexture id="0">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe1</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe2</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe3</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xbe</Index>
+      </Texture>
+    </AltTexture>
+    <DrawOnGround />
+  </Object>
+  <Object id="tD Protect TR" type="0x52b3">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xe0</Index>
+    </Texture>
+    <AltTexture id="0">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe1</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe2</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe3</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xbe</Index>
+      </Texture>
+    </AltTexture>
+    <DrawOnGround />
+  </Object>
+  <Object id="tD Protect BL" type="0x52b4">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xe0</Index>
+    </Texture>
+    <AltTexture id="0">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe1</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe2</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe3</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xbe</Index>
+      </Texture>
+    </AltTexture>
+    <DrawOnGround />
+  </Object>
+  <Object id="tD Protect BR" type="0x52b5">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>thirdDimensionObjects8x8</File>
+      <Index>0xe0</Index>
+    </Texture>
+    <AltTexture id="0">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe0</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe1</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe2</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xe3</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>thirdDimensionObjects8x8</File>
+        <Index>0xbe</Index>
+      </Texture>
+    </AltTexture>
+    <DrawOnGround />
+  </Object>
+</Objects>

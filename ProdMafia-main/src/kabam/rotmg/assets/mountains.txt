@@ -1,0 +1,1283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object type="0x651" id="White Demon">
+    <Group>Greater Demons</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>chars16x16dMountains1</File>
+      <Index>0</Index>
+    </AnimatedTexture>
+    <HitSound>monster/greater_demons_hit</HitSound>
+    <DeathSound>monster/greater_demons_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>1000</MaxHitPoints>
+    <Defense>12</Defense>
+    <Terrain>Mountains</Terrain>
+    <SpawnProb>1.0</SpawnProb>
+    <Spawn>
+      <Mean>2</Mean>
+      <StdDev>1</StdDev>
+      <Min>2</Min>
+      <Max>4</Max>
+    </Spawn>
+    <Flying />
+    <God />
+    <Projectile id="0">
+      <ObjectId>White Demon Spiral</ObjectId>
+      <Damage>45</Damage>
+      <Speed>50</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Size>60</Size>
+      <ArmorPiercing />
+      <MultiHit />
+    </Projectile>
+    <KillStat stat="BeastKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0x652" id="Sprite God">
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>chars16x16dMountains1</File>
+      <Index>1</Index>
+    </AnimatedTexture>
+    <HitSound>monster/sprite_god_hit</HitSound>
+    <DeathSound>monster/sprite_god_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>2000</MaxHitPoints>
+    <Defense>12</Defense>
+    <Terrain>Mountains</Terrain>
+    <SpawnProb>1.0</SpawnProb>
+    <Flying />
+    <God />
+    <Projectile id="0">
+      <ObjectId>Sprite God Bolt</ObjectId>
+      <Damage>100</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Sprite God Boomerang</ObjectId>
+      <Damage>0</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>2400</LifetimeMS>
+      <ConditionEffect duration="4">Silenced</ConditionEffect>
+      <MultiHit />
+      <ParticleTrail />
+    </Projectile>
+    <KillStat stat="NatureKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0x653" id="Sprite Child">
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>spiderDenObjects8x8</File>
+      <Index>0xda</Index>
+    </Texture>
+    <Animation prob="1" period="0">
+      <Frame time="0.1">
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0xda</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0xdb</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0xdc</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0xdd</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0xde</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0xdf</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <HitSound>monster/sprites_hit</HitSound>
+    <DeathSound>monster/sprites_death</DeathSound>
+    <Size>75</Size>
+    <MaxHitPoints>50</MaxHitPoints>
+    <Defense>0</Defense>
+    <Terrain>Mountains</Terrain>
+    <Flying />
+    <KillStat stat="NatureKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0x654" id="Medusa">
+    <Group>Gods</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>chars16x16dMountains1</File>
+      <Index>2</Index>
+    </AnimatedTexture>
+    <HitSound>monster/medusa_hit</HitSound>
+    <DeathSound>monster/medusa_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>2000</MaxHitPoints>
+    <Defense>18</Defense>
+    <Terrain>Mountains</Terrain>
+    <SpawnProb>1.0</SpawnProb>
+    <Spawn>
+      <Mean>3</Mean>
+      <StdDev>1</StdDev>
+      <Min>2</Min>
+      <Max>5</Max>
+    </Spawn>
+    <God />
+    <Projectile id="0">
+      <ObjectId>Medusa Slash</ObjectId>
+      <Damage>100</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+    </Projectile>
+    <KillStat stat="BeastKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0x655" id="Ent God">
+    <Group>Gods</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>chars16x16dMountains1</File>
+      <Index>4</Index>
+    </AnimatedTexture>
+    <HitSound>monster/ents_hit</HitSound>
+    <DeathSound>monster/ents_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>1000</MaxHitPoints>
+    <Defense>18</Defense>
+    <Terrain>Mountains</Terrain>
+    <SpawnProb>1.0</SpawnProb>
+    <Spawn>
+      <Mean>3</Mean>
+      <StdDev>1</StdDev>
+      <Min>2</Min>
+      <Max>5</Max>
+    </Spawn>
+    <God />
+    <Projectile id="0">
+      <ObjectId>Ent God Bolt</ObjectId>
+      <Damage>70</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <MultiHit />
+    </Projectile>
+    <KillStat stat="NatureKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0x656" id="Beholder">
+    <Group>Gods</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>chars16x16dMountains1</File>
+      <Index>5</Index>
+    </AnimatedTexture>
+    <HitSound>monster/beholder_hit</HitSound>
+    <DeathSound>monster/beholder_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>1500</MaxHitPoints>
+    <Defense>12</Defense>
+    <Terrain>Mountains</Terrain>
+    <SpawnProb>1.0</SpawnProb>
+    <Spawn>
+      <Mean>3</Mean>
+      <StdDev>1</StdDev>
+      <Min>2</Min>
+      <Max>7</Max>
+    </Spawn>
+    <Flying />
+    <God />
+    <Projectile id="0">
+      <ObjectId>Beholder Gaze</ObjectId>
+      <Damage>120</Damage>
+      <Speed>50</Speed>
+      <LifetimeMS>2700</LifetimeMS>
+      <Size>120</Size>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Sharp Pink Star</ObjectId>
+      <Damage>0</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>3000</LifetimeMS>
+      <ConditionEffect duration="5">Blind</ConditionEffect>
+    </Projectile>
+    <KillStat stat="GrotesqueKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0x657" id="Flying Brain">
+    <Group>Gods</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>chars16x16dMountains1</File>
+      <Index>6</Index>
+    </AnimatedTexture>
+    <HitSound>monster/flying_brain_hit</HitSound>
+    <DeathSound>monster/flying_brain_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>1000</MaxHitPoints>
+    <Defense>12</Defense>
+    <Terrain>Mountains</Terrain>
+    <SpawnProb>1.0</SpawnProb>
+    <Spawn>
+      <Mean>3</Mean>
+      <StdDev>1</StdDev>
+      <Min>2</Min>
+      <Max>5</Max>
+    </Spawn>
+    <Flying />
+    <God />
+    <Projectile id="0">
+      <ObjectId>Flying Brain Cortex</ObjectId>
+      <Damage>50</Damage>
+      <Speed>120</Speed>
+      <LifetimeMS>1800</LifetimeMS>
+    </Projectile>
+    <KillStat stat="GrotesqueKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0x658" id="Slime God">
+    <Group>Gods</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>chars16x16dMountains1</File>
+      <Index>7</Index>
+    </AnimatedTexture>
+    <HitSound>monster/slimes_hit</HitSound>
+    <DeathSound>monster/slimes_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>1000</MaxHitPoints>
+    <Defense>12</Defense>
+    <Terrain>Mountains</Terrain>
+    <SpawnProb>1.0</SpawnProb>
+    <God />
+    <Projectile id="0">
+      <ObjectId>Slime God Sludge</ObjectId>
+      <Damage>80</Damage>
+      <Speed>100</Speed>
+      <LifetimeMS>1100</LifetimeMS>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Sharp Green Star</ObjectId>
+      <Damage>0</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <ConditionEffect duration="3">Slowed</ConditionEffect>
+    </Projectile>
+    <KillStat stat="GrotesqueKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0x659" id="Ghost God">
+    <Group>Gods</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>chars16x16dMountains1</File>
+      <Index>8</Index>
+    </AnimatedTexture>
+    <HitSound>monster/ghost_god_hit</HitSound>
+    <DeathSound>monster/ghost_god_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>1000</MaxHitPoints>
+    <Defense>12</Defense>
+    <Terrain>Mountains</Terrain>
+    <SpawnProb>1.0</SpawnProb>
+    <Spawn>
+      <Mean>3</Mean>
+      <StdDev>1</StdDev>
+      <Min>2</Min>
+      <Max>5</Max>
+    </Spawn>
+    <Flying />
+    <God />
+    <Projectile id="0">
+      <ObjectId>Ghost God Spike</ObjectId>
+      <Damage>120</Damage>
+      <Speed>50</Speed>
+      <LifetimeMS>2700</LifetimeMS>
+      <Size>110</Size>
+    </Projectile>
+    <KillStat stat="UndeadKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0x091a" id="Djinn">
+    <Group>Gods</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>chars16x16dMountains1</File>
+      <Index>3</Index>
+    </AnimatedTexture>
+    <HitSound>monster/djinn_hit</HitSound>
+    <DeathSound>monster/djinn_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>1000</MaxHitPoints>
+    <Defense>12</Defense>
+    <Terrain>Mountains</Terrain>
+    <Spawn>
+      <Mean>3</Mean>
+      <StdDev>1</StdDev>
+      <Min>2</Min>
+      <Max>5</Max>
+    </Spawn>
+    <Flying />
+    <God />
+    <SpawnProb>0.75</SpawnProb>
+    <Projectile id="0">
+      <ObjectId>Djinn Orb</ObjectId>
+      <Damage>60</Damage>
+      <Speed>60</Speed>
+      <Size>60</Size>
+      <LifetimeMS>1500</LifetimeMS>
+      <MultiHit />
+    </Projectile>
+    <KillStat stat="HumanoidKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0x6d8" id="Leviathan">
+    <Group>Gods</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>chars16x16dMountains1</File>
+      <Index>9</Index>
+    </AnimatedTexture>
+    <DontFaceAttacks />
+    <HitSound>monster/greater_pit_snakes_hit</HitSound>
+    <DeathSound>monster/medusa_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>2000</MaxHitPoints>
+    <Defense>20</Defense>
+    <Terrain>Mountains</Terrain>
+    <SpawnProb>0.55</SpawnProb>
+    <God />
+    <Projectile id="0">
+      <ObjectId>Leviathan Spray</ObjectId>
+      <Damage>70</Damage>
+      <Speed>67</Speed>
+      <LifetimeMS>1700</LifetimeMS>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Leviathan Bolt</ObjectId>
+      <Damage>90</Damage>
+      <Speed>85</Speed>
+      <LifetimeMS>1800</LifetimeMS>
+    </Projectile>
+    <KillStat stat="BeastKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0x0905" id="Rock Bot">
+    <Group>Rocks</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <DisplayId>Rock Construct</DisplayId>
+    <AnimatedTexture>
+      <File>chars16x16dMountains1</File>
+      <Index>14</Index>
+    </AnimatedTexture>
+    <HitSound>monster/stone_walls_hit</HitSound>
+    <DeathSound>monster/stone_walls_death</DeathSound>
+    <MaxHitPoints>1800</MaxHitPoints>
+    <Size>70</Size>
+    <Defense>20</Defense>
+    <Exp>150</Exp>
+    <Terrain>Mountains</Terrain>
+    <God />
+    <Projectile id="0">
+      <ObjectId>Construct Rock Ball</ObjectId>
+      <Speed>70</Speed>
+      <Damage>120</Damage>
+      <Size>90</Size>
+      <LifetimeMS>2000</LifetimeMS>
+      <MultiHit />
+    </Projectile>
+    <KillStat stat="ConstructKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0x0906" id="Paper Bot">
+    <Group>Papers</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <DisplayId>Wood Construct</DisplayId>
+    <AnimatedTexture>
+      <File>chars16x16dMountains1</File>
+      <Index>13</Index>
+    </AnimatedTexture>
+    <HitSound>monster/wooden_walls_hit</HitSound>
+    <DeathSound>monster/wooden_walls_death</DeathSound>
+    <MaxHitPoints>1600</MaxHitPoints>
+    <Size>70</Size>
+    <Defense>20</Defense>
+    <Exp>150</Exp>
+    <Terrain>Mountains</Terrain>
+    <Projectile id="0">
+      <ObjectId>Construct Wood Bolt</ObjectId>
+      <Speed>60</Speed>
+      <Damage>80</Damage>
+      <Size>80</Size>
+      <LifetimeMS>2000</LifetimeMS>
+      <MultiHit />
+    </Projectile>
+    <KillStat stat="ConstructKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0x0907" id="Steel Bot">
+    <Group>Steels</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <DisplayId>Steel Construct</DisplayId>
+    <AnimatedTexture>
+      <File>chars16x16dMountains1</File>
+      <Index>12</Index>
+    </AnimatedTexture>
+    <HitSound>monster/rocks_hit</HitSound>
+    <DeathSound>monster/rocks_death</DeathSound>
+    <MaxHitPoints>2000</MaxHitPoints>
+    <Size>70</Size>
+    <Defense>20</Defense>
+    <Exp>150</Exp>
+    <Terrain>Mountains</Terrain>
+    <SpawnProb>0.3</SpawnProb>
+    <Projectile id="0">
+      <ObjectId>Construct Steel Blast</ObjectId>
+      <Speed>40</Speed>
+      <Damage>50</Damage>
+      <Size>80</Size>
+      <LifetimeMS>2000</LifetimeMS>
+      <MultiHit />
+      <ArmorPiercing />
+    </Projectile>
+    <KillStat stat="ConstructKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0x0935" id="Mysterious Crystal">
+    <Group>Crystals</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>chars16x16dEncounters</File>
+      <Index>5</Index>
+    </AnimatedTexture>
+    <HitSound>monster/stone_walls_hit</HitSound>
+    <DeathSound>monster/stone_walls_death</DeathSound>
+    <Size>120</Size>
+    <MaxHitPoints>75000</MaxHitPoints>
+    <Defense>15</Defense>
+    <AlwaysPositiveHealth />
+    <Terrain>Mountains</Terrain>
+    <SpawnProb>0.025</SpawnProb>
+    <Exp>0</Exp>
+    <PerRealmMax>1</PerRealmMax>
+    <StasisImmune />
+    <Projectile id="0">
+      <ObjectId>Djinn Orb</ObjectId>
+      <Damage>90</Damage>
+      <Speed>10</Speed>
+      <LifetimeMS>6000</LifetimeMS>
+      <ConditionEffect duration="8">Silenced</ConditionEffect>
+    </Projectile>
+    <KillStat stat="StructureKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0x0941" id="Crystal Prisoner">
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>chars16x16dEncounters</File>
+      <Index>6</Index>
+    </AnimatedTexture>
+    <HitSound>monster/ghost_god_hit</HitSound>
+    <DeathSound>monster/ghost_god_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>28000</MaxHitPoints>
+    <Defense>25</Defense>
+    <HealthBarBoss radius="25" />
+    <StasisImmune />
+    <TrackLoot />
+    <Exp>5000</Exp>
+    <Projectile id="0">
+      <ObjectId>Crystal Prisoner Orb</ObjectId>
+      <Speed>80</Speed>
+      <Damage>95</Damage>
+      <Size>65</Size>
+      <LifetimeMS>1500</LifetimeMS>
+      <ConditionEffect duration="4">Silenced</ConditionEffect>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Crystal Prisoner Star</ObjectId>
+      <Speed>60</Speed>
+      <Damage>110</Damage>
+      <Size>90</Size>
+      <LifetimeMS>1700</LifetimeMS>
+      <MultiHit />
+      <ConditionEffect duration="1">Confused</ConditionEffect>
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>Crystal Steed Star</ObjectId>
+      <Speed>60</Speed>
+      <Damage>120</Damage>
+      <Size>100</Size>
+      <LifetimeMS>1700</LifetimeMS>
+      <MultiHit />
+      <ConditionEffect duration="4">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="5">
+      <ObjectId>Crystal Prisoner Wave</ObjectId>
+      <Speed>47</Speed>
+      <Damage>165</Damage>
+      <Size>130</Size>
+      <LifetimeMS>2400</LifetimeMS>
+      <MultiHit />
+    </Projectile>
+    <KillStat stat="HumanoidKills" />
+    <KillStat stat="GodKills" />
+    <DamageBasedXP />
+  </Object>
+  <Object type="0x0942" id="Crystal Prisoner Clone">
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>chars16x16dEncounters</File>
+      <Index>6</Index>
+    </AnimatedTexture>
+    <HitSound>monster/ghost_god_hit</HitSound>
+    <DeathSound>monster/ghost_god_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>15000</MaxHitPoints>
+    <Defense>12</Defense>
+    <Exp>19</Exp>
+    <Projectile id="0">
+      <ObjectId>Crystal Prisoner Orb</ObjectId>
+      <Speed>70</Speed>
+      <Damage>85</Damage>
+      <Size>65</Size>
+      <LifetimeMS>1500</LifetimeMS>
+      <MultiHit />
+    </Projectile>
+    <KillStat stat="HumanoidKills" />
+  </Object>
+  <Object type="0x0943" id="Crystal Prisoner Steed">
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>chars16x16dEncounters</File>
+      <Index>44</Index>
+    </AnimatedTexture>
+    <HitSound>monster/cyclops_hit</HitSound>
+    <DeathSound>monster/cyclops_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>6000</MaxHitPoints>
+    <Defense>11</Defense>
+    <Exp>48</Exp>
+    <Projectile id="0">
+      <ObjectId>Crystal Steed Bolt</ObjectId>
+      <Speed>35</Speed>
+      <Damage>70</Damage>
+      <Size>90</Size>
+      <LifetimeMS>5000</LifetimeMS>
+      <ConditionEffect duration="2">Weak</ConditionEffect>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Crystal Steed Star</ObjectId>
+      <Speed>65</Speed>
+      <Damage>100</Damage>
+      <Size>80</Size>
+      <LifetimeMS>1700</LifetimeMS>
+      <MultiHit />
+      <ConditionEffect duration="4">Slowed</ConditionEffect>
+    </Projectile>
+    <KillStat stat="BeastKills" />
+  </Object>
+  <Object type="0x5e9f" id="Arena Headless Horseman">
+    <DisplayId>Headless Horseman</DisplayId>
+    <Class>Character</Class>
+    <Enemy />
+    <AnimatedTexture>
+      <File>chars16x16dMountains1</File>
+      <Index>10</Index>
+    </AnimatedTexture>
+    <HitSound>monster/cyclops_hit</HitSound>
+    <DeathSound>monster/cyclops_death</DeathSound>
+    <Size>150</Size>
+    <ShadowSize>100</ShadowSize>
+    <MaxHitPoints>10000</MaxHitPoints>
+    <Defense>20</Defense>
+    <Terrain>Mountains</Terrain>
+    <SpawnProb>0.045</SpawnProb>
+    <Exp>136</Exp>
+    <Projectile id="0">
+      <ObjectId>Headless Horseman Shockwave</ObjectId>
+      <Damage>85</Damage>
+      <Speed>75</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Size>120</Size>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Headless Horseman Pumpkin</ObjectId>
+      <Damage>120</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>2500</LifetimeMS>
+      <Size>150</Size>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Headless Horseman Blast</ObjectId>
+      <Damage>70</Damage>
+      <Speed>75</Speed>
+      <LifetimeMS>1500</LifetimeMS>
+      <Size>120</Size>
+    </Projectile>
+    <KillStat stat="BeastKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0x5f32" id="Arena Horseman Anchor">
+    <Class>GameObject</Class>
+    <AnimatedTexture>
+      <File>chars16x16rEncounters</File>
+      <Index>80</Index>
+    </AnimatedTexture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0xc4d9" id="Sting Spider">
+    <Class>Character</Class>
+    <Enemy />
+    <AnimatedTexture>
+      <File>chars16x16dMountains1</File>
+      <Index>16</Index>
+    </AnimatedTexture>
+    <HitSound>monster/spiders_hit</HitSound>
+    <DeathSound>monster/spiders_death</DeathSound>
+    <Size>120</Size>
+    <ShadowSize>100</ShadowSize>
+    <MaxHitPoints>12000</MaxHitPoints>
+    <Defense>15</Defense>
+    <Terrain>Mountains</Terrain>
+    <SpawnProb>0.045</SpawnProb>
+    <Exp>136</Exp>
+    <Projectile id="0">
+      <ObjectId>Sting Spider Bite</ObjectId>
+      <Damage>100</Damage>
+      <Speed>85</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Size>120</Size>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Sting Spider Bite</ObjectId>
+      <Damage>100</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Size>120</Size>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Sting Spider Bite</ObjectId>
+      <Damage>100</Damage>
+      <Speed>55</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Size>120</Size>
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>Sting Spider Tail</ObjectId>
+      <Damage>100</Damage>
+      <Speed>90</Speed>
+      <LifetimeMS>1800</LifetimeMS>
+      <Size>120</Size>
+      <ConditionEffect duration="4">Bleeding</ConditionEffect>
+    </Projectile>
+    <KillStat stat="CritterKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0xc4da" id="Great Owl">
+    <Class>Character</Class>
+    <Enemy />
+    <AnimatedTexture>
+      <File>chars16x16dMountains1</File>
+      <Index>17</Index>
+    </AnimatedTexture>
+    <HitSound>monster/lizard_god_hit</HitSound>
+    <DeathSound>monster/lizard_god_death</DeathSound>
+    <Size>120</Size>
+    <ShadowSize>100</ShadowSize>
+    <MaxHitPoints>12000</MaxHitPoints>
+    <Defense>15</Defense>
+    <Terrain>Mountains</Terrain>
+    <SpawnProb>0.045</SpawnProb>
+    <Exp>136</Exp>
+    <DontFaceAttacks />
+    <Projectile id="0">
+      <ObjectId>Great Owl Talon</ObjectId>
+      <Damage>110</Damage>
+      <Speed>65</Speed>
+      <Size>90</Size>
+      <LifetimeMS>2700</LifetimeMS>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Great Owl Feather</ObjectId>
+      <Speed>5</Speed>
+      <Damage>125</Damage>
+      <Size>100</Size>
+      <LifetimeMS>4500</LifetimeMS>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Great Owl Talon</ObjectId>
+      <Speed>60</Speed>
+      <Damage>110</Damage>
+      <Size>100</Size>
+      <LifetimeMS>1600</LifetimeMS>
+      <MultiHit />
+      <FaceDir />
+      <Amplitude>2.8</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>Great Owl Talon</ObjectId>
+      <Speed>60</Speed>
+      <Damage>110</Damage>
+      <Size>100</Size>
+      <LifetimeMS>1400</LifetimeMS>
+      <MultiHit />
+      <FaceDir />
+      <Amplitude>2.8</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="4">
+      <ObjectId>Great Owl Talon</ObjectId>
+      <Speed>60</Speed>
+      <Damage>110</Damage>
+      <Size>100</Size>
+      <LifetimeMS>1200</LifetimeMS>
+      <MultiHit />
+      <FaceDir />
+      <Amplitude>2.8</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="5">
+      <ObjectId>Great Owl Talon</ObjectId>
+      <Speed>60</Speed>
+      <Damage>110</Damage>
+      <Size>100</Size>
+      <LifetimeMS>1000</LifetimeMS>
+      <MultiHit />
+      <FaceDir />
+      <Amplitude>2.8</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="6">
+      <ObjectId>Great Owl Talon</ObjectId>
+      <Speed>60</Speed>
+      <Damage>110</Damage>
+      <Size>100</Size>
+      <LifetimeMS>800</LifetimeMS>
+      <MultiHit />
+      <FaceDir />
+      <Amplitude>2.8</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="7">
+      <ObjectId>Great Owl Talon</ObjectId>
+      <Speed>60</Speed>
+      <Damage>110</Damage>
+      <Size>100</Size>
+      <LifetimeMS>600</LifetimeMS>
+      <MultiHit />
+      <FaceDir />
+      <Amplitude>2.8</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <KillStat stat="CritterKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0xc4db" id="Lucky White Demon">
+    <Group>Greater Demons</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>chars16x16dMountains1</File>
+      <Index>20</Index>
+    </AnimatedTexture>
+    <HitSound>monster/greater_demons_hit</HitSound>
+    <DeathSound>monster/greater_demons_death</DeathSound>
+    <Size>130</Size>
+    <MaxHitPoints>10000</MaxHitPoints>
+    <Defense>40</Defense>
+    <Terrain>Mountains</Terrain>
+    <SpawnProb>0.01</SpawnProb>
+    <Flying />
+    <God />
+    <Projectile id="0">
+      <ObjectId>Lucky White Demon Spiral</ObjectId>
+      <Damage>60</Damage>
+      <Speed>35</Speed>
+      <LifetimeMS>3000</LifetimeMS>
+      <Size>60</Size>
+      <ArmorPiercing />
+      <MultiHit />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Lucky White Demon Spiral</ObjectId>
+      <Damage>60</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Size>60</Size>
+      <ArmorPiercing />
+      <MultiHit />
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Lucky White Demon Spiral</ObjectId>
+      <Damage>60</Damage>
+      <Speed>45</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Size>60</Size>
+      <ArmorPiercing />
+      <MultiHit />
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>Lucky White Demon Spiral</ObjectId>
+      <Damage>60</Damage>
+      <Speed>55</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Size>60</Size>
+      <ArmorPiercing />
+      <MultiHit />
+    </Projectile>
+    <Projectile id="4">
+      <ObjectId>Lucky White Demon Spiral</ObjectId>
+      <Damage>60</Damage>
+      <Speed>65</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Size>60</Size>
+      <ArmorPiercing />
+      <MultiHit />
+    </Projectile>
+    <KillStat stat="BeastKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0xc4dc" id="Lucky Sprite God">
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>chars16x16dMountains1</File>
+      <Index>21</Index>
+    </AnimatedTexture>
+    <HitSound>monster/sprite_god_hit</HitSound>
+    <DeathSound>monster/sprite_god_death</DeathSound>
+    <Size>130</Size>
+    <MaxHitPoints>10000</MaxHitPoints>
+    <Defense>40</Defense>
+    <Terrain>Mountains</Terrain>
+    <SpawnProb>0.01</SpawnProb>
+    <Flying />
+    <God />
+    <Projectile id="0">
+      <ObjectId>Lucky Sprite God Bolt</ObjectId>
+      <Damage>100</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Wavy />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Lucky Sprite God Boomerang</ObjectId>
+      <Damage>0</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>2400</LifetimeMS>
+      <ConditionEffect duration="2">Quiet</ConditionEffect>
+      <MultiHit />
+      <Boomerang />
+      <ParticleTrail />
+    </Projectile>
+    <KillStat stat="NatureKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0xc4dd" id="Lucky Sprite Child">
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>spiderDenObjects8x8</File>
+      <Index>0xea</Index>
+    </Texture>
+    <Animation prob="1" period="0">
+      <Frame time="0.1">
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0xea</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0xeb</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0xec</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0xed</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0xee</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0xef</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <HitSound>monster/sprites_hit</HitSound>
+    <DeathSound>monster/sprites_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>5000</MaxHitPoints>
+    <Defense>20</Defense>
+    <Flying />
+    <KillStat stat="NatureKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0xc4de" id="Lucky Medusa">
+    <Group>Gods</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>chars16x16dMountains1</File>
+      <Index>18</Index>
+    </AnimatedTexture>
+    <HitSound>monster/medusa_hit</HitSound>
+    <DeathSound>monster/medusa_death</DeathSound>
+    <Size>130</Size>
+    <MaxHitPoints>10000</MaxHitPoints>
+    <Defense>40</Defense>
+    <Terrain>Mountains</Terrain>
+    <SpawnProb>0.01</SpawnProb>
+    <God />
+    <Projectile id="0">
+      <ObjectId>Lucky Medusa Slash</ObjectId>
+      <Damage>120</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <FaceDir />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Lucky Medusa Slash</ObjectId>
+      <Damage>120</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Amplitude>1</Amplitude>
+      <Frequency>1</Frequency>
+      <FaceDir />
+    </Projectile>
+    <KillStat stat="BeastKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0x6e8" id="Lucky Ent God">
+    <Group>Gods</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>chars16x16dMountains1</File>
+      <Index>23</Index>
+    </AnimatedTexture>
+    <HitSound>monster/ents_hit</HitSound>
+    <DeathSound>monster/ents_death</DeathSound>
+    <Size>130</Size>
+    <MaxHitPoints>10000</MaxHitPoints>
+    <Defense>40</Defense>
+    <Terrain>Mountains</Terrain>
+    <SpawnProb>0.01</SpawnProb>
+    <God />
+    <Projectile id="0">
+      <ObjectId>Lucky Ent God Bolt</ObjectId>
+      <Damage>100</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Lucky Ent God Bolt</ObjectId>
+      <Damage>100</Damage>
+      <Speed>40</Speed>
+      <LifetimeMS>4000</LifetimeMS>
+      <MultiHit />
+    </Projectile>
+    <KillStat stat="NatureKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0xc4df" id="Lucky Beholder">
+    <Group>Gods</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>chars16x16dMountains1</File>
+      <Index>24</Index>
+    </AnimatedTexture>
+    <HitSound>monster/beholder_hit</HitSound>
+    <DeathSound>monster/beholder_death</DeathSound>
+    <Size>130</Size>
+    <MaxHitPoints>10000</MaxHitPoints>
+    <Defense>40</Defense>
+    <Terrain>Mountains</Terrain>
+    <SpawnProb>0.01</SpawnProb>
+    <Flying />
+    <God />
+    <Projectile id="0">
+      <ObjectId>Lucky Beholder Gaze</ObjectId>
+      <Damage>120</Damage>
+      <Speed>50</Speed>
+      <LifetimeMS>2700</LifetimeMS>
+      <Size>120</Size>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Sharp Grey Star</ObjectId>
+      <Damage>0</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>3000</LifetimeMS>
+      <ConditionEffect duration="3">Darkness</ConditionEffect>
+    </Projectile>
+    <KillStat stat="GrotesqueKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0xc4e0" id="Lucky Flying Brain">
+    <Group>Gods</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>chars16x16dMountains1</File>
+      <Index>25</Index>
+    </AnimatedTexture>
+    <HitSound>monster/flying_brain_hit</HitSound>
+    <DeathSound>monster/flying_brain_death</DeathSound>
+    <Size>130</Size>
+    <MaxHitPoints>10000</MaxHitPoints>
+    <Defense>40</Defense>
+    <Terrain>Mountains</Terrain>
+    <SpawnProb>0.01</SpawnProb>
+    <Flying />
+    <God />
+    <Projectile id="0">
+      <ObjectId>Lucky Flying Brain Cortex</ObjectId>
+      <Damage>70</Damage>
+      <Speed>105</Speed>
+      <LifetimeMS>1600</LifetimeMS>
+      <Wavy />
+      <ConditionEffect duration="3">Exposed</ConditionEffect>
+    </Projectile>
+    <KillStat stat="GrotesqueKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0xc4e1" id="Lucky Slime God">
+    <Group>Gods</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>chars16x16dMountains1</File>
+      <Index>26</Index>
+    </AnimatedTexture>
+    <HitSound>monster/slimes_hit</HitSound>
+    <DeathSound>monster/slimes_death</DeathSound>
+    <Size>130</Size>
+    <MaxHitPoints>10000</MaxHitPoints>
+    <Defense>40</Defense>
+    <Terrain>Mountains</Terrain>
+    <SpawnProb>0.01</SpawnProb>
+    <God />
+    <Projectile id="0">
+      <ObjectId>Lucky Slime God Sludge</ObjectId>
+      <Speed>60</Speed>
+      <Damage>140</Damage>
+      <LifetimeMS>1100</LifetimeMS>
+      <Size>130</Size>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Lucky Slime God Sludge</ObjectId>
+      <Speed>70</Speed>
+      <Damage>120</Damage>
+      <LifetimeMS>1100</LifetimeMS>
+      <Size>110</Size>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Lucky Slime God Sludge</ObjectId>
+      <Speed>80</Speed>
+      <Damage>110</Damage>
+      <LifetimeMS>1100</LifetimeMS>
+      <Size>100</Size>
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>Sharp Orange Star</ObjectId>
+      <Damage>0</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <ConditionEffect duration="4">Slowed</ConditionEffect>
+    </Projectile>
+    <KillStat stat="GrotesqueKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0xc4e2" id="Lucky Ghost God">
+    <Group>Gods</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>chars16x16dMountains1</File>
+      <Index>27</Index>
+    </AnimatedTexture>
+    <HitSound>monster/ghost_god_hit</HitSound>
+    <DeathSound>monster/ghost_god_death</DeathSound>
+    <Size>130</Size>
+    <MaxHitPoints>10000</MaxHitPoints>
+    <Defense>40</Defense>
+    <Terrain>Mountains</Terrain>
+    <SpawnProb>0.01</SpawnProb>
+    <Flying />
+    <God />
+    <Projectile id="0">
+      <ObjectId>Lucky Ghost God Spike</ObjectId>
+      <Size>100</Size>
+      <Damage>130</Damage>
+      <Speed>50</Speed>
+      <LifetimeMS>3000</LifetimeMS>
+      <FaceDir />
+      <MultiHit />
+      <Frequency>1.6</Frequency>
+      <Amplitude>1.3</Amplitude>
+    </Projectile>
+    <KillStat stat="UndeadKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0x6f8" id="Lucky Djinn">
+    <Group>Gods</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>chars16x16dMountains1</File>
+      <Index>22</Index>
+    </AnimatedTexture>
+    <HitSound>monster/djinn_hit</HitSound>
+    <DeathSound>monster/djinn_death</DeathSound>
+    <Size>130</Size>
+    <MaxHitPoints>10000</MaxHitPoints>
+    <Defense>40</Defense>
+    <Terrain>Mountains</Terrain>
+    <SpawnProb>0.01</SpawnProb>
+    <Flying />
+    <God />
+    <Projectile id="3">
+      <ObjectId>Lucky Djinn Orb</ObjectId>
+      <Damage>125</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>2500</LifetimeMS>
+      <Size>80</Size>
+      <Boomerang />
+      <MultiHit />
+      <PassesCover />
+      <Amplitude>2</Amplitude>
+      <Frequency>2</Frequency>
+    </Projectile>
+    <Projectile id="4">
+      <ObjectId>Lucky Djinn Orb</ObjectId>
+      <Damage>0</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>0</LifetimeMS>
+      <Size>0</Size>
+      <Boomerang />
+      <MultiHit />
+      <PassesCover />
+      <Amplitude>2</Amplitude>
+      <Frequency>2</Frequency>
+    </Projectile>
+    <KillStat stat="HumanoidKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0xc4e3" id="Lucky Leviathan">
+    <Group>Gods</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>chars16x16dMountains1</File>
+      <Index>19</Index>
+    </AnimatedTexture>
+    <DontFaceAttacks />
+    <HitSound>monster/greater_pit_snakes_hit</HitSound>
+    <DeathSound>monster/medusa_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>10000</MaxHitPoints>
+    <Defense>40</Defense>
+    <Terrain>Mountains</Terrain>
+    <SpawnProb>0.01</SpawnProb>
+    <God />
+    <Projectile id="0">
+      <ObjectId>Lucky Leviathan Spray</ObjectId>
+      <Damage>100</Damage>
+      <Speed>75</Speed>
+      <LifetimeMS>1700</LifetimeMS>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Lucky Leviathan Bolt</ObjectId>
+      <Damage>120</Damage>
+      <Speed>95</Speed>
+      <LifetimeMS>1600</LifetimeMS>
+    </Projectile>
+    <KillStat stat="BeastKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+  <Object type="0x1b18" id="Succubus">
+    <DisplayId>Realm Succubus</DisplayId>
+    <Group>Gods</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>chars16x16dEncounters</File>
+      <Index>40</Index>
+    </AnimatedTexture>
+    <HitSound>monster/greater_demons_hit</HitSound>
+    <DeathSound>monster/greater_demons_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>8000</MaxHitPoints>
+    <Defense>12</Defense>
+    <Exp>500</Exp>
+    <God />
+    <Flying />
+    <Projectile id="0">
+      <ObjectId>Succubus Bullet</ObjectId>
+      <Damage>45</Damage>
+      <Speed>50</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Size>60</Size>
+      <ArmorPiercing />
+      <MultiHit />
+    </Projectile>
+    <KillStat stat="BeastKills" />
+    <KillStat stat="GodKills" />
+  </Object>
+</Objects>

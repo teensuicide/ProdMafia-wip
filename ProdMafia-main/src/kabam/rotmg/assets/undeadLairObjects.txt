@@ -1,0 +1,2285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object type="0x1730" id="Septavius Summoner">
+    <Class>Character</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <NoMiniMap />
+    <Size>0</Size>
+  </Object>
+  <Object type="0x0d90" id="Septavius the Ghost God">
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars16x16</File>
+      <Index>1</Index>
+    </AnimatedTexture>
+    <Portrait>
+      <AnimatedTexture>
+        <File>undeadLairChars16x16</File>
+        <Index>1</Index>
+      </AnimatedTexture>
+    </Portrait>
+    <AltTexture id="1">
+      <AnimatedTexture>
+        <File>undeadLairChars16x16</File>
+        <Index>2</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <AltTexture id="2">
+      <AnimatedTexture>
+        <File>undeadLairChars16x16</File>
+        <Index>8</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <HitSound>monster/ghost_god_hit</HitSound>
+    <DeathSound>monster/ghost_god_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>12000</MaxHitPoints>
+    <Defense>12</Defense>
+    <Flying />
+    <Quest />
+    <God />
+    <StasisImmune />
+    <Level>1</Level>
+    <Exp>4000</Exp>
+    <NoArticle />
+    <EventChestBoss />
+    <TrackLoot />
+    <Projectile id="0">
+      <ObjectId>Septavius Projectile</ObjectId>
+      <Speed>80</Speed>
+      <Damage>75</Damage>
+      <Size>80</Size>
+      <LifetimeMS>1500</LifetimeMS>
+      <ArmorPiercing />
+      <MultiHit />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>UDL Brown Magic</ObjectId>
+      <Speed>90</Speed>
+      <Damage>40</Damage>
+      <Size>100</Size>
+      <LifetimeMS>2600</LifetimeMS>
+      <MultiHit />
+      <Boomerang />
+      <FaceDir />
+      <Amplitude>2</Amplitude>
+      <Frequency>2.5</Frequency>
+      <ConditionEffect duration="1">Quiet</ConditionEffect>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Yellow Star</ObjectId>
+      <Speed>57</Speed>
+      <Damage>65</Damage>
+      <Size>100</Size>
+      <LifetimeMS>3000</LifetimeMS>
+      <MultiHit />
+      <ConditionEffect duration="1.5">Confused</ConditionEffect>
+    </Projectile>
+    <Projectile id="4">
+      <ObjectId>Septavius Projectile</ObjectId>
+      <Speed>40</Speed>
+      <Damage>160</Damage>
+      <Size>80</Size>
+      <LifetimeMS>6000</LifetimeMS>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="5">
+      <ObjectId>Septavius Projectile</ObjectId>
+      <Speed>70</Speed>
+      <Damage>60</Damage>
+      <Size>80</Size>
+      <LifetimeMS>2000</LifetimeMS>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="6">
+      <ObjectId>UDL Blue Magic Big</ObjectId>
+      <Size>120</Size>
+      <Damage>80</Damage>
+      <Speed>40</Speed>
+      <LifetimeMS>4000</LifetimeMS>
+      <FaceDir />
+      <MultiHit />
+      <Frequency>1.2</Frequency>
+      <Amplitude>3.6</Amplitude>
+    </Projectile>
+    <Projectile id="7">
+      <ObjectId>Doom Arrow</ObjectId>
+      <Speed>70</Speed>
+      <Damage>100</Damage>
+      <Size>120</Size>
+      <LifetimeMS>2000</LifetimeMS>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="8">
+      <ObjectId>Septavius Projectile</ObjectId>
+      <Speed>60</Speed>
+      <Damage>75</Damage>
+      <Size>80</Size>
+      <LifetimeMS>2000</LifetimeMS>
+      <ArmorPiercing />
+      <MultiHit />
+    </Projectile>
+    <Projectile id="9">
+      <ObjectId>Septavius Projectile</ObjectId>
+      <Speed>100</Speed>
+      <Damage>120</Damage>
+      <Size>120</Size>
+      <LifetimeMS>1500</LifetimeMS>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="10">
+      <ObjectId>UDL Blue Magic Big</ObjectId>
+      <Size>100</Size>
+      <Damage>90</Damage>
+      <Speed>40</Speed>
+      <LifetimeMS>5000</LifetimeMS>
+      <FaceDir />
+      <MultiHit />
+      <Frequency>1.6</Frequency>
+      <Amplitude>1.3</Amplitude>
+    </Projectile>
+    <HealthBarBoss radius="30" />
+    <KillStat stat="UndeadKills" />
+    <KillStat stat="GodKills" />
+    <DamageBasedXP />
+  </Object>
+  <Object type="0x15c3" id="Lair Spectral Skeleton">
+    <Class>Character</Class>
+    <Enemy />
+    <AnimatedTexture>
+      <File>undeadLairChars16x16</File>
+      <Index>3</Index>
+    </AnimatedTexture>
+    <AltTexture id="1">
+      <Texture>
+        <File>undeadLairObjects16x16</File>
+        <Index>0x2e</Index>
+      </Texture>
+    </AltTexture>
+    <Size>145</Size>
+    <HitSound>monster/ghosts_hit</HitSound>
+    <DeathSound>monster/ghosts_death</DeathSound>
+    <MaxHitPoints>11000</MaxHitPoints>
+    <Defense>25</Defense>
+    <Exp>2000</Exp>
+    <ShadowSize>0</ShadowSize>
+    <God />
+    <StasisImmune />
+    <StunImmune />
+    <TrackLoot />
+    <Projectile id="0">
+      <ObjectId>HArcher ST Quiver Proj</ObjectId>
+      <Speed>80</Speed>
+      <Damage>1</Damage>
+      <Size>100</Size>
+      <LifetimeMS>1000</LifetimeMS>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>HArcher ST Quiver Proj</ObjectId>
+      <Damage>105</Damage>
+      <Size>80</Size>
+      <MultiHit />
+      <Speed>40.00000000</Speed>
+      <LifetimeMS>3125</LifetimeMS>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>HArcher ST Quiver Proj</ObjectId>
+      <Damage>105</Damage>
+      <Size>80</Size>
+      <MultiHit />
+      <Speed>40.79215611</Speed>
+      <LifetimeMS>3125</LifetimeMS>
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>HArcher ST Quiver Proj</ObjectId>
+      <Damage>105</Damage>
+      <Size>80</Size>
+      <MultiHit />
+      <Speed>43.08131846</Speed>
+      <LifetimeMS>3125</LifetimeMS>
+    </Projectile>
+    <Projectile id="4">
+      <ObjectId>HArcher ST Quiver Proj</ObjectId>
+      <Damage>105</Damage>
+      <Size>80</Size>
+      <MultiHit />
+      <Speed>46.64761516</Speed>
+      <LifetimeMS>3125</LifetimeMS>
+    </Projectile>
+    <Projectile id="5">
+      <ObjectId>HArcher ST Quiver Proj</ObjectId>
+      <Damage>105</Damage>
+      <Size>80</Size>
+      <MultiHit />
+      <Speed>51.22499390</Speed>
+      <LifetimeMS>3125</LifetimeMS>
+    </Projectile>
+    <Projectile id="6">
+      <ObjectId>HArcher ST Quiver Proj</ObjectId>
+      <Damage>105</Damage>
+      <Size>80</Size>
+      <MultiHit />
+      <Speed>56.56854249</Speed>
+      <LifetimeMS>3125</LifetimeMS>
+    </Projectile>
+    <HealthBarBoss radius="15" />
+    <KillStat stat="UndeadKills" />
+    <KillStat stat="GodKills" />
+    <DamageBasedXP />
+  </Object>
+  <Object type="0x0d91" id="Lair Skeleton">
+    <Group>Lair Skeletons</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>13</Index>
+    </AnimatedTexture>
+    <HitSound>monster/skeletons_hit</HitSound>
+    <DeathSound>monster/skeletons_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>350</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>50</Exp>
+    <Projectile id="0">
+      <ObjectId>UDL Bone</ObjectId>
+      <Damage>40</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>600</LifetimeMS>
+    </Projectile>
+    <KillStat stat="UndeadKills" />
+  </Object>
+  <Object type="0x0d92" id="Lair Skeleton Swordsman">
+    <Group>Lair Skeletons</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>14</Index>
+    </AnimatedTexture>
+    <HitSound>monster/skeletons_hit</HitSound>
+    <DeathSound>monster/skeletons_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>400</MaxHitPoints>
+    <Defense>2</Defense>
+    <Exp>50</Exp>
+    <Projectile id="0">
+      <ObjectId>UDL White Slash</ObjectId>
+      <Damage>35</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>600</LifetimeMS>
+    </Projectile>
+    <KillStat stat="UndeadKills" />
+  </Object>
+  <Object type="0x0d93" id="Lair Skeleton Veteran">
+    <Group>Lair Skeletons</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>15</Index>
+    </AnimatedTexture>
+    <HitSound>monster/skeletons_hit</HitSound>
+    <DeathSound>monster/skeletons_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>450</MaxHitPoints>
+    <Defense>4</Defense>
+    <Exp>50</Exp>
+    <Projectile id="0">
+      <ObjectId>UDL Orange Slash</ObjectId>
+      <Damage>40</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>800</LifetimeMS>
+    </Projectile>
+    <KillStat stat="UndeadKills" />
+  </Object>
+  <Object type="0x0d94" id="Lair Skeleton Mage">
+    <Group>Lair Skeletons</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>16</Index>
+    </AnimatedTexture>
+    <HitSound>monster/skeletons_hit</HitSound>
+    <DeathSound>monster/skeletons_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>500</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>50</Exp>
+    <Projectile id="0">
+      <ObjectId>UDL Blue Magic</ObjectId>
+      <Damage>45</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>3000</LifetimeMS>
+    </Projectile>
+    <KillStat stat="UndeadKills" />
+  </Object>
+  <Object type="0x0d95" id="Lair Skeleton King">
+    <Group>Lair Skeletons</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>17</Index>
+    </AnimatedTexture>
+    <HitSound>monster/skeletons_hit</HitSound>
+    <DeathSound>monster/skeletons_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>600</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>100</Exp>
+    <Projectile id="0">
+      <ObjectId>UDL Blue Magic Big</ObjectId>
+      <Damage>50</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>3000</LifetimeMS>
+    </Projectile>
+    <KillStat stat="UndeadKills" />
+  </Object>
+  <Object type="0x0d96" id="Lair Mummy">
+    <Group>Lair Mummies</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>8</Index>
+    </AnimatedTexture>
+    <HitSound>monster/mummies_hit</HitSound>
+    <DeathSound>monster/mummies_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>400</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>50</Exp>
+    <Projectile id="0">
+      <ObjectId>UDL White Magic</ObjectId>
+      <Damage>40</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>UDL White Magic</ObjectId>
+      <Damage>40</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+    </Projectile>
+    <KillStat stat="UndeadKills" />
+  </Object>
+  <Object type="0x0d97" id="Lair Mummy King">
+    <Group>Lair Mummies</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>9</Index>
+    </AnimatedTexture>
+    <HitSound>monster/mummies_hit</HitSound>
+    <DeathSound>monster/mummies_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>500</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>50</Exp>
+    <Projectile id="0">
+      <ObjectId>UDL Orange Magic</ObjectId>
+      <Damage>50</Damage>
+      <Speed>50</Speed>
+      <LifetimeMS>3000</LifetimeMS>
+    </Projectile>
+    <KillStat stat="UndeadKills" />
+  </Object>
+  <Object type="0x0d98" id="Lair Mummy Pharaoh">
+    <Group>Lair Mummies</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>10</Index>
+    </AnimatedTexture>
+    <HitSound>monster/mummies_hit</HitSound>
+    <DeathSound>monster/mummies_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>600</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>100</Exp>
+    <Projectile id="0">
+      <ObjectId>UDL Pink Magic</ObjectId>
+      <Damage>60</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>3000</LifetimeMS>
+    </Projectile>
+    <KillStat stat="UndeadKills" />
+  </Object>
+  <Object type="0x0d99" id="Lair Construct Giant">
+    <Group>Lair Constructs</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars16x16</File>
+      <Index>5</Index>
+    </AnimatedTexture>
+    <HitSound>monster/dwarf_god_hit</HitSound>
+    <DeathSound>monster/dwarf_god_death</DeathSound>
+    <Size>120</Size>
+    <MaxHitPoints>700</MaxHitPoints>
+    <Defense>20</Defense>
+    <Exp>150</Exp>
+    <Projectile id="0">
+      <ObjectId>UDL Blue Shot</ObjectId>
+      <Damage>80</Damage>
+      <Speed>50</Speed>
+      <LifetimeMS>3000</LifetimeMS>
+      <Size>120</Size>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>UDL Blue Star</ObjectId>
+      <Damage>0</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>3000</LifetimeMS>
+      <ConditionEffect duration="2">Confused</ConditionEffect>
+    </Projectile>
+    <KillStat stat="ConstructKills" />
+  </Object>
+  <Object type="0x0d9a" id="Lair Construct Titan">
+    <Group>Lair Constructs</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars16x16</File>
+      <Index>6</Index>
+    </AnimatedTexture>
+    <HitSound>monster/dwarf_god_hit</HitSound>
+    <DeathSound>monster/dwarf_god_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>800</MaxHitPoints>
+    <Defense>20</Defense>
+    <Exp>150</Exp>
+    <Projectile id="0">
+      <ObjectId>UDL Brown Shot</ObjectId>
+      <Damage>50</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>3000</LifetimeMS>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>UDL Grey Star</ObjectId>
+      <Damage>0</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>3000</LifetimeMS>
+      <ConditionEffect duration="3">Confused</ConditionEffect>
+    </Projectile>
+    <KillStat stat="ConstructKills" />
+  </Object>
+  <Object type="0x0d9b" id="Lair Big Black Slime">
+    <Group>Lair Slimes</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>6</Index>
+    </AnimatedTexture>
+    <HitSound>monster/slimes_hit</HitSound>
+    <DeathSound>monster/slimes_death</DeathSound>
+    <Size>150</Size>
+    <MaxHitPoints>300</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>100</Exp>
+    <Projectile id="0">
+      <Size>100</Size>
+      <ObjectId>UDL Black Magic</ObjectId>
+      <Damage>100</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>1000</LifetimeMS>
+    </Projectile>
+    <KillStat stat="GrotesqueKills" />
+  </Object>
+  <Object type="0x0d9c" id="Lair Medium Black Slime">
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>6</Index>
+    </AnimatedTexture>
+    <HitSound>monster/slimes_hit</HitSound>
+    <DeathSound>monster/slimes_death</DeathSound>
+    <Size>120</Size>
+    <MaxHitPoints>150</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>75</Exp>
+    <Projectile id="0">
+      <Size>90</Size>
+      <ObjectId>UDL Black Magic</ObjectId>
+      <Damage>80</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>1000</LifetimeMS>
+    </Projectile>
+    <KillStat stat="GrotesqueKills" />
+  </Object>
+  <Object type="0x0d9d" id="Lair Little Black Slime">
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>6</Index>
+    </AnimatedTexture>
+    <HitSound>monster/slimes_hit</HitSound>
+    <DeathSound>monster/slimes_death</DeathSound>
+    <Size>75</Size>
+    <MaxHitPoints>50</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>50</Exp>
+    <Projectile id="0">
+      <Size>80</Size>
+      <ObjectId>UDL Black Magic</ObjectId>
+      <Damage>50</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>1000</LifetimeMS>
+    </Projectile>
+    <KillStat stat="GrotesqueKills" />
+  </Object>
+  <Object type="0x0d9e" id="Lair Big Brown Slime">
+    <Group>Lair Slimes</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>7</Index>
+    </AnimatedTexture>
+    <HitSound>monster/slimes_hit</HitSound>
+    <DeathSound>monster/slimes_death</DeathSound>
+    <Size>150</Size>
+    <MaxHitPoints>300</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>100</Exp>
+    <Projectile id="0">
+      <Size>100</Size>
+      <ObjectId>UDL Brown Magic</ObjectId>
+      <Damage>100</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>1000</LifetimeMS>
+    </Projectile>
+    <KillStat stat="GrotesqueKills" />
+  </Object>
+  <Object type="0x0d9f" id="Lair Little Brown Slime">
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>7</Index>
+    </AnimatedTexture>
+    <HitSound>monster/slimes_hit</HitSound>
+    <DeathSound>monster/slimes_death</DeathSound>
+    <Size>75</Size>
+    <MaxHitPoints>150</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>75</Exp>
+    <Projectile id="0">
+      <Size>80</Size>
+      <ObjectId>UDL Brown Magic</ObjectId>
+      <Damage>50</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>1000</LifetimeMS>
+    </Projectile>
+    <KillStat stat="GrotesqueKills" />
+  </Object>
+  <Object type="0x0da0" id="Lair Brown Bat">
+    <Group>Lair Bats</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>12</Index>
+    </AnimatedTexture>
+    <HitSound>monster/bats_hit</HitSound>
+    <DeathSound>monster/bats_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>200</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>50</Exp>
+    <Flying />
+    <Z>0.1</Z>
+    <Projectile id="0">
+      <ObjectId>UDL Orange Magic</ObjectId>
+      <Damage>50</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>800</LifetimeMS>
+    </Projectile>
+    <KillStat stat="CritterKills" />
+  </Object>
+  <Object type="0x0da1" id="Lair Ghost Bat">
+    <Group>Lair Bats</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>11</Index>
+    </AnimatedTexture>
+    <HitSound>monster/bats_hit</HitSound>
+    <DeathSound>monster/bats_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>200</MaxHitPoints>
+    <Defense>30</Defense>
+    <Exp>50</Exp>
+    <Flying />
+    <Z>0.1</Z>
+    <Projectile id="0">
+      <ObjectId>UDL White Magic</ObjectId>
+      <Damage>85</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>700</LifetimeMS>
+    </Projectile>
+    <KillStat stat="CritterKills" />
+  </Object>
+  <Object type="0x0da2" id="Lair Burst Trap">
+    <Group>Lair Traps</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>undeadLairObjects8x8</File>
+      <Index>0x14</Index>
+    </Texture>
+    <AltTexture id="1">
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x61</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x60</Index>
+      </Texture>
+    </AltTexture>
+    <HitSound>monster/traps_hit</HitSound>
+    <DeathSound>monster/traps_death</DeathSound>
+    <Size>100</Size>
+    <Invincible />
+    <DrawOnGround />
+    <NoMiniMap />
+    <Projectile id="0">
+      <ObjectId>UDL White Magic</ObjectId>
+      <Damage>100</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>1000</LifetimeMS>
+    </Projectile>
+  </Object>
+  <Object type="0x0da3" id="Lair Blast Trap">
+    <Group>Lair Traps</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>undeadLairObjects8x8</File>
+      <Index>0x15</Index>
+    </Texture>
+    <AltTexture id="1">
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x63</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x62</Index>
+      </Texture>
+    </AltTexture>
+    <HitSound>monster/traps_hit</HitSound>
+    <DeathSound>monster/traps_death</DeathSound>
+    <Size>100</Size>
+    <Invincible />
+    <DrawOnGround />
+    <NoMiniMap />
+    <Projectile id="0">
+      <ObjectId>UDL Pink Magic</ObjectId>
+      <Damage>100</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>1000</LifetimeMS>
+    </Projectile>
+  </Object>
+  <Object type="0x77a5" id="Lair Boomerang Trap">
+    <Group>Lair Traps</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>undeadLairObjects8x8</File>
+      <Index>0x0e</Index>
+    </Texture>
+    <AltTexture id="1">
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x65</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x64</Index>
+      </Texture>
+    </AltTexture>
+    <HitSound>monster/traps_hit</HitSound>
+    <DeathSound>monster/traps_death</DeathSound>
+    <Size>100</Size>
+    <Invincible />
+    <DrawOnGround />
+    <NoMiniMap />
+    <Projectile id="0">
+      <ObjectId>UDL Orange Magic</ObjectId>
+      <Damage>100</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>1000</LifetimeMS>
+      <Boomerang />
+    </Projectile>
+  </Object>
+  <Object type="0x77a6" id="Lair Silence Trap">
+    <Group>Lair Traps</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>undeadLairObjects8x8</File>
+      <Index>0x0f</Index>
+    </Texture>
+    <AltTexture id="1">
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x67</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x66</Index>
+      </Texture>
+    </AltTexture>
+    <HitSound>monster/traps_hit</HitSound>
+    <DeathSound>monster/traps_death</DeathSound>
+    <Size>100</Size>
+    <Invincible />
+    <DrawOnGround />
+    <NoMiniMap />
+    <Projectile id="0">
+      <ObjectId>UDL Blue Magic</ObjectId>
+      <Damage>50</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>1000</LifetimeMS>
+      <ConditionEffect duration="3">Silenced</ConditionEffect>
+    </Projectile>
+  </Object>
+  <Object type="0x0da4" id="Lair Reaper">
+    <Group>Lair Vampires</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>0</Index>
+    </AnimatedTexture>
+    <HitSound>monster/ghosts_hit</HitSound>
+    <DeathSound>monster/ghosts_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>800</MaxHitPoints>
+    <Defense>20</Defense>
+    <Exp>80</Exp>
+    <Projectile id="0">
+      <ObjectId>UDL Purple Bolt</ObjectId>
+      <Damage>40</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>500</LifetimeMS>
+    </Projectile>
+    <KillStat stat="UndeadKills" />
+  </Object>
+  <Object type="0x0da5" id="Lair Vampire">
+    <Group>Lair Vampires</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>1</Index>
+    </AnimatedTexture>
+    <HitSound>monster/ghosts_hit</HitSound>
+    <DeathSound>monster/ghosts_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>300</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>80</Exp>
+    <Projectile id="0">
+      <ObjectId>UDL Green Star</ObjectId>
+      <Damage>80</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <ConditionEffect duration="3">Slowed</ConditionEffect>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>UDL Green Bolt</ObjectId>
+      <Damage>70</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>800</LifetimeMS>
+    </Projectile>
+    <KillStat stat="UndeadKills" />
+  </Object>
+  <Object type="0x0da6" id="Lair Vampire King">
+    <Group>Lair Vampires</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>2</Index>
+    </AnimatedTexture>
+    <HitSound>monster/ghosts_hit</HitSound>
+    <DeathSound>monster/ghosts_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>400</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>80</Exp>
+    <Projectile id="0">
+      <ObjectId>UDL Grey Star</ObjectId>
+      <Damage>70</Damage>
+      <Speed>50</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <ConditionEffect duration="3">Silenced</ConditionEffect>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>UDL Purple Bolt</ObjectId>
+      <Damage>80</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>800</LifetimeMS>
+    </Projectile>
+    <KillStat stat="UndeadKills" />
+  </Object>
+  <Object type="0x0da7" id="Lair Grey Spectre">
+    <Group>Lair Spectres</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>3</Index>
+    </AnimatedTexture>
+    <HitSound>monster/ghosts_hit</HitSound>
+    <DeathSound>monster/ghosts_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>200</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>50</Exp>
+    <Flying />
+    <Z>0.15</Z>
+    <Projectile id="0">
+      <ObjectId>UDL Orange Bolt</ObjectId>
+      <Damage>80</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+    </Projectile>
+    <KillStat stat="UndeadKills" />
+  </Object>
+  <Object type="0x0da8" id="Lair Blue Spectre">
+    <Group>Lair Spectres</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>4</Index>
+    </AnimatedTexture>
+    <HitSound>monster/ghosts_hit</HitSound>
+    <DeathSound>monster/ghosts_death</DeathSound>
+    <Size>115</Size>
+    <MaxHitPoints>300</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>75</Exp>
+    <Flying />
+    <Z>0.2</Z>
+    <Projectile id="0">
+      <ObjectId>UDL Blue Bolt</ObjectId>
+      <Damage>100</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Wavy />
+    </Projectile>
+    <KillStat stat="UndeadKills" />
+  </Object>
+  <Object type="0x0da9" id="Lair White Spectre">
+    <Group>Lair Spectres</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>5</Index>
+    </AnimatedTexture>
+    <HitSound>monster/ghosts_hit</HitSound>
+    <DeathSound>monster/ghosts_death</DeathSound>
+    <Size>130</Size>
+    <MaxHitPoints>400</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>100</Exp>
+    <Flying />
+    <Z>0.25</Z>
+    <Projectile id="0">
+      <ObjectId>UDL Blue Shot</ObjectId>
+      <Damage>120</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+    </Projectile>
+    <KillStat stat="UndeadKills" />
+  </Object>
+  <Object type="0x0daa" id="Lair Ghost Archer">
+    <Group>Lair Ghosts</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>18</Index>
+    </AnimatedTexture>
+    <HitSound>monster/ghosts_hit</HitSound>
+    <DeathSound>monster/ghosts_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>400</MaxHitPoints>
+    <Defense>15</Defense>
+    <Exp>0</Exp>
+    <Projectile id="0">
+      <ObjectId>Blue Arrow</ObjectId>
+      <Damage>60</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>2500</LifetimeMS>
+      <Size>110</Size>
+    </Projectile>
+    <KillStat stat="UndeadKills" />
+  </Object>
+  <Object type="0x0dab" id="Lair Ghost Warrior">
+    <Group>Lair Ghosts</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>19</Index>
+    </AnimatedTexture>
+    <HitSound>monster/ghosts_hit</HitSound>
+    <DeathSound>monster/ghosts_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>400</MaxHitPoints>
+    <Defense>15</Defense>
+    <Exp>0</Exp>
+    <Projectile id="0">
+      <ObjectId>UDL Blue Bolt</ObjectId>
+      <Damage>50</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>600</LifetimeMS>
+    </Projectile>
+    <KillStat stat="UndeadKills" />
+  </Object>
+  <Object type="0x0dac" id="Lair Ghost Mage">
+    <Group>Lair Ghosts</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>20</Index>
+    </AnimatedTexture>
+    <HitSound>monster/ghosts_hit</HitSound>
+    <DeathSound>monster/ghosts_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>400</MaxHitPoints>
+    <Defense>15</Defense>
+    <Exp>0</Exp>
+    <Projectile id="0">
+      <ObjectId>UDL Blue Magic</ObjectId>
+      <Damage>40</Damage>
+      <Speed>30</Speed>
+      <LifetimeMS>4000</LifetimeMS>
+    </Projectile>
+    <KillStat stat="UndeadKills" />
+  </Object>
+  <Object type="0x0dad" id="Lair Ghost Rogue">
+    <Group>Lair Ghosts</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>21</Index>
+    </AnimatedTexture>
+    <HitSound>monster/ghosts_hit</HitSound>
+    <DeathSound>monster/ghosts_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>400</MaxHitPoints>
+    <Defense>15</Defense>
+    <Exp>0</Exp>
+    <Projectile id="0">
+      <ObjectId>UDL Blue Bolt</ObjectId>
+      <Damage>30</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>600</LifetimeMS>
+    </Projectile>
+    <KillStat stat="UndeadKills" />
+  </Object>
+  <Object type="0x0dae" id="Lair Ghost Paladin">
+    <Group>Lair Ghosts</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>22</Index>
+    </AnimatedTexture>
+    <HitSound>monster/ghosts_hit</HitSound>
+    <DeathSound>monster/ghosts_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>400</MaxHitPoints>
+    <Defense>15</Defense>
+    <Exp>0</Exp>
+    <Projectile id="0">
+      <ObjectId>UDL Blue Shot</ObjectId>
+      <Damage>40</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>600</LifetimeMS>
+    </Projectile>
+    <KillStat stat="UndeadKills" />
+  </Object>
+  <Object type="0x0daf" id="Lair Ghost Knight">
+    <Group>Lair Ghosts</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>23</Index>
+    </AnimatedTexture>
+    <HitSound>monster/ghosts_hit</HitSound>
+    <DeathSound>monster/ghosts_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>400</MaxHitPoints>
+    <Defense>15</Defense>
+    <Exp>0</Exp>
+    <Projectile id="0">
+      <ObjectId>UDL Blue Shot</ObjectId>
+      <Damage>50</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>600</LifetimeMS>
+    </Projectile>
+    <KillStat stat="UndeadKills" />
+  </Object>
+  <Object type="0x0db0" id="Ghost Warrior of Septavius">
+    <Group>Lair Ghosts</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>19</Index>
+    </AnimatedTexture>
+    <HitSound>monster/ghosts_hit</HitSound>
+    <DeathSound>monster/ghosts_death</DeathSound>
+    <Size>120</Size>
+    <MaxHitPoints>600</MaxHitPoints>
+    <Defense>20</Defense>
+    <Exp>0</Exp>
+    <Projectile id="0">
+      <ObjectId>UDL Blue Shot</ObjectId>
+      <Damage>35</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>600</LifetimeMS>
+    </Projectile>
+    <KillStat stat="UndeadKills" />
+  </Object>
+  <Object type="0x0db1" id="Ghost Mage of Septavius">
+    <Group>Lair Ghosts</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>20</Index>
+    </AnimatedTexture>
+    <HitSound>monster/ghosts_hit</HitSound>
+    <DeathSound>monster/ghosts_death</DeathSound>
+    <Size>120</Size>
+    <MaxHitPoints>600</MaxHitPoints>
+    <Defense>20</Defense>
+    <Exp>0</Exp>
+    <Projectile id="0">
+      <ObjectId>UDL Blue Magic</ObjectId>
+      <Damage>40</Damage>
+      <Speed>50</Speed>
+      <LifetimeMS>3000</LifetimeMS>
+    </Projectile>
+    <KillStat stat="UndeadKills" />
+  </Object>
+  <Object type="0x0db2" id="Ghost Rogue of Septavius">
+    <Group>Lair Ghosts</Group>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars8x8</File>
+      <Index>21</Index>
+    </AnimatedTexture>
+    <HitSound>monster/ghosts_hit</HitSound>
+    <DeathSound>monster/ghosts_death</DeathSound>
+    <Size>120</Size>
+    <MaxHitPoints>600</MaxHitPoints>
+    <Defense>20</Defense>
+    <Exp>0</Exp>
+    <Projectile id="0">
+      <ObjectId>UDL Blue Bolt</ObjectId>
+      <Damage>30</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>800</LifetimeMS>
+    </Projectile>
+    <KillStat stat="UndeadKills" />
+  </Object>
+  <Object type="0x777f" id="UDL Skeleton Wall">
+    <Class>Wall</Class>
+    <RandomTexture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x04</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x05</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x06</Index>
+      </Texture>
+    </RandomTexture>
+    <Top>
+      <RandomTexture>
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x40</Index>
+        </Texture>
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x41</Index>
+        </Texture>
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x42</Index>
+        </Texture>
+      </RandomTexture>
+    </Top>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+    <Color>0x69748C</Color>
+  </Object>
+  <Object type="0x7780" id="UDL Banner Wall">
+    <Class>Wall</Class>
+    <RandomTexture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x0c</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x0d</Index>
+      </Texture>
+    </RandomTexture>
+    <Top>
+      <RandomTexture>
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x40</Index>
+        </Texture>
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x41</Index>
+        </Texture>
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x42</Index>
+        </Texture>
+      </RandomTexture>
+    </Top>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+    <Color>0x69748C</Color>
+  </Object>
+  <Object type="0x7781" id="UDL Normal Wall">
+    <Class>Wall</Class>
+    <Texture>
+      <File>undeadLairObjects8x8</File>
+      <Index>0x03</Index>
+    </Texture>
+    <Top>
+      <RandomTexture>
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x40</Index>
+        </Texture>
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x41</Index>
+        </Texture>
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x42</Index>
+        </Texture>
+      </RandomTexture>
+    </Top>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+    <Color>0x69748C</Color>
+  </Object>
+  <Object type="0x7782" id="UDL Hallway Corner Wall">
+    <Class>Wall</Class>
+    <Texture>
+      <File>undeadLairObjects8x8</File>
+      <Index>0x07</Index>
+    </Texture>
+    <Top>
+      <RandomTexture>
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x40</Index>
+        </Texture>
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x41</Index>
+        </Texture>
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x42</Index>
+        </Texture>
+      </RandomTexture>
+    </Top>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+    <Color>0x69748C</Color>
+  </Object>
+  <Object type="0x7783" id="UDL Hallway Wall">
+    <Class>Wall</Class>
+    <Texture>
+      <File>undeadLairObjects8x8</File>
+      <Index>0x08</Index>
+    </Texture>
+    <Top>
+      <RandomTexture>
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x40</Index>
+        </Texture>
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x41</Index>
+        </Texture>
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x42</Index>
+        </Texture>
+      </RandomTexture>
+    </Top>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+    <Color>0x69748C</Color>
+  </Object>
+  <Object type="0x7784" id="UDL Hallway Candle Wall">
+    <Class>Wall</Class>
+    <Texture>
+      <File>undeadLairObjects8x8</File>
+      <Index>0x09</Index>
+    </Texture>
+    <Animation prob="1" period="0">
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x09</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x0a</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Top>
+      <RandomTexture>
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x40</Index>
+        </Texture>
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x41</Index>
+        </Texture>
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x42</Index>
+        </Texture>
+      </RandomTexture>
+    </Top>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+    <Color>0x69748C</Color>
+  </Object>
+  <Object type="0x77ac" id="UDL Boss Candle">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>undeadLairObjects8x8</File>
+      <Index>0x20</Index>
+    </Texture>
+    <AltTexture id="1">
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x20</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="2">
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x21</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="3">
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x22</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="4">
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x23</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="5">
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x69</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="6">
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x6a</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="7">
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x6b</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="8">
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x6c</Index>
+      </Texture>
+    </AltTexture>
+    <AltTexture id="9">
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x6d</Index>
+      </Texture>
+    </AltTexture>
+    <Size>100</Size>
+    <NoMiniMap />
+  </Object>
+  <Object type="0x7785" id="UDL Candle">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>undeadLairObjects8x8</File>
+      <Index>0x20</Index>
+    </Texture>
+    <Animation prob="1" period="0">
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x20</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x21</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x22</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x23</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Size>100</Size>
+    <NoMiniMap />
+    <Static />
+  </Object>
+  <Object type="0x7786" id="UDL Skull">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x25</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x26</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x2e</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x27</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x2c</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x4f</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x25</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x26</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x26</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x26</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x29</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x28</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x25</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x25</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x2b</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x3f</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x2d</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x25</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x2a</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x25</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x25</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x25</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x25</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x2f</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x25</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x26</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x24</Index>
+      </Texture>
+    </RandomTexture>
+    <Size>100</Size>
+    <NoMiniMap />
+    <Static />
+  </Object>
+  <Object type="0x7787" id="UDL Target">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x30</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x31</Index>
+      </Texture>
+    </RandomTexture>
+    <Size>100</Size>
+    <NoMiniMap />
+    <Static />
+  </Object>
+  <Object type="0x7788" id="UDL Skeleton Dummy">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x32</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x33</Index>
+      </Texture>
+    </RandomTexture>
+    <Size>100</Size>
+    <NoMiniMap />
+    <Static />
+  </Object>
+  <Object type="0x7789" id="UDL Bow">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x34</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x35</Index>
+      </Texture>
+    </RandomTexture>
+    <Size>100</Size>
+    <NoMiniMap />
+    <Static />
+  </Object>
+  <Object type="0x778a" id="UDL CrossBow">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x36</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x37</Index>
+      </Texture>
+    </RandomTexture>
+    <Size>100</Size>
+    <NoMiniMap />
+    <Static />
+  </Object>
+  <Object type="0x778b" id="UDL Weapon Rack">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>undeadLairObjects8x8</File>
+      <Index>0x38</Index>
+    </Texture>
+    <Size>100</Size>
+    <NoMiniMap />
+    <Static />
+  </Object>
+  <Object type="0x778c" id="UDL Sword">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x39</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x3a</Index>
+      </Texture>
+    </RandomTexture>
+    <Size>100</Size>
+    <NoMiniMap />
+    <Static />
+  </Object>
+  <Object type="0x778d" id="UDL Arrow">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x3b</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x3c</Index>
+      </Texture>
+    </RandomTexture>
+    <Size>100</Size>
+    <NoMiniMap />
+    <Static />
+  </Object>
+  <Object type="0x778e" id="UDL Pot">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x3d</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects8x8</File>
+        <Index>0x3e</Index>
+      </Texture>
+    </RandomTexture>
+    <Size>100</Size>
+    <NoMiniMap />
+    <Static />
+  </Object>
+  <Object type="0x778f" id="UDL Candle 2">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>undeadLairObjects8x8</File>
+      <Index>0x44</Index>
+    </Texture>
+    <Animation prob="1" period="0">
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x44</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x45</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x46</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x47</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Size>100</Size>
+    <NoMiniMap />
+    <Static />
+  </Object>
+  <Object type="0x7790" id="UDL Double Candle">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>undeadLairObjects8x8</File>
+      <Index>0x48</Index>
+    </Texture>
+    <Animation prob="1" period="0">
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x48</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x49</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x4a</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects8x8</File>
+          <Index>0x4b</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Size>100</Size>
+    <NoMiniMap />
+    <Static />
+  </Object>
+  <Object type="0x7791" id="UDL Big Candle">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>undeadLairObjects16x16</File>
+      <Index>0x00</Index>
+    </Texture>
+    <Animation prob="1" period="0">
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x00</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x01</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x02</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x03</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Size>100</Size>
+    <NoMiniMap />
+    <Static />
+    <OccupySquare />
+  </Object>
+  <Object type="0x779a" id="UDL Big Candle 2">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>undeadLairObjects16x16</File>
+      <Index>0x05</Index>
+    </Texture>
+    <Animation prob="1" period="0">
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x04</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x05</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x06</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x07</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Size>100</Size>
+    <NoMiniMap />
+    <Static />
+    <OccupySquare />
+  </Object>
+  <Object type="0x77ab" id="UDL Big Candle 3">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>undeadLairObjects16x16</File>
+      <Index>0x05</Index>
+    </Texture>
+    <Animation prob="1" period="0">
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x30</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x31</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x32</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x33</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Size>100</Size>
+    <NoMiniMap />
+    <Static />
+    <OccupySquare />
+  </Object>
+  <Object type="0x779b" id="UDL Big Pot">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>undeadLairObjects16x16</File>
+        <Index>0x08</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects16x16</File>
+        <Index>0x09</Index>
+      </Texture>
+    </RandomTexture>
+    <Size>100</Size>
+    <NoMiniMap />
+    <Static />
+    <OccupySquare />
+  </Object>
+  <Object type="0x779c" id="UDL Big Skull Pile">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>undeadLairObjects16x16</File>
+        <Index>0x0a</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects16x16</File>
+        <Index>0x0b</Index>
+      </Texture>
+    </RandomTexture>
+    <Size>100</Size>
+    <NoMiniMap />
+    <Static />
+  </Object>
+  <Object type="0x779d" id="UDL Big Skull">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>undeadLairObjects16x16</File>
+      <Index>0x0c</Index>
+    </Texture>
+    <Animation prob="1" period="0">
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x0c</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x0d</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x0e</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.2">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x0f</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Size>100</Size>
+    <NoMiniMap />
+    <Static />
+    <OccupySquare />
+  </Object>
+  <Object type="0x779e" id="UDL Monument">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>undeadLairObjects16x16</File>
+        <Index>0x10</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects16x16</File>
+        <Index>0x10</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects16x16</File>
+        <Index>0x2c</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects16x16</File>
+        <Index>0x10</Index>
+      </Texture>
+    </RandomTexture>
+    <Size>100</Size>
+    <NoMiniMap />
+    <Static />
+    <OccupySquare />
+  </Object>
+  <Object type="0x779f" id="UDL Column">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>undeadLairObjects16x16</File>
+        <Index>0x11</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects16x16</File>
+        <Index>0x12</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects16x16</File>
+        <Index>0x13</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects16x16</File>
+        <Index>0x14</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects16x16</File>
+        <Index>0x15</Index>
+      </Texture>
+      <Texture>
+        <File>undeadLairObjects16x16</File>
+        <Index>0x16</Index>
+      </Texture>
+    </RandomTexture>
+    <Size>100</Size>
+    <NoMiniMap />
+    <Static />
+    <OccupySquare />
+  </Object>
+  <Object type="0x77a0" id="UDL Skuld Statue">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>undeadLairObjects16x16</File>
+      <Index>0x17</Index>
+    </Texture>
+    <Size>100</Size>
+    <NoMiniMap />
+    <Static />
+    <OccupySquare />
+  </Object>
+  <Object type="0x77aa" id="UDL Table">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>undeadLairObjects16x16</File>
+      <Index>0x19</Index>
+    </Texture>
+    <Animation prob="1" period="0">
+      <Frame time="0.1">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x18</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x19</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x1a</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x1b</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x1c</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x1d</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x1e</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x1f</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Size>100</Size>
+    <NoMiniMap />
+    <Static />
+  </Object>
+  <Object type="0x77a1" id="UDL Living Skeleton Trigger">
+    <DisplayId>Living Skeleton</DisplayId>
+    <Class>GameObject</Class>
+    <Texture>
+      <File>undeadLairObjects16x16</File>
+      <Index>0x20</Index>
+    </Texture>
+    <Size>100</Size>
+    <NoMiniMap />
+  </Object>
+  <Object type="0x77a2" id="UDL Living Skeleton Prop">
+    <DisplayId>Living Skeleton</DisplayId>
+    <Class>GameObject</Class>
+    <Texture>
+      <File>undeadLairObjects16x16</File>
+      <Index>0x20</Index>
+    </Texture>
+    <Size>100</Size>
+    <NoMiniMap />
+    <Static />
+  </Object>
+  <Object type="0x77a3" id="UDL Living Skeleton Animation">
+    <DisplayId>Living Skeleton</DisplayId>
+    <Class>GameObject</Class>
+    <Texture>
+      <File>undeadLairObjects16x16</File>
+      <Index>0x20</Index>
+    </Texture>
+    <Animation prob="1" period="0">
+      <Frame time="0.1">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x20</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x21</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x22</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x23</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x24</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x25</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x26</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x27</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x28</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x29</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x2a</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>undeadLairObjects16x16</File>
+          <Index>0x2b</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <Size>100</Size>
+    <NoMiniMap />
+  </Object>
+  <Object type="0x77a4" id="UDL Living Skeleton">
+    <DisplayId>Living Skeleton</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>undeadLairChars16x16</File>
+      <Index>0</Index>
+    </AnimatedTexture>
+    <HitSound>monster/skeletons_hit</HitSound>
+    <DeathSound>monster/skeletons_death</DeathSound>
+    <Size>100</Size>
+    <MaxHitPoints>2500</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>250</Exp>
+    <Projectile id="0">
+      <ObjectId>UDL White Slash</ObjectId>
+      <Damage>95</Damage>
+      <Speed>30</Speed>
+      <LifetimeMS>1600</LifetimeMS>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>UDL Bone</ObjectId>
+      <Damage>95</Damage>
+      <Speed>60</Speed>
+      <LifetimeMS>1600</LifetimeMS>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>UDL White Slash</ObjectId>
+      <Damage>95</Damage>
+      <Speed>90</Speed>
+      <LifetimeMS>1600</LifetimeMS>
+    </Projectile>
+    <KillStat stat="UndeadKills" />
+    <KillStat stat="LesserGodKills" />
+  </Object>
+  <Object type="0x77a7" id="Lair Grey Spectre Bomb">
+    <DisplayId>Lair Grey Spectre</DisplayId>
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <Effect color="0xffeb8a" rate="15" life=".45" lifeVariance=".1" speed="0" speedVariance=".5" size="5" rise="1" riseVariance=".1" rangeX="0" rangeY="0">CustomParticles</Effect>
+  </Object>
+  <Object type="0x77a8" id="Lair Blue Spectre Bomb">
+    <DisplayId>Lair Blue Spectre</DisplayId>
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <Effect color="0x96f2ff" rate="15" life=".45" lifeVariance=".1" speed="0" speedVariance=".5" size="5" rise="1" riseVariance=".1" rangeX="0" rangeY="0">CustomParticles</Effect>
+  </Object>
+  <Object type="0x77a9" id="Lair White Spectre Bomb">
+    <DisplayId>Lair White Spectre</DisplayId>
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <Effect color="0xffffff" rate="15" life=".45" lifeVariance=".1" speed="0" speedVariance=".5" size="5" rise="1" riseVariance=".1" rangeX="0" rangeY="0">CustomParticles</Effect>
+  </Object>
+  <Object type="0x80f1" id="UDL Pillar">
+    <Class>GameObject</Class>
+    <Model>Pillar</Model>
+    <Texture>
+      <File>undeadLairObjects8x8</File>
+      <Index>0x68</Index>
+    </Texture>
+    <Static />
+    <OccupySquare />
+    <EnemyOccupySquare />
+  </Object>
+  <Object type="0x80f2" id="UDL Broken Pillar">
+    <Class>GameObject</Class>
+    <Model>Broken Pillar</Model>
+    <Texture>
+      <File>undeadLairObjects8x8</File>
+      <Index>0x68</Index>
+    </Texture>
+    <Static />
+    <OccupySquare />
+    <EnemyOccupySquare />
+  </Object>
+</Objects>

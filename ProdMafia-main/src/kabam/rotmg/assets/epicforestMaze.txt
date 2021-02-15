@@ -1,0 +1,1237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object type="0x217a" id="Woodland Moth Dust">
+    <Class>Projectile</Class>
+    <RandomTexture>
+      <Texture>
+        <File>lofiObj3</File>
+        <Index>0x39c</Index>
+      </Texture>
+      <Texture>
+        <File>lofiObj3</File>
+        <Index>0x39d</Index>
+      </Texture>
+      <Texture>
+        <File>lofiObj3</File>
+        <Index>0x39e</Index>
+      </Texture>
+      <Texture>
+        <File>lofiObj3</File>
+        <Index>0x39f</Index>
+      </Texture>
+      <Texture>
+        <File>lofiObj3</File>
+        <Index>0x3a0</Index>
+      </Texture>
+    </RandomTexture>
+    <Rotation>350</Rotation>
+  </Object>
+  <Object type="0x217b" id="Fire Acorn">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>spiderDenObjects8x8</File>
+      <Index>0x14e</Index>
+    </Texture>
+    <Rotation>180</Rotation>
+  </Object>
+  <Object type="0x2390" id="Blunt Acorn">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>spiderDenObjects8x8</File>
+      <Index>0x14d</Index>
+    </Texture>
+    <Rotation>180</Rotation>
+  </Object>
+  <Object type="0x238c" id="Bright Autumn Glaive">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>spiderDenObjects8x8</File>
+      <Index>0x14b</Index>
+    </Texture>
+    <Rotation>100</Rotation>
+  </Object>
+  <Object type="0x2389" id="Dark Autumn Glaive">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>spiderDenObjects8x8</File>
+      <Index>0x14c</Index>
+    </Texture>
+    <Rotation>100</Rotation>
+  </Object>
+  <Object type="0x238d" id="Pink Twirl">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>spiderDenObjects8x8</File>
+      <Index>0x16f</Index>
+    </Texture>
+    <Rotation>100</Rotation>
+  </Object>
+  <Object type="0x238e" id="Green Twirl">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>spiderDenObjects8x8</File>
+      <Index>0x14f</Index>
+    </Texture>
+    <Rotation>145</Rotation>
+  </Object>
+  <Object type="0x238f" id="Yellow Twirl">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>spiderDenObjects8x8</File>
+      <Index>0x13f</Index>
+    </Texture>
+    <Rotation>145</Rotation>
+  </Object>
+  <Object type="0x239b" id="Leaf Twirl">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>spiderDenObjects8x8</File>
+      <Index>0x1dc</Index>
+    </Texture>
+    <Rotation>145</Rotation>
+  </Object>
+  <Object type="0x238a" id="Bright Leaf Magic">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>spiderDenObjects8x8</File>
+      <Index>0x149</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x238b" id="Dark Leaf Magic">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>spiderDenObjects8x8</File>
+      <Index>0x14a</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x2397" id="Bruiser Slice">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>spiderDenObjects8x8</File>
+      <Index>0x1cc</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x2398" id="Squirrel Slash">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>spiderDenObjects8x8</File>
+      <Index>0x1cd</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x2399" id="Larva Ooze">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>spiderDenObjects8x8</File>
+      <Index>0x1ce</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x239a" id="Larva Spit">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>spiderDenObjects8x8</File>
+      <Index>0x1cf</Index>
+    </Texture>
+  </Object>
+  <Object type="0x239c" id="Larva Fluid">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>spiderDenObjects8x8</File>
+      <Index>0x1dd</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x239d" id="Green Bark Bolt">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>spiderDenObjects8x8</File>
+      <Index>0x16c</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x239e" id="Yellow Bark Bolt">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>spiderDenObjects8x8</File>
+      <Index>0x16d</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x239f" id="Blue Bark Bolt">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>spiderDenObjects8x8</File>
+      <Index>0x16e</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <Object type="0x1e3f" id="Epic Larva Summoner">
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>chars16x8dEncounters</File>
+      <Index>7</Index>
+    </AnimatedTexture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x703e" id="Woodland Paralyze Turret">
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>spiderDenChars8x8</File>
+      <Index>27</Index>
+    </AnimatedTexture>
+    <Enemy />
+    <NoMiniMap />
+    <Size>75</Size>
+    <Invincible />
+    <Projectile id="0">
+      <ObjectId>Yellow Bark Bolt</ObjectId>
+      <Speed>80</Speed>
+      <Damage>80</Damage>
+      <LifetimeMS>1000</LifetimeMS>
+      <ConditionEffect duration="1.2">Paralyzed</ConditionEffect>
+      <MultiHit />
+    </Projectile>
+  </Object>
+  <Object type="0x703f" id="Woodland Silence Turret">
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>spiderDenChars8x8</File>
+      <Index>26</Index>
+    </AnimatedTexture>
+    <Enemy />
+    <NoMiniMap />
+    <Size>75</Size>
+    <Invincible />
+    <Projectile id="0">
+      <ObjectId>Blue Bark Bolt</ObjectId>
+      <Speed>75</Speed>
+      <Damage>65</Damage>
+      <LifetimeMS>1000</LifetimeMS>
+      <ConditionEffect duration="4">Silenced</ConditionEffect>
+      <MultiHit />
+    </Projectile>
+  </Object>
+  <Object type="0x704a" id="Woodland Weakness Turret">
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>spiderDenChars8x8</File>
+      <Index>28</Index>
+    </AnimatedTexture>
+    <Enemy />
+    <NoMiniMap />
+    <Size>75</Size>
+    <Invincible />
+    <Projectile id="0">
+      <ObjectId>Green Bark Bolt</ObjectId>
+      <Speed>70</Speed>
+      <Damage>90</Damage>
+      <LifetimeMS>1000</LifetimeMS>
+      <ConditionEffect duration="5">Weak</ConditionEffect>
+      <MultiHit />
+    </Projectile>
+  </Object>
+  <Object type="0x704b" id="Wooland Armor Squirrel">
+    <DisplayId>Grizzled Armored Squirrel</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Group>Woodland Dwellers</Group>
+    <AnimatedTexture>
+      <File>spiderDenChars8x8</File>
+      <Index>20</Index>
+    </AnimatedTexture>
+    <HitSound>monster/bats_hit</HitSound>
+    <DeathSound>monster/bats_death</DeathSound>
+    <MaxHitPoints>4000</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>500</Exp>
+    <Size>110</Size>
+    <Projectile id="0">
+      <ObjectId>Squirrel Slash</ObjectId>
+      <Damage>90</Damage>
+      <Speed>75</Speed>
+      <LifetimeMS>1000</LifetimeMS>
+      <Size>80</Size>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Blunt Acorn</ObjectId>
+      <Damage>135</Damage>
+      <Speed>55</Speed>
+      <LifetimeMS>2400</LifetimeMS>
+      <Size>90</Size>
+    </Projectile>
+    <KillStat stat="CritterKills" />
+  </Object>
+  <Object type="0x704d" id="Woodland Ultimate Squirrel">
+    <DisplayId>Mecha Squirrel</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Group>Woodland Dwellers</Group>
+    <AnimatedTexture>
+      <File>spiderDenChars16x16</File>
+      <Index>14</Index>
+    </AnimatedTexture>
+    <HitSound>monster/bats_hit</HitSound>
+    <DeathSound>monster/bats_death</DeathSound>
+    <MaxHitPoints>10000</MaxHitPoints>
+    <Defense>6</Defense>
+    <Exp>800</Exp>
+    <Size>120</Size>
+    <TrackLoot />
+    <Projectile id="0">
+      <ObjectId>Fire Acorn</ObjectId>
+      <Damage>175</Damage>
+      <Speed>75</Speed>
+      <LifetimeMS>1300</LifetimeMS>
+      <Size>90</Size>
+      <ParticleTrail />
+    </Projectile>
+    <KillStat stat="BeastKills" />
+    <KillStat stat="LesserGodKills" />
+  </Object>
+  <Object type="0x704e" id="Woodland Goblin Mage">
+    <DisplayId>Forest Goblin Necromancer</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Group>Woodland Dwellers</Group>
+    <AnimatedTexture>
+      <File>spiderDenChars8x8</File>
+      <Index>22</Index>
+    </AnimatedTexture>
+    <HitSound>monster/cave_pirates_hit</HitSound>
+    <DeathSound>monster/dark_elves_death</DeathSound>
+    <MaxHitPoints>1500</MaxHitPoints>
+    <Defense>3</Defense>
+    <Exp>350</Exp>
+    <Size>120</Size>
+    <Projectile id="0">
+      <ObjectId>Bright Leaf Magic</ObjectId>
+      <Speed>95</Speed>
+      <Damage>95</Damage>
+      <LifetimeMS>1200</LifetimeMS>
+      <Amplitude>0.1</Amplitude>
+      <Frequency>6</Frequency>
+      <Size>100</Size>
+    </Projectile>
+    <KillStat stat="HumanoidKills" />
+  </Object>
+  <Object type="0x704f" id="Woodland Goblin">
+    <DisplayId>Forest Goblin Bruiser</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Group>Woodland Dwellers</Group>
+    <AnimatedTexture>
+      <File>spiderDenChars8x8</File>
+      <Index>21</Index>
+    </AnimatedTexture>
+    <HitSound>monster/cave_pirates_hit</HitSound>
+    <DeathSound>monster/dark_elves_death</DeathSound>
+    <MaxHitPoints>3000</MaxHitPoints>
+    <Defense>5</Defense>
+    <Exp>400</Exp>
+    <Size>120</Size>
+    <Projectile id="0">
+      <ObjectId>Bruiser Slice</ObjectId>
+      <Damage>100</Damage>
+      <Speed>40</Speed>
+      <LifetimeMS>700</LifetimeMS>
+      <Size>90</Size>
+      <FaceDir />
+      <Amplitude>1</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Bruiser Slice</ObjectId>
+      <Damage>100</Damage>
+      <Speed>55</Speed>
+      <LifetimeMS>700</LifetimeMS>
+      <Size>90</Size>
+      <FaceDir />
+      <Amplitude>1</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Bruiser Slice</ObjectId>
+      <Damage>100</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>700</LifetimeMS>
+      <Size>90</Size>
+      <FaceDir />
+      <Amplitude>1</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>Bruiser Slice</ObjectId>
+      <Damage>0</Damage>
+      <Speed>50</Speed>
+      <LifetimeMS>0</LifetimeMS>
+      <Size>0</Size>
+      <Amplitude>1</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <KillStat stat="HumanoidKills" />
+  </Object>
+  <Object type="0x41f9" id="Woodland Swarm Tree">
+    <DisplayId>Swarm Tree</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>pirateCaveObjects32x32</File>
+      <Index>0x20</Index>
+    </Texture>
+    <MaxHitPoints>32500</MaxHitPoints>
+    <Defense>35</Defense>
+    <Size>130</Size>
+    <HealthBarBoss radius="14" />
+    <TrackLoot />
+    <StasisImmune />
+    <StunImmune />
+    <HitSound>monster/trees_hit</HitSound>
+    <DeathSound>monster/trees_death</DeathSound>
+    <Projectile id="0">
+      <ObjectId>Sharp Green Star</ObjectId>
+      <Size>100</Size>
+      <Speed>0</Speed>
+      <Damage>0</Damage>
+      <LifetimeMS>1000</LifetimeMS>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Sharp Pink Star</ObjectId>
+      <Size>130</Size>
+      <Speed>0</Speed>
+      <Damage>200</Damage>
+      <LifetimeMS>1000</LifetimeMS>
+      <ConditionEffect duration="4">Bleeding</ConditionEffect>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Sharp Pink Star</ObjectId>
+      <Size>130</Size>
+      <Speed>0</Speed>
+      <Damage>200</Damage>
+      <LifetimeMS>2000</LifetimeMS>
+      <Acceleration>135</Acceleration>
+      <AccelerationDelay>1000</AccelerationDelay>
+      <SpeedClamp>80</SpeedClamp>
+      <ConditionEffect duration="4">Bleeding</ConditionEffect>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>Dark Leaf Magic</ObjectId>
+      <Damage>200</Damage>
+      <Speed>40</Speed>
+      <Size>150</Size>
+      <LifetimeMS>500</LifetimeMS>
+      <MultiHit />
+    </Projectile>
+    <KillStat stat="NatureKills" />
+    <DamageBasedXP />
+  </Object>
+  <Object type="0x706e" id="Mini Larva">
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>spiderDenChars8x8</File>
+      <Index>23</Index>
+    </AnimatedTexture>
+    <HitSound>monster/bats_hit</HitSound>
+    <DeathSound>monster/bats_death</DeathSound>
+    <MaxHitPoints>1200</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>0</Exp>
+    <MinSize>50</MinSize>
+    <MaxSize>75</MaxSize>
+    <SizeStep>5</SizeStep>
+    <Projectile id="0">
+      <ObjectId>Larva Spit</ObjectId>
+      <Damage>80</Damage>
+      <Speed>55</Speed>
+      <LifetimeMS>1100</LifetimeMS>
+      <Size>70</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Larva Ooze</ObjectId>
+      <Damage>20</Damage>
+      <Speed>20</Speed>
+      <LifetimeMS>300</LifetimeMS>
+      <Size>50</Size>
+      <ArmorPiercing />
+    </Projectile>
+    <KillStat stat="CritterKills" />
+  </Object>
+  <Object type="0x704c" id="Woodland Mini Megamoth">
+    <DisplayId>Micro Megamoth Sentinel</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>spiderDenChars8x8</File>
+      <Index>24</Index>
+    </AnimatedTexture>
+    <HitSound>monster/bats_hit</HitSound>
+    <DeathSound>monster/bats_death</DeathSound>
+    <MaxHitPoints>1500</MaxHitPoints>
+    <Defense>5</Defense>
+    <Exp>150</Exp>
+    <Size>100</Size>
+    <Flying />
+    <Z>0.3</Z>
+    <Projectile id="0">
+      <ObjectId>Bright Autumn Glaive</ObjectId>
+      <Damage>80</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>1000</LifetimeMS>
+      <Size>70</Size>
+      <MultiHit />
+      <ConditionEffect duration="1.4">Confused</ConditionEffect>
+    </Projectile>
+    <KillStat stat="CritterKills" />
+  </Object>
+  <Object type="0x2388" id="Woodland Guardian Megamoth">
+    <DisplayId>Micro Megamoth Guardian</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>spiderDenChars8x8</File>
+      <Index>25</Index>
+    </AnimatedTexture>
+    <HitSound>monster/bats_hit</HitSound>
+    <DeathSound>monster/bats_death</DeathSound>
+    <MaxHitPoints>1800</MaxHitPoints>
+    <Defense>10</Defense>
+    <Exp>150</Exp>
+    <Size>110</Size>
+    <Flying />
+    <Z>0.3</Z>
+    <Projectile id="0">
+      <ObjectId>Pink Twirl</ObjectId>
+      <Damage>100</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>1300</LifetimeMS>
+      <Size>90</Size>
+      <MultiHit />
+      <ConditionEffect duration="1.4">Slowed</ConditionEffect>
+    </Projectile>
+    <KillStat stat="CritterKills" />
+  </Object>
+  <Object type="0x706b" id="Larva Puke">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <NoMiniMap />
+  </Object>
+  <Object type="0x706c" id="Epic Larva">
+    <DisplayId>Megamoth Larva</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>spiderDenChars16x16</File>
+      <Index>15</Index>
+    </AnimatedTexture>
+    <Portrait>
+      <AnimatedTexture>
+        <File>spiderDenChars16x16</File>
+        <Index>15</Index>
+      </AnimatedTexture>
+    </Portrait>
+    <AltTexture id="1">
+      <AnimatedTexture>
+        <File>spiderDenChars16x16</File>
+        <Index>18</Index>
+      </AnimatedTexture>
+    </AltTexture>
+    <HitSound>monster/bats_hit</HitSound>
+    <DeathSound>monster/bats_death</DeathSound>
+    <MaxHitPoints>30000</MaxHitPoints>
+    <Defense>15</Defense>
+    <Exp>0</Exp>
+    <Size>140</Size>
+    <StasisImmune />
+    <ParalyzeImmune />
+    <StunImmune />
+    <Quest />
+    <HealthBarBoss />
+    <AlwaysPositiveHealth />
+    <Projectile id="0">
+      <ObjectId>Invisible</ObjectId>
+      <Damage>0</Damage>
+      <Speed>0</Speed>
+      <Size>0</Size>
+      <LifetimeMS>0</LifetimeMS>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Leaf Twirl</ObjectId>
+      <Damage>125</Damage>
+      <Speed>60</Speed>
+      <Size>110</Size>
+      <LifetimeMS>2000</LifetimeMS>
+      <MultiHit />
+      <ConditionEffect duration="2">Sick</ConditionEffect>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Larva Spit</ObjectId>
+      <Damage>105</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>1000</LifetimeMS>
+      <Size>110</Size>
+    </Projectile>
+    <KillStat stat="BeastKills" />
+    <KillStat stat="GodKills" />
+    <DamageBasedXP />
+  </Object>
+  <Object type="0x706d" id="Epic Mama Megamoth">
+    <DisplayId>Mammoth Megamoth</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>spiderDenChars16x16</File>
+      <Index>16</Index>
+    </AnimatedTexture>
+    <Portrait>
+      <AnimatedTexture>
+        <File>spiderDenChars16x16</File>
+        <Index>16</Index>
+      </AnimatedTexture>
+    </Portrait>
+    <HitSound>monster/bats_hit</HitSound>
+    <DeathSound>monster/bats_death</DeathSound>
+    <MaxHitPoints>40000</MaxHitPoints>
+    <Defense>20</Defense>
+    <Exp>0</Exp>
+    <Size>140</Size>
+    <StasisImmune />
+    <ParalyzeImmune />
+    <StunImmune />
+    <Quest />
+    <DontFaceAttacks />
+    <HealthBarBoss />
+    <AlwaysPositiveHealth />
+    <Flying />
+    <Z>0.2</Z>
+    <Projectile id="0">
+      <ObjectId>Green Twirl</ObjectId>
+      <Damage>110</Damage>
+      <Speed>70</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Size>90</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <ConditionEffect duration="2">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Green Twirl</ObjectId>
+      <Damage>110</Damage>
+      <Speed>5</Speed>
+      <LifetimeMS>3500</LifetimeMS>
+      <Size>90</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <ConditionEffect duration="2">Stunned</ConditionEffect>
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Bright Leaf Magic</ObjectId>
+      <Speed>60</Speed>
+      <Damage>150</Damage>
+      <Size>150</Size>
+      <LifetimeMS>1600</LifetimeMS>
+      <MultiHit />
+      <FaceDir />
+      <Amplitude>2.8</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>Bright Leaf Magic</ObjectId>
+      <Speed>60</Speed>
+      <Damage>150</Damage>
+      <Size>140</Size>
+      <LifetimeMS>1400</LifetimeMS>
+      <MultiHit />
+      <FaceDir />
+      <Amplitude>2.8</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="4">
+      <ObjectId>Bright Leaf Magic</ObjectId>
+      <Speed>60</Speed>
+      <Damage>150</Damage>
+      <Size>130</Size>
+      <LifetimeMS>1200</LifetimeMS>
+      <MultiHit />
+      <FaceDir />
+      <Amplitude>2.8</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="5">
+      <ObjectId>Bright Leaf Magic</ObjectId>
+      <Speed>60</Speed>
+      <Damage>150</Damage>
+      <Size>120</Size>
+      <LifetimeMS>1000</LifetimeMS>
+      <MultiHit />
+      <FaceDir />
+      <Amplitude>2.8</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="6">
+      <ObjectId>Bright Leaf Magic</ObjectId>
+      <Speed>60</Speed>
+      <Damage>150</Damage>
+      <Size>110</Size>
+      <LifetimeMS>800</LifetimeMS>
+      <MultiHit />
+      <FaceDir />
+      <Amplitude>2.8</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="7">
+      <ObjectId>Bright Leaf Magic</ObjectId>
+      <Speed>60</Speed>
+      <Damage>150</Damage>
+      <Size>100</Size>
+      <LifetimeMS>600</LifetimeMS>
+      <MultiHit />
+      <FaceDir />
+      <Amplitude>2.8</Amplitude>
+      <Frequency>0.5</Frequency>
+    </Projectile>
+    <Projectile id="8">
+      <ObjectId>Larva Fluid</ObjectId>
+      <Damage>100</Damage>
+      <Speed>80</Speed>
+      <LifetimeMS>2000</LifetimeMS>
+      <Size>125</Size>
+      <MultiHit />
+      <ArmorPiercing />
+      <Wavy />
+      <FaceDir />
+    </Projectile>
+    <KillStat stat="BeastKills" />
+    <KillStat stat="GodKills" />
+    <DamageBasedXP />
+  </Object>
+  <Object type="0x707b" id="Murderous Megamoth">
+    <DisplayId>Murderous Megamoth</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <AnimatedTexture>
+      <File>spiderDenChars16x16</File>
+      <Index>17</Index>
+    </AnimatedTexture>
+    <Portrait>
+      <AnimatedTexture>
+        <File>spiderDenChars16x16</File>
+        <Index>17</Index>
+      </AnimatedTexture>
+    </Portrait>
+    <HitSound>monster/bats_hit</HitSound>
+    <DeathSound>monster/bats_death</DeathSound>
+    <MaxHitPoints>50000</MaxHitPoints>
+    <Defense>25</Defense>
+    <Exp>15000</Exp>
+    <Size>170</Size>
+    <EventChestBoss />
+    <TrackLoot />
+    <StasisImmune />
+    <ParalyzeImmune />
+    <StunImmune />
+    <God />
+    <Quest />
+    <DontFaceAttacks />
+    <Flying />
+    <Z>0.2</Z>
+    <Projectile id="0">
+      <ObjectId>Bright Leaf Magic</ObjectId>
+      <Damage>125</Damage>
+      <Speed>80</Speed>
+      <Size>75</Size>
+      <LifetimeMS>3000</LifetimeMS>
+      <ConditionEffect duration="3">Quiet</ConditionEffect>
+      <Boomerang />
+      <MultiHit />
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Leaf Arrow</ObjectId>
+      <Size>115</Size>
+      <Speed>20</Speed>
+      <Damage>220</Damage>
+      <LifetimeMS>10000</LifetimeMS>
+      <MultiHit />
+      <FaceDir />
+      <Wavy />
+    </Projectile>
+    <Projectile id="2">
+      <ObjectId>Yellow Twirl</ObjectId>
+      <Damage>135</Damage>
+      <Speed>50</Speed>
+      <Acceleration>-50</Acceleration>
+      <AccelerationDelay>500</AccelerationDelay>
+      <SpeedClamp>10</SpeedClamp>
+      <LifetimeMS>6000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+      <Wavy />
+    </Projectile>
+    <Projectile id="3">
+      <ObjectId>Yellow Twirl</ObjectId>
+      <Damage>135</Damage>
+      <Speed>75</Speed>
+      <Acceleration>-50</Acceleration>
+      <AccelerationDelay>500</AccelerationDelay>
+      <SpeedClamp>10</SpeedClamp>
+      <LifetimeMS>6000</LifetimeMS>
+      <Size>100</Size>
+      <MultiHit />
+    </Projectile>
+    <Projectile id="4">
+      <ObjectId>Dark Autumn Glaive</ObjectId>
+      <Damage>155</Damage>
+      <LifetimeMS>10000</LifetimeMS>
+      <Magnitude>4</Magnitude>
+      <Parametric />
+      <FaceDir />
+      <Size>125</Size>
+    </Projectile>
+    <Projectile id="5">
+      <ObjectId>Green Twirl</ObjectId>
+      <Speed>75</Speed>
+      <Damage>135</Damage>
+      <Size>95</Size>
+      <LifetimeMS>3000</LifetimeMS>
+      <MultiHit />
+      <ArmorPiercing />
+    </Projectile>
+    <HealthBarBoss radius="20" />
+    <KillStat stat="BeastKills" />
+    <KillStat stat="GodKills" />
+    <DamageBasedXP />
+  </Object>
+  <Object type="0x2384" id="Woodland Wall">
+    <Class>Wall</Class>
+    <RandomTexture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x132</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x13b</Index>
+      </Texture>
+    </RandomTexture>
+    <Top>
+      <RandomTexture>
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0x13c</Index>
+        </Texture>
+        <Texture>
+          <File>lofiEnvironment3</File>
+          <Index>0xdc</Index>
+        </Texture>
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0x13d</Index>
+        </Texture>
+        <Texture>
+          <File>lofiEnvironment3</File>
+          <Index>0xdc</Index>
+        </Texture>
+        <Texture>
+          <File>spiderDenObjects8x8</File>
+          <Index>0x13e</Index>
+        </Texture>
+        <Texture>
+          <File>lofiEnvironment3</File>
+          <Index>0xdc</Index>
+        </Texture>
+      </RandomTexture>
+    </Top>
+    <Static />
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <BlocksSight />
+    <Color>0x000000</Color>
+  </Object>
+  <Object type="0x2382" id="Woodland Obstacle">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x22</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x23</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x24</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x25</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x26</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x27</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x36</Index>
+      </Texture>
+    </RandomTexture>
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <MinSize>110</MinSize>
+    <MaxSize>130</MaxSize>
+    <SizeStep>5</SizeStep>
+    <Static />
+    <NoMiniMap />
+  </Object>
+  <Object type="0x2391" id="Woodland Tree">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x20</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x38</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x39</Index>
+      </Texture>
+    </RandomTexture>
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <Size>180</Size>
+    <Static />
+    <NoMiniMap />
+  </Object>
+  <Object type="0x2383" id="Woodland Leaf Pile">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x30</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x31</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x32</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x33</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x34</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x35</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x40</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x41</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x42</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x43</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x44</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects16x16</File>
+        <Index>0x45</Index>
+      </Texture>
+    </RandomTexture>
+    <MinSize>80</MinSize>
+    <MaxSize>110</MaxSize>
+    <SizeStep>5</SizeStep>
+    <ShadowSize>60</ShadowSize>
+    <Static />
+    <NoMiniMap />
+  </Object>
+  <Object type="0x2385" id="Woodland Fungi">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x140</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x141</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x142</Index>
+      </Texture>
+    </RandomTexture>
+    <MinSize>70</MinSize>
+    <MaxSize>100</MaxSize>
+    <SizeStep>5</SizeStep>
+    <Static />
+  </Object>
+  <Object type="0x2386" id="Woodland Flora">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x143</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x144</Index>
+      </Texture>
+    </RandomTexture>
+    <MinSize>70</MinSize>
+    <MaxSize>100</MaxSize>
+    <SizeStep>5</SizeStep>
+    <Static />
+  </Object>
+  <Object type="0x2387" id="Woodland Stone">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x145</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x146</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x17f</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x147</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x148</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x17f</Index>
+      </Texture>
+    </RandomTexture>
+    <MinSize>70</MinSize>
+    <MaxSize>100</MaxSize>
+    <SizeStep>5</SizeStep>
+    <Static />
+  </Object>
+  <Object type="0x23a1" id="Woodland Mini Acorn">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>spiderDenObjects8x8</File>
+      <Index>0x17f</Index>
+    </Texture>
+    <MinSize>70</MinSize>
+    <MaxSize>100</MaxSize>
+    <SizeStep>5</SizeStep>
+    <Static />
+  </Object>
+  <Object type="0x23a0" id="Woodland Mini Tree">
+    <Class>GameObject</Class>
+    <RandomTexture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x2b0</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x2b1</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x2b2</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x2b3</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x2b4</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x2b5</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x2b6</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x2b7</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x2b8</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x2b9</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x2ba</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x2bb</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x2bc</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x2bd</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x2be</Index>
+      </Texture>
+      <Texture>
+        <File>spiderDenObjects8x8</File>
+        <Index>0x2bf</Index>
+      </Texture>
+    </RandomTexture>
+    <MinSize>80</MinSize>
+    <MaxSize>110</MaxSize>
+    <SizeStep>5</SizeStep>
+    <Static />
+  </Object>
+  <Object type="0x2394" id="Woodland Massive Acorn">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>spiderDenObjects16x16</File>
+      <Index>0x37</Index>
+    </Texture>
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <Size>120</Size>
+    <Static />
+    <NoMiniMap />
+  </Object>
+  <Object type="0x2393" id="Woodland Sword Selector">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>spiderDenObjects16x16</File>
+      <Index>0x3a</Index>
+    </Texture>
+    <Size>0</Size>
+  </Object>
+  <Object type="0x2395" id="Woodland Sword Stone">
+    <Class>GameObject</Class>
+    <Texture>
+      <File>spiderDenObjects16x16</File>
+      <Index>0x3a</Index>
+    </Texture>
+    <FullOccupy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <Size>120</Size>
+    <ShadowSize>100</ShadowSize>
+    <Static />
+    <NoMiniMap />
+  </Object>
+  <Object type="0x2396" id="Woodland Skysplitter Stone">
+    <Class>Character</Class>
+    <Enemy />
+    <OccupySquare />
+    <EnemyOccupySquare />
+    <Static />
+    <Texture>
+      <File>spiderDenObjects16x16</File>
+      <Index>0x3b</Index>
+    </Texture>
+    <HitSound>monster/rocks_hit</HitSound>
+    <DeathSound>monster/stone_walls_death</DeathSound>
+    <Size>120</Size>
+    <ShadowSize>100</ShadowSize>
+    <MaxHitPoints>1000</MaxHitPoints>
+    <Defense>10</Defense>
+    <Exp>0</Exp>
+    <Color>0xAAAAAA</Color>
+    <KillStat stat="StructureKills" />
+  </Object>
+  <Object type="0x2392" id="Woodland Butterfly">
+    <Class>Character</Class>
+    <RandomTexture>
+      <AnimatedTexture>
+        <File>spiderDenChars8x8</File>
+        <Index>29</Index>
+      </AnimatedTexture>
+      <AnimatedTexture>
+        <File>spiderDenChars8x8</File>
+        <Index>30</Index>
+      </AnimatedTexture>
+      <AnimatedTexture>
+        <File>spiderDenChars8x8</File>
+        <Index>31</Index>
+      </AnimatedTexture>
+      <AnimatedTexture>
+        <File>spiderDenChars8x8</File>
+        <Index>32</Index>
+      </AnimatedTexture>
+      <AnimatedTexture>
+        <File>spiderDenChars8x8</File>
+        <Index>33</Index>
+      </AnimatedTexture>
+      <AnimatedTexture>
+        <File>spiderDenChars8x8</File>
+        <Index>34</Index>
+      </AnimatedTexture>
+      <AnimatedTexture>
+        <File>spiderDenChars8x8</File>
+        <Index>35</Index>
+      </AnimatedTexture>
+      <AnimatedTexture>
+        <File>spiderDenChars8x8</File>
+        <Index>36</Index>
+      </AnimatedTexture>
+    </RandomTexture>
+    <Z>0.27</Z>
+    <Flying />
+    <MinSize>55</MinSize>
+    <MaxSize>65</MaxSize>
+    <SizeStep>5</SizeStep>
+    <ShadowSize>30</ShadowSize>
+    <NoMiniMap />
+  </Object>
+</Objects>

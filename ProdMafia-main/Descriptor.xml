@@ -1,0 +1,15 @@
+<application xmlns="http://ns.adobe.com/air/application/32.0">
+  <id>ProdMafia</id>
+  <filename>ProdMafia</filename>
+  <name>ProdMafia</name>
+  <versionNumber>9</versionNumber>
+  <initialWindow>
+    <content>ProdMafia.swf</content>
+    <title>ProdMafia</title>
+    <visible>true</visible>
+    <renderMode>direct</renderMode>
+    <depthAndStencil>false</depthAndStencil>
+  </initialWindow>
+  <supportedProfiles>desktop extendedDesktop</supportedProfiles>
+  <gpuPreference>discrete</gpuPreference>
+</application>
